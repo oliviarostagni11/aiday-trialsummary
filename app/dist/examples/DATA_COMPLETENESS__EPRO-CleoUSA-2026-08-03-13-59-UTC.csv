@@ -1,0 +1,1961 @@
+﻿participant_id,site_id,site,encounter,form_title,form_variable,num_available,num_expired,num_completed,num_skipped,supp_num_overdue
+USA-001,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-001,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-002,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-002,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-003,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-003,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-004,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-004,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-005,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-005,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-006,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-006,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-007,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-007,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-010,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-010,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-011,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-011,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-012,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-012,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-014,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-014,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-015,CDX-DHW,ES Clinical Research Group,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-015,CDX-DHW,ES Clinical Research Group,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-016,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-016,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-017,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-017,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-018,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-018,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-019,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-019,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-021,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-021,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-022,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-022,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-023,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-023,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-024,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-024,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-027,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-027,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-028,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-028,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-029,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-029,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-030,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-030,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-031,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-031,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-032,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-032,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-033,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-033,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-034,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-034,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-035,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-035,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-036,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-036,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-038,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-038,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-039,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-039,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-040,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-040,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-041,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-041,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-042,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-042,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-044,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-044,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-045,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-045,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-046,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-046,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-047,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-047,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-048,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-048,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-049,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-049,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-050,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-050,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-051,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-051,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-052,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-052,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-053,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-053,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-055,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-055,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-056,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-056,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-057,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-057,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-058,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-058,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-059,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-059,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-060,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-060,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-061,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-061,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-062,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-062,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-063,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-063,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-064,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-064,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-065,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-065,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-066,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-066,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-067,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-067,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-068,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-068,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-070,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-070,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-072,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-072,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-073,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-073,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-074,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-074,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-075,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-075,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-076,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-076,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-077,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-077,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-078,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-078,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-079,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-079,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-080,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-080,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-081,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-081,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-082,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-082,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-084,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-084,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-085,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-085,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-086,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-086,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-087,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-087,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-088,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-088,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-091,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-091,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-092,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-092,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-094,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-094,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-095,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-095,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-096,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-096,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-097,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-097,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-098,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-098,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-100,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-100,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-102,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-102,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-103,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-103,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-104,CDX-APM,AP Medical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-104,CDX-APM,AP Medical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-107,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-107,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-108,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-108,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-109,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-109,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-110,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-110,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-112,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-112,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-113,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-113,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-114,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-114,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-115,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-115,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-116,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-116,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-117,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-117,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-118,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-118,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-119,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-119,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-121,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-121,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-122,CDX-APM,AP Medical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-122,CDX-APM,AP Medical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-124,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-124,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-125,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-125,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-126,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-126,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-128,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-128,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-129,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-129,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-130,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-130,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-131,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-131,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-132,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-132,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-133,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-133,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-135,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-135,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-136,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-136,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-137,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-137,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-138,CDX-ECW,Eastern Carolina Women's,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-138,CDX-ECW,Eastern Carolina Women's,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-139,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-139,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-140,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-140,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-141,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-141,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-142,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-142,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-144,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-144,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-145,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-145,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-146,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-146,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-147,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-147,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-148,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-148,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-149,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-149,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-150,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-150,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-151,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-151,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-152,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-152,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-153,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-153,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-154,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-154,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-155,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-155,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-156,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-156,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-157,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-157,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-158,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-158,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-159,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-159,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-160,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-160,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-161,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-161,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-162,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-162,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-163,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-163,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-165,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-165,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-166,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-166,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-167,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-167,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-169,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-169,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-170,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-170,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-172,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-172,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-173,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-173,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-174,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-174,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-177,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-177,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-178,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-178,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-179,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-179,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-180,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-180,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-181,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-181,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-182,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-182,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-183,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-183,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-185,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-185,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-187,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-187,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-189,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-189,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-190,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-190,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-192,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-192,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-194,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-194,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-196,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-196,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-197,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-197,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-198,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-198,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-199,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-199,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-201,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-201,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-203,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-203,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-206,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-206,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-208,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-208,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-211,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-211,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-213,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-213,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-214,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-214,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-215,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-215,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-216,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-216,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-217,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-217,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-218,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-218,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-219,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-219,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-220,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-220,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-223,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-223,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-224,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-224,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-226,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-226,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-227,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-227,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-228,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-228,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-229,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-229,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-230,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-230,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-231,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-231,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-232,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-232,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-233,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-233,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-234,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-234,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-235,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-235,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-236,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-236,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-239,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-239,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-240,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-240,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-243,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-243,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-245,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-245,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-246,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-246,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-247,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-247,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-248,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-248,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-249,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-249,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-250,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-250,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-251,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-251,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-252,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-252,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-254,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-254,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-255,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-255,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-258,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-258,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-259,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-259,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-262,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-262,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-265,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-265,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-266,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-266,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-267,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-267,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-268,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-268,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-269,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-269,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-270,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-270,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-271,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-271,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-272,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-272,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-273,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-273,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-274,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-274,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-276,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-276,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-277,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-277,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-278,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-278,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-279,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-279,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-281,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-281,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-282,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-282,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-283,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-283,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-285,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-285,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-286,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-286,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-287,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-287,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-288,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-288,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-289,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-289,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-291,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-291,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-292,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-292,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-294,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-294,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-295,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-295,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-297,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-297,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-299,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-299,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-301,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-301,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-304,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-304,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-306,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-306,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-308,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-308,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-309,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-309,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-310,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-310,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-311,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-311,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-312,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-312,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-313,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-313,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-314,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-314,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-318,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-318,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-319,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-319,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-320,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-320,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-321,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-321,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-322,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-322,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-323,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-323,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-324,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-324,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-326,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-326,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-327,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-327,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-329,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-329,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-331,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-331,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-332,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-332,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-333,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-333,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-334,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-334,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-335,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-335,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-336,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-336,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-337,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-337,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-338,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-338,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-339,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-339,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-340,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-340,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-343,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-343,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-345,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-345,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-346,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-346,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-348,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-348,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-349,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-349,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-350,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-350,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-356,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-356,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-357,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-357,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-358,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-358,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-359,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-359,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-360,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-360,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-361,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-361,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-362,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-362,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-363,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-363,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-364,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-364,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-365,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-365,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-366,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-366,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-368,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-368,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-369,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-369,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-370,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-370,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-371,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-371,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-372,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-372,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-373,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-373,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-375,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-375,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-376,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-376,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-377,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-377,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-378,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-378,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-379,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-379,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-380,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-380,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-381,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-381,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-382,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-382,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-383,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-383,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-384,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-384,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-385,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-385,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-387,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-387,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-388,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-388,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-389,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-389,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-391,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-391,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-392,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-392,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-393,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-393,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-394,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-394,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-395,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-395,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-396,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-396,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-397,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-397,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-400,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-400,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-401,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-401,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-402,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-402,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-403,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-403,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-404,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-404,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-407,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-407,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-408,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-408,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-409,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-409,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-410,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-410,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-411,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-411,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-412,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-412,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-413,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-413,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-414,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-414,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-415,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-415,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-416,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-416,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-417,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-417,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-418,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-418,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-419,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-419,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-420,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-420,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-421,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-421,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-422,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-422,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-423,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-423,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-425,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-425,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-426,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-426,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-428,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-428,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-429,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-429,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-430,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-430,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-431,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-431,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-433,CDX-PCR,Prime Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-433,CDX-PCR,Prime Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-434,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-434,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-436,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-436,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-437,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-437,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-438,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-438,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-439,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-439,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-440,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-440,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-442,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-442,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-443,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-443,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-445,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-445,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-446,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-446,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-447,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-447,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-448,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-448,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-449,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-449,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-451,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-451,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-452,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-452,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-453,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-453,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-454,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-454,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-455,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-455,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-456,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-456,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-457,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-457,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-458,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-458,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-459,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-459,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-460,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-460,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-461,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-461,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-462,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-462,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-463,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-463,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-464,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-464,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-466,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-466,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-467,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-467,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-468,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-468,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-469,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-469,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-470,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-470,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-471,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-471,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-472,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-472,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-473,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-473,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-474,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-474,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-475,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-475,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-476,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-476,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-477,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-477,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-478,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-478,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-479,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-479,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-481,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-481,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-482,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-482,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-483,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-483,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-484,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-484,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-485,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-485,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-488,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-488,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-489,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-489,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-491,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-491,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-492,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-492,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-493,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-493,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-494,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-494,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-495,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-495,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-496,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-496,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-497,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-497,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-498,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-498,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-499,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-499,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-500,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-500,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-501,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-501,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-503,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-503,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-506,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-506,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-509,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-509,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-510,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-510,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-511,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-511,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-513,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-513,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-514,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-514,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-515,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-515,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-516,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-516,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-517,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-517,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-518,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-518,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-520,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-520,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-523,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-523,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-524,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-524,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-526,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-526,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-527,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-527,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-528,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-528,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-529,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-529,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-530,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-530,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-531,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-531,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-533,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-533,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-534,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-534,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-535,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-535,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-536,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-536,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-537,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-537,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-539,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-539,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-540,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-540,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-541,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-541,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-542,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-542,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-543,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-543,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-546,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-546,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-547,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-547,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-548,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-548,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-550,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-550,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-551,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-551,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-552,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-552,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-553,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-553,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-554,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-554,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-556,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-556,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-557,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-557,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-558,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-558,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-559,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-559,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-565,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-565,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-566,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-566,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-567,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-567,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-568,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-568,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-569,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-569,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-570,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-570,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-571,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-571,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-575,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-575,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-577,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-577,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-578,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-578,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-579,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-579,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-582,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-582,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-583,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-583,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-585,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-585,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-587,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-587,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-588,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-588,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-589,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-589,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-590,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-590,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-591,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-591,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-592,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-592,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-594,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-594,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-595,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-595,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-596,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-596,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-597,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-597,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-598,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-598,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-599,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-599,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-600,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-600,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-601,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-601,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-602,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-602,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-603,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-603,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-604,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-604,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-605,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-605,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-606,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-606,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-607,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-607,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-610,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-610,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-611,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-611,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-612,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-612,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-613,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-613,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-614,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-614,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-616,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-616,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-617,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-617,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-618,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-618,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-619,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-619,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-620,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-620,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-621,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-621,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-622,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-622,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-623,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-623,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-624,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-624,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-625,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-625,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-626,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-626,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-627,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-627,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-628,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-628,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-629,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-629,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-630,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-630,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-632,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-632,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-633,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-633,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-634,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-634,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-635,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-635,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-636,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-636,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-638,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-638,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-639,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-639,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-640,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-640,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-641,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-641,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-642,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-642,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-643,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-643,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-644,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-644,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-645,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-645,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-647,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-647,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-649,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-649,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-650,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-650,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-651,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-651,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-653,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-653,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-654,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-654,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-655,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-655,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-656,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-656,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-657,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-657,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-658,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-658,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-659,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-659,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-660,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-660,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-663,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-663,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-665,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-665,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-666,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-666,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-667,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-667,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-668,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-668,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-669,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-669,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-670,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-670,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-671,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-671,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-674,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-674,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-677,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-677,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-678,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-678,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-679,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-679,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-680,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-680,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-681,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-681,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-682,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-682,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-684,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-684,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-685,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-685,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-686,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-686,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-687,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-687,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-688,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-688,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-689,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-689,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-690,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-690,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-691,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-691,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-692,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-692,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-694,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-694,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-695,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-695,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-696,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-696,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-697,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-697,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-698,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-698,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-699,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-699,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-700,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-700,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-701,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-701,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-702,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-702,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-703,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-703,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-704,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-704,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-706,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-706,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-707,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-707,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-708,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-708,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-709,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-709,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-710,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-710,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-711,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-711,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-714,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-714,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-715,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-715,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-716,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-716,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-717,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-717,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-718,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-718,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-719,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-719,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-720,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-720,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-721,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-721,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-724,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-724,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-725,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-725,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-726,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-726,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-727,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-727,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-728,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-728,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-729,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-729,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-730,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-730,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-732,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-732,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-733,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-733,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-734,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-734,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-736,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-736,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-737,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-737,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-738,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-738,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-739,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-739,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-742,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-742,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-746,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-746,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-747,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-747,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-748,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-748,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-749,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-749,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-750,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-750,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-753,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-753,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-754,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-754,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-755,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-755,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-756,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-756,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-757,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-757,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-758,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-758,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-759,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-759,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-760,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-760,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-761,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-761,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-762,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-762,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-763,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-763,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-765,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-765,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-766,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-766,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-767,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-767,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-768,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-768,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-769,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-769,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-770,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-770,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-771,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-771,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-773,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-773,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-774,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-774,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-775,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-775,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-776,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-776,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-777,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-777,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-778,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-778,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-779,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-779,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-780,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-780,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-781,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-781,CDX-NIC,Next Innovative Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-782,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-782,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-783,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-783,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-784,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-784,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-785,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-785,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-787,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-787,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-789,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-789,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-790,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-790,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-792,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-792,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-794,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-794,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-795,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-795,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-796,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-796,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-797,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-797,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-798,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-798,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-799,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-799,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-800,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-800,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-801,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-801,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-802,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-802,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-803,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-803,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-804,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-804,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-805,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-805,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-808,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-808,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-809,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-809,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-810,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-810,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-811,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-811,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-812,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-812,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-816,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-816,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-817,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-817,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-818,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-818,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-819,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-819,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-820,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-820,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-821,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-821,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-822,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-822,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-824,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-824,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-825,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-825,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-826,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-826,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-828,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-828,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-829,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-829,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-830,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-830,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-831,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-831,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-832,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-832,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-833,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-833,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-835,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-835,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-837,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-837,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-838,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-838,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-839,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-839,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-840,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-840,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-842,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-842,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-844,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-844,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-845,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-845,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-846,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-846,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-847,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-847,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-848,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-848,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-849,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-849,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-850,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-850,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-852,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-852,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-855,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-855,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-859,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-859,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-860,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-860,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-861,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-861,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-862,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-862,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-863,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-863,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-864,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-864,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-865,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-865,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-866,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-866,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-867,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-867,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-868,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-868,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-869,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-869,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-870,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-870,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-871,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-871,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-872,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-872,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-874,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-874,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-875,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-875,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-876,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-876,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-878,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-878,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-879,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-879,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-880,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-880,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-881,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-881,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-882,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-882,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-883,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-883,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-884,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-884,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-885,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-885,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-886,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-886,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-887,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-887,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-888,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-888,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-889,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-889,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-891,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-891,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-892,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-892,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-895,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-895,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-896,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-896,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-897,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-897,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-898,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-898,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-899,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-899,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-900,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-900,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-901,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-901,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-902,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-902,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-907,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-907,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-908,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-908,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-909,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-909,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-913,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-913,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-914,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-914,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-915,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-915,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-916,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-916,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-917,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-917,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-918,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-918,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-919,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-919,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-920,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-920,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-921,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-921,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-922,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-922,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-923,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-923,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-924,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-924,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-925,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-925,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-926,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-926,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-928,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-928,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-929,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-929,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-930,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-930,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-931,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-931,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-933,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-933,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-934,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-934,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-935,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-935,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-936,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-936,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-938,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-938,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-939,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-939,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-941,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-941,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-942,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-942,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-944,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-944,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-945,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-945,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-946,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-946,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-947,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-947,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-948,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-948,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-949,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-949,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-950,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-950,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-951,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-951,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-954,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-954,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-956,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-956,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-957,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-957,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-959,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-959,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-961,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-961,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-962,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-962,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-963,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-963,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-965,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-965,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-966,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-966,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-968,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-968,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-970,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-970,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-971,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-971,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-973,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-973,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-978,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-978,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-979,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-979,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-980,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-980,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-981,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-981,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-982,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-982,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-983,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-983,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-984,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-984,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-985,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-985,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-986,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-986,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-988,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-988,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-989,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-989,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-990,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-990,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-991,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-991,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-992,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-992,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-993,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-993,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-994,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-994,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-995,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-995,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-996,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-996,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-997,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-997,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-998,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-998,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-999,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-999,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-1000,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1000,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1002,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1002,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1003,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1003,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1004,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1004,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1006,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1006,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1007,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1007,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1011,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1011,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1013,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1013,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1014,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1014,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1019,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1019,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1020,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1020,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1021,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1021,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1022,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1022,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1023,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1023,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1024,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1024,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1025,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1025,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1026,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1026,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1027,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1027,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1028,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1028,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1030,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-1030,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1035,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1035,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1036,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1036,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1037,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1037,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1038,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1038,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1039,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1039,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1040,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1040,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1041,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1041,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1042,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1042,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1043,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1043,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1044,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1044,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1045,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1045,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1047,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1047,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1048,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1048,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-1049,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1049,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1051,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1051,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1052,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1052,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1055,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1055,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-1056,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1056,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1057,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1057,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1058,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1058,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1059,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1059,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1060,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1060,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1063,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1063,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1064,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1064,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1065,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1065,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1066,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1066,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-1067,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1067,CDX-VWH,Virginia Women's Health Associates,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1068,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-1068,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1069,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1069,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1070,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1070,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1072,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1072,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1073,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1073,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1074,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1074,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1075,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1075,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1079,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1079,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1080,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1080,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1081,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-1081,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1082,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1082,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1083,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1083,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1084,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1084,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-1085,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1085,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1086,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1086,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1087,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1087,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1089,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1089,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1090,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1090,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1092,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1092,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1093,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1093,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1094,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1094,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1095,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1095,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1097,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1097,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1099,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1099,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1100,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1100,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1101,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-1101,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1102,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1102,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1104,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1104,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1105,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1105,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1106,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1106,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1107,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1107,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1109,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1109,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-1110,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1110,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1111,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1111,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1112,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1112,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1113,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1113,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1114,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1114,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1115,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1115,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-1117,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-1117,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1118,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1118,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1120,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1120,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1121,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1121,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1122,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1122,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1123,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1123,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1124,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-1124,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1125,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1125,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1126,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1126,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1127,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1127,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1128,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1128,CDX-WHP,Women's Health Pavilion,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1129,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1129,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1130,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1130,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1131,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1131,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1133,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1133,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1135,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1135,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1139,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1139,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1140,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1140,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1141,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1141,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1142,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1142,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1143,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1143,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1144,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1144,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1145,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1145,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-1146,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1146,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1147,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-1147,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1148,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1148,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1149,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1149,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1150,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-1150,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1151,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1151,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1152,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1152,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1153,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1153,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1154,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1154,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1155,CDX-MAX,Maximos Obgyn,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1155,CDX-MAX,Maximos Obgyn,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1157,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1157,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1158,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1158,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1159,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1159,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1160,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1160,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1161,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1161,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1162,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1162,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1164,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1164,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1165,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1165,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1166,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1166,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1167,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1167,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-1168,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1168,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1169,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1169,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1170,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1170,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1174,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1174,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1175,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1175,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1176,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1176,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1177,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1177,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1179,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1179,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1180,CDX-SPF,Springfield Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1180,CDX-SPF,Springfield Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1182,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1182,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-1184,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1184,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1185,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1185,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1186,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1186,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1187,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1187,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1189,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1189,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1190,CDX-VCR,Vast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1190,CDX-VCR,Vast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1192,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1192,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1194,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1194,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1195,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1195,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1196,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1196,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1197,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1197,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1198,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1198,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1199,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1199,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1201,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1201,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1202,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1202,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,0,1,0
+USA-1203,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1203,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1204,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1204,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1206,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1206,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1207,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1207,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1210,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1210,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,1,0,0,0
+USA-1211,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-1211,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1212,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1212,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1214,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1214,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1215,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1215,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,0
+USA-1216,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1216,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1220,CDX-JCR,The Jackson Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1220,CDX-JCR,The Jackson Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1221,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1221,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1222,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1222,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1223,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,0,1,0
+USA-1223,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1225,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1225,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1226,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-1226,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1227,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1227,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1228,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1228,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1229,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1229,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-1230,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1230,CDX-RSH,RUSH University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1232,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1232,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,0
+USA-1233,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1233,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,1
+USA-1234,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1234,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1235,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1235,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1236,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1236,CDX-ECC,Emerald Coast Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1237,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1237,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1240,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1240,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1242,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,1
+USA-1242,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1244,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1244,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1246,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1246,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1249,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1249,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1250,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1250,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1252,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1252,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1254,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,1,0,0,0
+USA-1254,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1255,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1255,CDX-CUI,Columbia University Irving Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,0
+USA-1256,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1256,CDX-NHC,New Horizons Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,0
+USA-1257,CDX-CCM,Cleveland Clinic,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1257,CDX-CCM,Cleveland Clinic,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1258,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1258,CDX-BID,Beth Israel Deaconess,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,0
+USA-1259,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1259,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1261,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1261,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,0
+USA-1263,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1263,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1264,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1264,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,0
+USA-1268,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Demographics ePRO,DEMOEPRO,0,0,1,0,0
+USA-1268,CDX-VCA,Velocity Clinical Research,Enrolment Visit,Medical History ePRO,MHQEPRO,0,0,1,0,0
+USA-1270,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1270,CDX-HCA,HCA Florida Physicians,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,0
+USA-1272,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1272,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,0
+USA-1273,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1273,CDX-UFJ,Univ. of Florida Jacksonville,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,0
+USA-1274,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1274,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,0
+USA-1276,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1276,CDX-WCC,Women's Center of Nevada,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,0
+USA-1277,CDX-DMC,Duke University Medical Center,Enrolment Visit,Demographics ePRO,DEMOEPRO,1,0,0,0,0
+USA-1277,CDX-DMC,Duke University Medical Center,Enrolment Visit,Medical History ePRO,MHQEPRO,1,0,0,0,0

@@ -1,0 +1,1809 @@
+﻿section,table,row,column,value
+Enrollment,Recruitment summary,Consented,July 2026,72
+Enrollment,Recruitment summary,Consented,To date (to 31 Jul 2026),974
+Enrollment,Recruitment summary,Enrolled,July 2026,66
+Enrollment,Recruitment summary,Enrolled,To date (to 31 Jul 2026),884
+Enrollment,Recruitment summary,Screen failures,July 2026,2
+Enrollment,Recruitment summary,Screen failures,To date (to 31 Jul 2026),49
+Enrollment,Recruitment summary,Withdrawals,July 2026,2
+Enrollment,Recruitment summary,Withdrawals,To date (to 31 Jul 2026),20
+Enrollment,Recruitment summary,Completed study,July 2026,44
+Enrollment,Recruitment summary,Completed study,To date (to 31 Jul 2026),678
+Enrollment,Consent to enrollment,Consented in Jul 2026 and enrolled by month end,n,63
+Enrollment,Consent to enrollment,Consented in Jul 2026 and enrolled by month end,Denominator,72 consented in Jul 2026
+Enrollment,Consent to enrollment,Consented in Jul 2026 and enrolled by month end,%,0.875
+Enrollment,Consent to enrollment,Enrolled to date,n,884
+Enrollment,Consent to enrollment,Enrolled to date,Denominator,974 consented to date
+Enrollment,Consent to enrollment,Enrolled to date,%,0.9076
+Enrollment,Consent to enrollment,Screen failures to date,n,49
+Enrollment,Consent to enrollment,Screen failures to date,Denominator,974 consented to date
+Enrollment,Consent to enrollment,Screen failures to date,%,0.0503
+Enrollment,Participant status at month end (31 Jul 2026),"Consented, not yet enrolled",Participants,41
+Enrollment,Participant status at month end (31 Jul 2026),"Consented, not yet enrolled",% of consented,0.0421
+Enrollment,Participant status at month end (31 Jul 2026),"Enrolled, active",Participants,186
+Enrollment,Participant status at month end (31 Jul 2026),"Enrolled, active",% of consented,0.191
+Enrollment,Participant status at month end (31 Jul 2026),Completed,Participants,678
+Enrollment,Participant status at month end (31 Jul 2026),Completed,% of consented,0.6961
+Enrollment,Participant status at month end (31 Jul 2026),Withdrawn,Participants,20
+Enrollment,Participant status at month end (31 Jul 2026),Withdrawn,% of consented,0.0205
+Enrollment,Participant status at month end (31 Jul 2026),Screen failed,Participants,49
+Enrollment,Participant status at month end (31 Jul 2026),Screen failed,% of consented,0.0503
+Enrollment,Participant status at month end (31 Jul 2026),Total consented,Participants,974
+Enrollment,Participant status at month end (31 Jul 2026),Total consented,% of consented,1.0
+Enrollment,"Enrollments by site and week, July 2026",AP Medical Research,Type,General Onc
+Enrollment,"Enrollments by site and week, July 2026",AP Medical Research,29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",AP Medical Research,6 Jul–12 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",AP Medical Research,13 Jul–19 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",AP Medical Research,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",AP Medical Research,27 Jul–2 Aug*,0
+Enrollment,"Enrollments by site and week, July 2026",AP Medical Research,Jul 2026 total,0
+Enrollment,"Enrollments by site and week, July 2026",AP Medical Research,Per week,0.0
+Enrollment,"Enrollments by site and week, July 2026",AP Medical Research,Enrolled to date,2
+Enrollment,"Enrollments by site and week, July 2026",AP Medical Research,Months active,16.46
+Enrollment,"Enrollments by site and week, July 2026",AP Medical Research,Per month since activation,0.1215
+Enrollment,"Enrollments by site and week, July 2026",Beth Israel Deaconess,Type,Gyn/Onc
+Enrollment,"Enrollments by site and week, July 2026",Beth Israel Deaconess,29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",Beth Israel Deaconess,6 Jul–12 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",Beth Israel Deaconess,13 Jul–19 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",Beth Israel Deaconess,20 Jul–26 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",Beth Israel Deaconess,27 Jul–2 Aug*,1
+Enrollment,"Enrollments by site and week, July 2026",Beth Israel Deaconess,Jul 2026 total,4
+Enrollment,"Enrollments by site and week, July 2026",Beth Israel Deaconess,Per week,0.9032
+Enrollment,"Enrollments by site and week, July 2026",Beth Israel Deaconess,Enrolled to date,59
+Enrollment,"Enrollments by site and week, July 2026",Beth Israel Deaconess,Months active,9.7577
+Enrollment,"Enrollments by site and week, July 2026",Beth Israel Deaconess,Per month since activation,6.0465
+Enrollment,"Enrollments by site and week, July 2026",Cleveland Clinic,Type,Gyn/Onc
+Enrollment,"Enrollments by site and week, July 2026",Cleveland Clinic,29 Jun–5 Jul*,1
+Enrollment,"Enrollments by site and week, July 2026",Cleveland Clinic,6 Jul–12 Jul,2
+Enrollment,"Enrollments by site and week, July 2026",Cleveland Clinic,13 Jul–19 Jul,2
+Enrollment,"Enrollments by site and week, July 2026",Cleveland Clinic,20 Jul–26 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",Cleveland Clinic,27 Jul–2 Aug*,3
+Enrollment,"Enrollments by site and week, July 2026",Cleveland Clinic,Jul 2026 total,9
+Enrollment,"Enrollments by site and week, July 2026",Cleveland Clinic,Per week,2.0323
+Enrollment,"Enrollments by site and week, July 2026",Cleveland Clinic,Enrolled to date,63
+Enrollment,"Enrollments by site and week, July 2026",Cleveland Clinic,Months active,9.6591
+Enrollment,"Enrollments by site and week, July 2026",Cleveland Clinic,Per month since activation,6.5223
+Enrollment,"Enrollments by site and week, July 2026",Columbia University Irving Medical Center,Type,Gyn/Onc
+Enrollment,"Enrollments by site and week, July 2026",Columbia University Irving Medical Center,29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",Columbia University Irving Medical Center,6 Jul–12 Jul,2
+Enrollment,"Enrollments by site and week, July 2026",Columbia University Irving Medical Center,13 Jul–19 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Columbia University Irving Medical Center,20 Jul–26 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",Columbia University Irving Medical Center,27 Jul–2 Aug*,1
+Enrollment,"Enrollments by site and week, July 2026",Columbia University Irving Medical Center,Jul 2026 total,4
+Enrollment,"Enrollments by site and week, July 2026",Columbia University Irving Medical Center,Per week,0.9032
+Enrollment,"Enrollments by site and week, July 2026",Columbia University Irving Medical Center,Enrolled to date,68
+Enrollment,"Enrollments by site and week, July 2026",Columbia University Irving Medical Center,Months active,9.6591
+Enrollment,"Enrollments by site and week, July 2026",Columbia University Irving Medical Center,Per month since activation,7.04
+Enrollment,"Enrollments by site and week, July 2026",Duke University Medical Center,Type,Gyn/Onc
+Enrollment,"Enrollments by site and week, July 2026",Duke University Medical Center,29 Jun–5 Jul*,2
+Enrollment,"Enrollments by site and week, July 2026",Duke University Medical Center,6 Jul–12 Jul,2
+Enrollment,"Enrollments by site and week, July 2026",Duke University Medical Center,13 Jul–19 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",Duke University Medical Center,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Duke University Medical Center,27 Jul–2 Aug*,2
+Enrollment,"Enrollments by site and week, July 2026",Duke University Medical Center,Jul 2026 total,7
+Enrollment,"Enrollments by site and week, July 2026",Duke University Medical Center,Per week,1.5806
+Enrollment,"Enrollments by site and week, July 2026",Duke University Medical Center,Enrolled to date,60
+Enrollment,"Enrollments by site and week, July 2026",Duke University Medical Center,Months active,10.3819
+Enrollment,"Enrollments by site and week, July 2026",Duke University Medical Center,Per month since activation,5.7793
+Enrollment,"Enrollments by site and week, July 2026",ES Clinical Research Group (terminated),Type,General Gyn
+Enrollment,"Enrollments by site and week, July 2026",ES Clinical Research Group (terminated),29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",ES Clinical Research Group (terminated),6 Jul–12 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",ES Clinical Research Group (terminated),13 Jul–19 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",ES Clinical Research Group (terminated),20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",ES Clinical Research Group (terminated),27 Jul–2 Aug*,0
+Enrollment,"Enrollments by site and week, July 2026",ES Clinical Research Group (terminated),Jul 2026 total,0
+Enrollment,"Enrollments by site and week, July 2026",ES Clinical Research Group (terminated),Per week,0.0
+Enrollment,"Enrollments by site and week, July 2026",ES Clinical Research Group (terminated),Enrolled to date,1
+Enrollment,"Enrollments by site and week, July 2026",ES Clinical Research Group (terminated),Months active,
+Enrollment,"Enrollments by site and week, July 2026",ES Clinical Research Group (terminated),Per month since activation,
+Enrollment,"Enrollments by site and week, July 2026",Eastern Carolina Women's,Type,General Gyn
+Enrollment,"Enrollments by site and week, July 2026",Eastern Carolina Women's,29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",Eastern Carolina Women's,6 Jul–12 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Eastern Carolina Women's,13 Jul–19 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Eastern Carolina Women's,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Eastern Carolina Women's,27 Jul–2 Aug*,0
+Enrollment,"Enrollments by site and week, July 2026",Eastern Carolina Women's,Jul 2026 total,0
+Enrollment,"Enrollments by site and week, July 2026",Eastern Carolina Women's,Per week,0.0
+Enrollment,"Enrollments by site and week, July 2026",Eastern Carolina Women's,Enrolled to date,1
+Enrollment,"Enrollments by site and week, July 2026",Eastern Carolina Women's,Months active,15.54
+Enrollment,"Enrollments by site and week, July 2026",Eastern Carolina Women's,Per month since activation,0.0643
+Enrollment,"Enrollments by site and week, July 2026",Emerald Coast Clinical Research,Type,General Gyn
+Enrollment,"Enrollments by site and week, July 2026",Emerald Coast Clinical Research,29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",Emerald Coast Clinical Research,6 Jul–12 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Emerald Coast Clinical Research,13 Jul–19 Jul,2
+Enrollment,"Enrollments by site and week, July 2026",Emerald Coast Clinical Research,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Emerald Coast Clinical Research,27 Jul–2 Aug*,1
+Enrollment,"Enrollments by site and week, July 2026",Emerald Coast Clinical Research,Jul 2026 total,3
+Enrollment,"Enrollments by site and week, July 2026",Emerald Coast Clinical Research,Per week,0.6774
+Enrollment,"Enrollments by site and week, July 2026",Emerald Coast Clinical Research,Enrolled to date,68
+Enrollment,"Enrollments by site and week, July 2026",Emerald Coast Clinical Research,Months active,19.3511
+Enrollment,"Enrollments by site and week, July 2026",Emerald Coast Clinical Research,Per month since activation,3.514
+Enrollment,"Enrollments by site and week, July 2026",HCA Florida Physicians,Type,Gyn/Onc
+Enrollment,"Enrollments by site and week, July 2026",HCA Florida Physicians,29 Jun–5 Jul*,1
+Enrollment,"Enrollments by site and week, July 2026",HCA Florida Physicians,6 Jul–12 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",HCA Florida Physicians,13 Jul–19 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",HCA Florida Physicians,20 Jul–26 Jul,4
+Enrollment,"Enrollments by site and week, July 2026",HCA Florida Physicians,27 Jul–2 Aug*,2
+Enrollment,"Enrollments by site and week, July 2026",HCA Florida Physicians,Jul 2026 total,9
+Enrollment,"Enrollments by site and week, July 2026",HCA Florida Physicians,Per week,2.0323
+Enrollment,"Enrollments by site and week, July 2026",HCA Florida Physicians,Enrolled to date,54
+Enrollment,"Enrollments by site and week, July 2026",HCA Florida Physicians,Months active,5.2895
+Enrollment,"Enrollments by site and week, July 2026",HCA Florida Physicians,Per month since activation,10.2089
+Enrollment,"Enrollments by site and week, July 2026",Maximos Obgyn,Type,General Gyn
+Enrollment,"Enrollments by site and week, July 2026",Maximos Obgyn,29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",Maximos Obgyn,6 Jul–12 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Maximos Obgyn,13 Jul–19 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Maximos Obgyn,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Maximos Obgyn,27 Jul–2 Aug*,0
+Enrollment,"Enrollments by site and week, July 2026",Maximos Obgyn,Jul 2026 total,0
+Enrollment,"Enrollments by site and week, July 2026",Maximos Obgyn,Per week,0.0
+Enrollment,"Enrollments by site and week, July 2026",Maximos Obgyn,Enrolled to date,29
+Enrollment,"Enrollments by site and week, July 2026",Maximos Obgyn,Months active,15.0801
+Enrollment,"Enrollments by site and week, July 2026",Maximos Obgyn,Per month since activation,1.9231
+Enrollment,"Enrollments by site and week, July 2026",New Horizons Clinical Research,Type,General Gyn
+Enrollment,"Enrollments by site and week, July 2026",New Horizons Clinical Research,29 Jun–5 Jul*,1
+Enrollment,"Enrollments by site and week, July 2026",New Horizons Clinical Research,6 Jul–12 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",New Horizons Clinical Research,13 Jul–19 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",New Horizons Clinical Research,20 Jul–26 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",New Horizons Clinical Research,27 Jul–2 Aug*,2
+Enrollment,"Enrollments by site and week, July 2026",New Horizons Clinical Research,Jul 2026 total,5
+Enrollment,"Enrollments by site and week, July 2026",New Horizons Clinical Research,Per week,1.129
+Enrollment,"Enrollments by site and week, July 2026",New Horizons Clinical Research,Enrolled to date,100
+Enrollment,"Enrollments by site and week, July 2026",New Horizons Clinical Research,Months active,23.2608
+Enrollment,"Enrollments by site and week, July 2026",New Horizons Clinical Research,Per month since activation,4.2991
+Enrollment,"Enrollments by site and week, July 2026",Next Innovative Clinical Research,Type,General Gyn
+Enrollment,"Enrollments by site and week, July 2026",Next Innovative Clinical Research,29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",Next Innovative Clinical Research,6 Jul–12 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Next Innovative Clinical Research,13 Jul–19 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Next Innovative Clinical Research,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Next Innovative Clinical Research,27 Jul–2 Aug*,0
+Enrollment,"Enrollments by site and week, July 2026",Next Innovative Clinical Research,Jul 2026 total,0
+Enrollment,"Enrollments by site and week, July 2026",Next Innovative Clinical Research,Per week,0.0
+Enrollment,"Enrollments by site and week, July 2026",Next Innovative Clinical Research,Enrolled to date,17
+Enrollment,"Enrollments by site and week, July 2026",Next Innovative Clinical Research,Months active,22.3409
+Enrollment,"Enrollments by site and week, July 2026",Next Innovative Clinical Research,Per month since activation,0.7609
+Enrollment,"Enrollments by site and week, July 2026",Prime Clinical Research,Type,General Gyn
+Enrollment,"Enrollments by site and week, July 2026",Prime Clinical Research,29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",Prime Clinical Research,6 Jul–12 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Prime Clinical Research,13 Jul–19 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Prime Clinical Research,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Prime Clinical Research,27 Jul–2 Aug*,0
+Enrollment,"Enrollments by site and week, July 2026",Prime Clinical Research,Jul 2026 total,0
+Enrollment,"Enrollments by site and week, July 2026",Prime Clinical Research,Per week,0.0
+Enrollment,"Enrollments by site and week, July 2026",Prime Clinical Research,Enrolled to date,17
+Enrollment,"Enrollments by site and week, July 2026",Prime Clinical Research,Months active,21.9138
+Enrollment,"Enrollments by site and week, July 2026",Prime Clinical Research,Per month since activation,0.7758
+Enrollment,"Enrollments by site and week, July 2026",RUSH University Medical Center,Type,Gyn/Onc
+Enrollment,"Enrollments by site and week, July 2026",RUSH University Medical Center,29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",RUSH University Medical Center,6 Jul–12 Jul,2
+Enrollment,"Enrollments by site and week, July 2026",RUSH University Medical Center,13 Jul–19 Jul,2
+Enrollment,"Enrollments by site and week, July 2026",RUSH University Medical Center,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",RUSH University Medical Center,27 Jul–2 Aug*,0
+Enrollment,"Enrollments by site and week, July 2026",RUSH University Medical Center,Jul 2026 total,4
+Enrollment,"Enrollments by site and week, July 2026",RUSH University Medical Center,Per week,0.9032
+Enrollment,"Enrollments by site and week, July 2026",RUSH University Medical Center,Enrolled to date,44
+Enrollment,"Enrollments by site and week, July 2026",RUSH University Medical Center,Months active,9.4292
+Enrollment,"Enrollments by site and week, July 2026",RUSH University Medical Center,Per month since activation,4.6664
+Enrollment,"Enrollments by site and week, July 2026",Springfield Clinic,Type,Gyn/Onc
+Enrollment,"Enrollments by site and week, July 2026",Springfield Clinic,29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",Springfield Clinic,6 Jul–12 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Springfield Clinic,13 Jul–19 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Springfield Clinic,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Springfield Clinic,27 Jul–2 Aug*,0
+Enrollment,"Enrollments by site and week, July 2026",Springfield Clinic,Jul 2026 total,0
+Enrollment,"Enrollments by site and week, July 2026",Springfield Clinic,Per week,0.0
+Enrollment,"Enrollments by site and week, July 2026",Springfield Clinic,Enrolled to date,40
+Enrollment,"Enrollments by site and week, July 2026",Springfield Clinic,Months active,14.6201
+Enrollment,"Enrollments by site and week, July 2026",Springfield Clinic,Per month since activation,2.736
+Enrollment,"Enrollments by site and week, July 2026",The Jackson Clinic,Type,General Gyn
+Enrollment,"Enrollments by site and week, July 2026",The Jackson Clinic,29 Jun–5 Jul*,1
+Enrollment,"Enrollments by site and week, July 2026",The Jackson Clinic,6 Jul–12 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",The Jackson Clinic,13 Jul–19 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",The Jackson Clinic,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",The Jackson Clinic,27 Jul–2 Aug*,0
+Enrollment,"Enrollments by site and week, July 2026",The Jackson Clinic,Jul 2026 total,3
+Enrollment,"Enrollments by site and week, July 2026",The Jackson Clinic,Per week,0.6774
+Enrollment,"Enrollments by site and week, July 2026",The Jackson Clinic,Enrolled to date,43
+Enrollment,"Enrollments by site and week, July 2026",The Jackson Clinic,Months active,18.7598
+Enrollment,"Enrollments by site and week, July 2026",The Jackson Clinic,Per month since activation,2.2921
+Enrollment,"Enrollments by site and week, July 2026",Univ. of Florida Jacksonville,Type,Gyn/Onc
+Enrollment,"Enrollments by site and week, July 2026",Univ. of Florida Jacksonville,29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",Univ. of Florida Jacksonville,6 Jul–12 Jul,2
+Enrollment,"Enrollments by site and week, July 2026",Univ. of Florida Jacksonville,13 Jul–19 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Univ. of Florida Jacksonville,20 Jul–26 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",Univ. of Florida Jacksonville,27 Jul–2 Aug*,3
+Enrollment,"Enrollments by site and week, July 2026",Univ. of Florida Jacksonville,Jul 2026 total,6
+Enrollment,"Enrollments by site and week, July 2026",Univ. of Florida Jacksonville,Per week,1.3548
+Enrollment,"Enrollments by site and week, July 2026",Univ. of Florida Jacksonville,Enrolled to date,39
+Enrollment,"Enrollments by site and week, July 2026",Univ. of Florida Jacksonville,Months active,13.5688
+Enrollment,"Enrollments by site and week, July 2026",Univ. of Florida Jacksonville,Per month since activation,2.8742
+Enrollment,"Enrollments by site and week, July 2026",Vast Clinical Research,Type,General Gyn
+Enrollment,"Enrollments by site and week, July 2026",Vast Clinical Research,29 Jun–5 Jul*,1
+Enrollment,"Enrollments by site and week, July 2026",Vast Clinical Research,6 Jul–12 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Vast Clinical Research,13 Jul–19 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Vast Clinical Research,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Vast Clinical Research,27 Jul–2 Aug*,0
+Enrollment,"Enrollments by site and week, July 2026",Vast Clinical Research,Jul 2026 total,1
+Enrollment,"Enrollments by site and week, July 2026",Vast Clinical Research,Per week,0.2258
+Enrollment,"Enrollments by site and week, July 2026",Vast Clinical Research,Enrolled to date,14
+Enrollment,"Enrollments by site and week, July 2026",Vast Clinical Research,Months active,22.8337
+Enrollment,"Enrollments by site and week, July 2026",Vast Clinical Research,Per month since activation,0.6131
+Enrollment,"Enrollments by site and week, July 2026",Velocity Clinical Research,Type,Gyn/Onc
+Enrollment,"Enrollments by site and week, July 2026",Velocity Clinical Research,29 Jun–5 Jul*,1
+Enrollment,"Enrollments by site and week, July 2026",Velocity Clinical Research,6 Jul–12 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",Velocity Clinical Research,13 Jul–19 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",Velocity Clinical Research,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Velocity Clinical Research,27 Jul–2 Aug*,2
+Enrollment,"Enrollments by site and week, July 2026",Velocity Clinical Research,Jul 2026 total,5
+Enrollment,"Enrollments by site and week, July 2026",Velocity Clinical Research,Per week,1.129
+Enrollment,"Enrollments by site and week, July 2026",Velocity Clinical Research,Enrolled to date,40
+Enrollment,"Enrollments by site and week, July 2026",Velocity Clinical Research,Months active,14.7844
+Enrollment,"Enrollments by site and week, July 2026",Velocity Clinical Research,Per month since activation,2.7056
+Enrollment,"Enrollments by site and week, July 2026",Virginia Women's Health Associates,Type,General Gyn
+Enrollment,"Enrollments by site and week, July 2026",Virginia Women's Health Associates,29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",Virginia Women's Health Associates,6 Jul–12 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Virginia Women's Health Associates,13 Jul–19 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Virginia Women's Health Associates,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Virginia Women's Health Associates,27 Jul–2 Aug*,0
+Enrollment,"Enrollments by site and week, July 2026",Virginia Women's Health Associates,Jul 2026 total,0
+Enrollment,"Enrollments by site and week, July 2026",Virginia Women's Health Associates,Per week,0.0
+Enrollment,"Enrollments by site and week, July 2026",Virginia Women's Health Associates,Enrolled to date,17
+Enrollment,"Enrollments by site and week, July 2026",Virginia Women's Health Associates,Months active,18.1684
+Enrollment,"Enrollments by site and week, July 2026",Virginia Women's Health Associates,Per month since activation,0.9357
+Enrollment,"Enrollments by site and week, July 2026",Women's Center of Nevada,Type,Gyn/Onc
+Enrollment,"Enrollments by site and week, July 2026",Women's Center of Nevada,29 Jun–5 Jul*,0
+Enrollment,"Enrollments by site and week, July 2026",Women's Center of Nevada,6 Jul–12 Jul,2
+Enrollment,"Enrollments by site and week, July 2026",Women's Center of Nevada,13 Jul–19 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Women's Center of Nevada,20 Jul–26 Jul,1
+Enrollment,"Enrollments by site and week, July 2026",Women's Center of Nevada,27 Jul–2 Aug*,2
+Enrollment,"Enrollments by site and week, July 2026",Women's Center of Nevada,Jul 2026 total,5
+Enrollment,"Enrollments by site and week, July 2026",Women's Center of Nevada,Per week,1.129
+Enrollment,"Enrollments by site and week, July 2026",Women's Center of Nevada,Enrolled to date,90
+Enrollment,"Enrollments by site and week, July 2026",Women's Center of Nevada,Months active,22.8665
+Enrollment,"Enrollments by site and week, July 2026",Women's Center of Nevada,Per month since activation,3.9359
+Enrollment,"Enrollments by site and week, July 2026",Women's Health Pavilion,Type,General Gyn
+Enrollment,"Enrollments by site and week, July 2026",Women's Health Pavilion,29 Jun–5 Jul*,1
+Enrollment,"Enrollments by site and week, July 2026",Women's Health Pavilion,6 Jul–12 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Women's Health Pavilion,13 Jul–19 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Women's Health Pavilion,20 Jul–26 Jul,0
+Enrollment,"Enrollments by site and week, July 2026",Women's Health Pavilion,27 Jul–2 Aug*,0
+Enrollment,"Enrollments by site and week, July 2026",Women's Health Pavilion,Jul 2026 total,1
+Enrollment,"Enrollments by site and week, July 2026",Women's Health Pavilion,Per week,0.2258
+Enrollment,"Enrollments by site and week, July 2026",Women's Health Pavilion,Enrolled to date,18
+Enrollment,"Enrollments by site and week, July 2026",Women's Health Pavilion,Months active,15.3101
+Enrollment,"Enrollments by site and week, July 2026",Women's Health Pavilion,Per month since activation,1.1757
+Enrollment,"Enrollments by site and week, July 2026",All sites,Type,
+Enrollment,"Enrollments by site and week, July 2026",All sites,29 Jun–5 Jul*,9
+Enrollment,"Enrollments by site and week, July 2026",All sites,6 Jul–12 Jul,16
+Enrollment,"Enrollments by site and week, July 2026",All sites,13 Jul–19 Jul,12
+Enrollment,"Enrollments by site and week, July 2026",All sites,20 Jul–26 Jul,10
+Enrollment,"Enrollments by site and week, July 2026",All sites,27 Jul–2 Aug*,19
+Enrollment,"Enrollments by site and week, July 2026",All sites,Jul 2026 total,66
+Enrollment,"Enrollments by site and week, July 2026",All sites,Per week,14.9032
+Enrollment,"Enrollments by site and week, July 2026",All sites,Enrolled to date,884
+Enrollment,"Enrollments by site and week, July 2026",All sites,Months active,
+Enrollment,"Enrollments by site and week, July 2026",All sites,Per month since activation,
+Enrollment,"Enrollments by site and week, July 2026",Average per active site (21 sites),Type,
+Enrollment,"Enrollments by site and week, July 2026",Average per active site (21 sites),29 Jun–5 Jul*,0.4286
+Enrollment,"Enrollments by site and week, July 2026",Average per active site (21 sites),6 Jul–12 Jul,0.7619
+Enrollment,"Enrollments by site and week, July 2026",Average per active site (21 sites),13 Jul–19 Jul,0.5714
+Enrollment,"Enrollments by site and week, July 2026",Average per active site (21 sites),20 Jul–26 Jul,0.4762
+Enrollment,"Enrollments by site and week, July 2026",Average per active site (21 sites),27 Jul–2 Aug*,0.9048
+Enrollment,"Enrollments by site and week, July 2026",Average per active site (21 sites),Jul 2026 total,3.1429
+Enrollment,"Enrollments by site and week, July 2026",Average per active site (21 sites),Per week,0.7097
+Enrollment,"Enrollments by site and week, July 2026",Average per active site (21 sites),Enrolled to date,42.0952
+Enrollment,"Enrollments by site and week, July 2026",Average per active site (21 sites),Months active,
+Enrollment,"Enrollments by site and week, July 2026",Average per active site (21 sites),Per month since activation,
+Enrollment,Enrollment by site type,General Gyn,Active sites,10
+Enrollment,Enrollment by site type,General Gyn,Enrolled Jul 2026,13
+Enrollment,Enrollment by site type,General Gyn,Per site per month,1.3
+Enrollment,Enrollment by site type,General Gyn,Per site per week,0.2935
+Enrollment,Enrollment by site type,General Gyn,Enrolled to date,325
+Enrollment,Enrollment by site type,General Gyn,% of all enrolled to date,0.3676
+Enrollment,Enrollment by site type,Gyn/Onc,Active sites,10
+Enrollment,Enrollment by site type,Gyn/Onc,Enrolled Jul 2026,53
+Enrollment,Enrollment by site type,Gyn/Onc,Per site per month,5.3
+Enrollment,Enrollment by site type,Gyn/Onc,Per site per week,1.1968
+Enrollment,Enrollment by site type,Gyn/Onc,Enrolled to date,557
+Enrollment,Enrollment by site type,Gyn/Onc,% of all enrolled to date,0.6301
+Enrollment,Enrollment by site type,General Onc,Active sites,1
+Enrollment,Enrollment by site type,General Onc,Enrolled Jul 2026,0
+Enrollment,Enrollment by site type,General Onc,Per site per month,0.0
+Enrollment,Enrollment by site type,General Onc,Per site per week,0.0
+Enrollment,Enrollment by site type,General Onc,Enrolled to date,2
+Enrollment,Enrollment by site type,General Onc,% of all enrolled to date,0.0023
+Enrollment,Enrollment by site type,Academic,Active sites,6
+Enrollment,Enrollment by site type,Academic,Enrolled Jul 2026,34
+Enrollment,Enrollment by site type,Academic,Per site per month,5.6667
+Enrollment,Enrollment by site type,Academic,Per site per week,1.2796
+Enrollment,Enrollment by site type,Academic,Enrolled to date,333
+Enrollment,Enrollment by site type,Academic,% of all enrolled to date,0.3767
+Enrollment,Enrollment by site type,Non-academic,Active sites,15
+Enrollment,Enrollment by site type,Non-academic,Enrolled Jul 2026,32
+Enrollment,Enrollment by site type,Non-academic,Per site per month,2.1333
+Enrollment,Enrollment by site type,Non-academic,Per site per week,0.4817
+Enrollment,Enrollment by site type,Non-academic,Enrolled to date,551
+Enrollment,Enrollment by site type,Non-academic,% of all enrolled to date,0.6233
+Enrollment,Enrollments by month,Sep 2024,Consented,9
+Enrollment,Enrollments by month,Sep 2024,Enrolled,6
+Enrollment,Enrollments by month,Sep 2024,Cumulative enrolled,6
+Enrollment,Enrollments by month,Oct 2024,Consented,8
+Enrollment,Enrollments by month,Oct 2024,Enrolled,8
+Enrollment,Enrollments by month,Oct 2024,Cumulative enrolled,14
+Enrollment,Enrollments by month,Nov 2024,Consented,9
+Enrollment,Enrollments by month,Nov 2024,Enrolled,9
+Enrollment,Enrollments by month,Nov 2024,Cumulative enrolled,23
+Enrollment,Enrollments by month,Dec 2024,Consented,8
+Enrollment,Enrollments by month,Dec 2024,Enrolled,5
+Enrollment,Enrollments by month,Dec 2024,Cumulative enrolled,28
+Enrollment,Enrollments by month,Jan 2025,Consented,20
+Enrollment,Enrollments by month,Jan 2025,Enrolled,18
+Enrollment,Enrollments by month,Jan 2025,Cumulative enrolled,46
+Enrollment,Enrollments by month,Feb 2025,Consented,21
+Enrollment,Enrollments by month,Feb 2025,Enrolled,19
+Enrollment,Enrollments by month,Feb 2025,Cumulative enrolled,65
+Enrollment,Enrollments by month,Mar 2025,Consented,14
+Enrollment,Enrollments by month,Mar 2025,Enrolled,12
+Enrollment,Enrollments by month,Mar 2025,Cumulative enrolled,77
+Enrollment,Enrollments by month,Apr 2025,Consented,25
+Enrollment,Enrollments by month,Apr 2025,Enrolled,22
+Enrollment,Enrollments by month,Apr 2025,Cumulative enrolled,99
+Enrollment,Enrollments by month,May 2025,Consented,43
+Enrollment,Enrollments by month,May 2025,Enrolled,38
+Enrollment,Enrollments by month,May 2025,Cumulative enrolled,137
+Enrollment,Enrollments by month,Jun 2025,Consented,38
+Enrollment,Enrollments by month,Jun 2025,Enrolled,36
+Enrollment,Enrollments by month,Jun 2025,Cumulative enrolled,173
+Enrollment,Enrollments by month,Jul 2025,Consented,41
+Enrollment,Enrollments by month,Jul 2025,Enrolled,40
+Enrollment,Enrollments by month,Jul 2025,Cumulative enrolled,213
+Enrollment,Enrollments by month,Aug 2025,Consented,29
+Enrollment,Enrollments by month,Aug 2025,Enrolled,29
+Enrollment,Enrollments by month,Aug 2025,Cumulative enrolled,242
+Enrollment,Enrollments by month,Sep 2025,Consented,42
+Enrollment,Enrollments by month,Sep 2025,Enrolled,37
+Enrollment,Enrollments by month,Sep 2025,Cumulative enrolled,279
+Enrollment,Enrollments by month,Oct 2025,Consented,50
+Enrollment,Enrollments by month,Oct 2025,Enrolled,39
+Enrollment,Enrollments by month,Oct 2025,Cumulative enrolled,318
+Enrollment,Enrollments by month,Nov 2025,Consented,67
+Enrollment,Enrollments by month,Nov 2025,Enrolled,64
+Enrollment,Enrollments by month,Nov 2025,Cumulative enrolled,382
+Enrollment,Enrollments by month,Dec 2025,Consented,46
+Enrollment,Enrollments by month,Dec 2025,Enrolled,40
+Enrollment,Enrollments by month,Dec 2025,Cumulative enrolled,422
+Enrollment,Enrollments by month,Jan 2026,Consented,72
+Enrollment,Enrollments by month,Jan 2026,Enrolled,64
+Enrollment,Enrollments by month,Jan 2026,Cumulative enrolled,486
+Enrollment,Enrollments by month,Feb 2026,Consented,71
+Enrollment,Enrollments by month,Feb 2026,Enrolled,62
+Enrollment,Enrollments by month,Feb 2026,Cumulative enrolled,548
+Enrollment,Enrollments by month,Mar 2026,Consented,98
+Enrollment,Enrollments by month,Mar 2026,Enrolled,85
+Enrollment,Enrollments by month,Mar 2026,Cumulative enrolled,633
+Enrollment,Enrollments by month,Apr 2026,Consented,77
+Enrollment,Enrollments by month,Apr 2026,Enrolled,77
+Enrollment,Enrollments by month,Apr 2026,Cumulative enrolled,710
+Enrollment,Enrollments by month,May 2026,Consented,53
+Enrollment,Enrollments by month,May 2026,Enrolled,48
+Enrollment,Enrollments by month,May 2026,Cumulative enrolled,758
+Enrollment,Enrollments by month,Jun 2026,Consented,61
+Enrollment,Enrollments by month,Jun 2026,Enrolled,60
+Enrollment,Enrollments by month,Jun 2026,Cumulative enrolled,818
+Enrollment,Enrollments by month,Jul 2026,Consented,72
+Enrollment,Enrollments by month,Jul 2026,Enrolled,66
+Enrollment,Enrollments by month,Jul 2026,Cumulative enrolled,884
+Data completeness,CRF completeness by site,AP Medical Research,Forms expected,23
+Data completeness,CRF completeness by site,AP Medical Research,Complete,22
+Data completeness,CRF completeness by site,AP Medical Research,% complete,0.9565
+Data completeness,CRF completeness by site,AP Medical Research,Outstanding,1
+Data completeness,CRF completeness by site,AP Medical Research,Open query,0
+Data completeness,CRF completeness by site,AP Medical Research,Skipped,0
+Data completeness,CRF completeness by site,Beth Israel Deaconess,Forms expected,720
+Data completeness,CRF completeness by site,Beth Israel Deaconess,Complete,636
+Data completeness,CRF completeness by site,Beth Israel Deaconess,% complete,0.8833
+Data completeness,CRF completeness by site,Beth Israel Deaconess,Outstanding,79
+Data completeness,CRF completeness by site,Beth Israel Deaconess,Open query,5
+Data completeness,CRF completeness by site,Beth Israel Deaconess,Skipped,0
+Data completeness,CRF completeness by site,Cleveland Clinic,Forms expected,736
+Data completeness,CRF completeness by site,Cleveland Clinic,Complete,636
+Data completeness,CRF completeness by site,Cleveland Clinic,% complete,0.8641
+Data completeness,CRF completeness by site,Cleveland Clinic,Outstanding,88
+Data completeness,CRF completeness by site,Cleveland Clinic,Open query,9
+Data completeness,CRF completeness by site,Cleveland Clinic,Skipped,3
+Data completeness,CRF completeness by site,Columbia University Irving Medical Center,Forms expected,824
+Data completeness,CRF completeness by site,Columbia University Irving Medical Center,Complete,736
+Data completeness,CRF completeness by site,Columbia University Irving Medical Center,% complete,0.8932
+Data completeness,CRF completeness by site,Columbia University Irving Medical Center,Outstanding,79
+Data completeness,CRF completeness by site,Columbia University Irving Medical Center,Open query,8
+Data completeness,CRF completeness by site,Columbia University Irving Medical Center,Skipped,1
+Data completeness,CRF completeness by site,Duke University Medical Center,Forms expected,717
+Data completeness,CRF completeness by site,Duke University Medical Center,Complete,607
+Data completeness,CRF completeness by site,Duke University Medical Center,% complete,0.8466
+Data completeness,CRF completeness by site,Duke University Medical Center,Outstanding,97
+Data completeness,CRF completeness by site,Duke University Medical Center,Open query,11
+Data completeness,CRF completeness by site,Duke University Medical Center,Skipped,2
+Data completeness,CRF completeness by site,ES Clinical Research Group,Forms expected,11
+Data completeness,CRF completeness by site,ES Clinical Research Group,Complete,10
+Data completeness,CRF completeness by site,ES Clinical Research Group,% complete,0.9091
+Data completeness,CRF completeness by site,ES Clinical Research Group,Outstanding,0
+Data completeness,CRF completeness by site,ES Clinical Research Group,Open query,0
+Data completeness,CRF completeness by site,ES Clinical Research Group,Skipped,1
+Data completeness,CRF completeness by site,Eastern Carolina Women's,Forms expected,10
+Data completeness,CRF completeness by site,Eastern Carolina Women's,Complete,9
+Data completeness,CRF completeness by site,Eastern Carolina Women's,% complete,0.9
+Data completeness,CRF completeness by site,Eastern Carolina Women's,Outstanding,1
+Data completeness,CRF completeness by site,Eastern Carolina Women's,Open query,0
+Data completeness,CRF completeness by site,Eastern Carolina Women's,Skipped,0
+Data completeness,CRF completeness by site,Emerald Coast Clinical Research,Forms expected,817
+Data completeness,CRF completeness by site,Emerald Coast Clinical Research,Complete,737
+Data completeness,CRF completeness by site,Emerald Coast Clinical Research,% complete,0.9021
+Data completeness,CRF completeness by site,Emerald Coast Clinical Research,Outstanding,67
+Data completeness,CRF completeness by site,Emerald Coast Clinical Research,Open query,13
+Data completeness,CRF completeness by site,Emerald Coast Clinical Research,Skipped,0
+Data completeness,CRF completeness by site,HCA Florida Physicians,Forms expected,659
+Data completeness,CRF completeness by site,HCA Florida Physicians,Complete,570
+Data completeness,CRF completeness by site,HCA Florida Physicians,% complete,0.8649
+Data completeness,CRF completeness by site,HCA Florida Physicians,Outstanding,77
+Data completeness,CRF completeness by site,HCA Florida Physicians,Open query,11
+Data completeness,CRF completeness by site,HCA Florida Physicians,Skipped,1
+Data completeness,CRF completeness by site,Maximos Obgyn,Forms expected,327
+Data completeness,CRF completeness by site,Maximos Obgyn,Complete,305
+Data completeness,CRF completeness by site,Maximos Obgyn,% complete,0.9327
+Data completeness,CRF completeness by site,Maximos Obgyn,Outstanding,21
+Data completeness,CRF completeness by site,Maximos Obgyn,Open query,1
+Data completeness,CRF completeness by site,Maximos Obgyn,Skipped,0
+Data completeness,CRF completeness by site,New Horizons Clinical Research,Forms expected,1194
+Data completeness,CRF completeness by site,New Horizons Clinical Research,Complete,1063
+Data completeness,CRF completeness by site,New Horizons Clinical Research,% complete,0.8903
+Data completeness,CRF completeness by site,New Horizons Clinical Research,Outstanding,119
+Data completeness,CRF completeness by site,New Horizons Clinical Research,Open query,7
+Data completeness,CRF completeness by site,New Horizons Clinical Research,Skipped,5
+Data completeness,CRF completeness by site,Next Innovative Clinical Research,Forms expected,195
+Data completeness,CRF completeness by site,Next Innovative Clinical Research,Complete,174
+Data completeness,CRF completeness by site,Next Innovative Clinical Research,% complete,0.8923
+Data completeness,CRF completeness by site,Next Innovative Clinical Research,Outstanding,19
+Data completeness,CRF completeness by site,Next Innovative Clinical Research,Open query,2
+Data completeness,CRF completeness by site,Next Innovative Clinical Research,Skipped,0
+Data completeness,CRF completeness by site,Prime Clinical Research,Forms expected,224
+Data completeness,CRF completeness by site,Prime Clinical Research,Complete,195
+Data completeness,CRF completeness by site,Prime Clinical Research,% complete,0.8705
+Data completeness,CRF completeness by site,Prime Clinical Research,Outstanding,27
+Data completeness,CRF completeness by site,Prime Clinical Research,Open query,2
+Data completeness,CRF completeness by site,Prime Clinical Research,Skipped,0
+Data completeness,CRF completeness by site,RUSH University Medical Center,Forms expected,538
+Data completeness,CRF completeness by site,RUSH University Medical Center,Complete,472
+Data completeness,CRF completeness by site,RUSH University Medical Center,% complete,0.8773
+Data completeness,CRF completeness by site,RUSH University Medical Center,Outstanding,57
+Data completeness,CRF completeness by site,RUSH University Medical Center,Open query,8
+Data completeness,CRF completeness by site,RUSH University Medical Center,Skipped,1
+Data completeness,CRF completeness by site,Springfield Clinic,Forms expected,479
+Data completeness,CRF completeness by site,Springfield Clinic,Complete,434
+Data completeness,CRF completeness by site,Springfield Clinic,% complete,0.9061
+Data completeness,CRF completeness by site,Springfield Clinic,Outstanding,39
+Data completeness,CRF completeness by site,Springfield Clinic,Open query,5
+Data completeness,CRF completeness by site,Springfield Clinic,Skipped,1
+Data completeness,CRF completeness by site,The Jackson Clinic,Forms expected,496
+Data completeness,CRF completeness by site,The Jackson Clinic,Complete,436
+Data completeness,CRF completeness by site,The Jackson Clinic,% complete,0.879
+Data completeness,CRF completeness by site,The Jackson Clinic,Outstanding,50
+Data completeness,CRF completeness by site,The Jackson Clinic,Open query,9
+Data completeness,CRF completeness by site,The Jackson Clinic,Skipped,1
+Data completeness,CRF completeness by site,Univ. of Florida Jacksonville,Forms expected,442
+Data completeness,CRF completeness by site,Univ. of Florida Jacksonville,Complete,394
+Data completeness,CRF completeness by site,Univ. of Florida Jacksonville,% complete,0.8914
+Data completeness,CRF completeness by site,Univ. of Florida Jacksonville,Outstanding,42
+Data completeness,CRF completeness by site,Univ. of Florida Jacksonville,Open query,3
+Data completeness,CRF completeness by site,Univ. of Florida Jacksonville,Skipped,3
+Data completeness,CRF completeness by site,Vast Clinical Research,Forms expected,167
+Data completeness,CRF completeness by site,Vast Clinical Research,Complete,148
+Data completeness,CRF completeness by site,Vast Clinical Research,% complete,0.8862
+Data completeness,CRF completeness by site,Vast Clinical Research,Outstanding,14
+Data completeness,CRF completeness by site,Vast Clinical Research,Open query,5
+Data completeness,CRF completeness by site,Vast Clinical Research,Skipped,0
+Data completeness,CRF completeness by site,Velocity Clinical Research,Forms expected,482
+Data completeness,CRF completeness by site,Velocity Clinical Research,Complete,421
+Data completeness,CRF completeness by site,Velocity Clinical Research,% complete,0.8734
+Data completeness,CRF completeness by site,Velocity Clinical Research,Outstanding,53
+Data completeness,CRF completeness by site,Velocity Clinical Research,Open query,6
+Data completeness,CRF completeness by site,Velocity Clinical Research,Skipped,2
+Data completeness,CRF completeness by site,Virginia Women's Health Associates,Forms expected,197
+Data completeness,CRF completeness by site,Virginia Women's Health Associates,Complete,182
+Data completeness,CRF completeness by site,Virginia Women's Health Associates,% complete,0.9239
+Data completeness,CRF completeness by site,Virginia Women's Health Associates,Outstanding,14
+Data completeness,CRF completeness by site,Virginia Women's Health Associates,Open query,1
+Data completeness,CRF completeness by site,Virginia Women's Health Associates,Skipped,0
+Data completeness,CRF completeness by site,Women's Center of Nevada,Forms expected,1054
+Data completeness,CRF completeness by site,Women's Center of Nevada,Complete,924
+Data completeness,CRF completeness by site,Women's Center of Nevada,% complete,0.8767
+Data completeness,CRF completeness by site,Women's Center of Nevada,Outstanding,122
+Data completeness,CRF completeness by site,Women's Center of Nevada,Open query,6
+Data completeness,CRF completeness by site,Women's Center of Nevada,Skipped,2
+Data completeness,CRF completeness by site,Women's Health Pavilion,Forms expected,208
+Data completeness,CRF completeness by site,Women's Health Pavilion,Complete,186
+Data completeness,CRF completeness by site,Women's Health Pavilion,% complete,0.8942
+Data completeness,CRF completeness by site,Women's Health Pavilion,Outstanding,20
+Data completeness,CRF completeness by site,Women's Health Pavilion,Open query,1
+Data completeness,CRF completeness by site,Women's Health Pavilion,Skipped,1
+Data completeness,CRF completeness by site,All sites,Forms expected,10520
+Data completeness,CRF completeness by site,All sites,Complete,9297
+Data completeness,CRF completeness by site,All sites,% complete,0.8837
+Data completeness,CRF completeness by site,All sites,Outstanding,1086
+Data completeness,CRF completeness by site,All sites,Open query,113
+Data completeness,CRF completeness by site,All sites,Skipped,24
+Data completeness,CRF completeness by form,Informed Consent,Forms expected,1281
+Data completeness,CRF completeness by form,Informed Consent,Complete,966
+Data completeness,CRF completeness by form,Informed Consent,% complete,0.7541
+Data completeness,CRF completeness by form,Informed Consent,Outstanding,301
+Data completeness,CRF completeness by form,Informed Consent,Open query,14
+Data completeness,CRF completeness by form,Informed Consent,Skipped,0
+Data completeness,CRF completeness by form,Inclusion Criteria,Forms expected,980
+Data completeness,CRF completeness by form,Inclusion Criteria,Complete,911
+Data completeness,CRF completeness by form,Inclusion Criteria,% complete,0.9296
+Data completeness,CRF completeness by form,Inclusion Criteria,Outstanding,59
+Data completeness,CRF completeness by form,Inclusion Criteria,Open query,10
+Data completeness,CRF completeness by form,Inclusion Criteria,Skipped,0
+Data completeness,CRF completeness by form,Exclusion Criteria,Forms expected,980
+Data completeness,CRF completeness by form,Exclusion Criteria,Complete,903
+Data completeness,CRF completeness by form,Exclusion Criteria,% complete,0.9214
+Data completeness,CRF completeness by form,Exclusion Criteria,Outstanding,64
+Data completeness,CRF completeness by form,Exclusion Criteria,Open query,13
+Data completeness,CRF completeness by form,Exclusion Criteria,Skipped,0
+Data completeness,CRF completeness by form,Demographics,Forms expected,980
+Data completeness,CRF completeness by form,Demographics,Complete,898
+Data completeness,CRF completeness by form,Demographics,% complete,0.9163
+Data completeness,CRF completeness by form,Demographics,Outstanding,82
+Data completeness,CRF completeness by form,Demographics,Open query,0
+Data completeness,CRF completeness by form,Demographics,Skipped,0
+Data completeness,CRF completeness by form,Medical History,Forms expected,980
+Data completeness,CRF completeness by form,Medical History,Complete,887
+Data completeness,CRF completeness by form,Medical History,% complete,0.9051
+Data completeness,CRF completeness by form,Medical History,Outstanding,81
+Data completeness,CRF completeness by form,Medical History,Open query,12
+Data completeness,CRF completeness by form,Medical History,Skipped,0
+Data completeness,CRF completeness by form,Health Information Collection,Forms expected,931
+Data completeness,CRF completeness by form,Health Information Collection,Complete,861
+Data completeness,CRF completeness by form,Health Information Collection,% complete,0.9248
+Data completeness,CRF completeness by form,Health Information Collection,Outstanding,55
+Data completeness,CRF completeness by form,Health Information Collection,Open query,15
+Data completeness,CRF completeness by form,Health Information Collection,Skipped,0
+Data completeness,CRF completeness by form,"CA 125 Test, Pre-Surgery",Forms expected,931
+Data completeness,CRF completeness by form,"CA 125 Test, Pre-Surgery",Complete,842
+Data completeness,CRF completeness by form,"CA 125 Test, Pre-Surgery",% complete,0.9044
+Data completeness,CRF completeness by form,"CA 125 Test, Pre-Surgery",Outstanding,77
+Data completeness,CRF completeness by form,"CA 125 Test, Pre-Surgery",Open query,12
+Data completeness,CRF completeness by form,"CA 125 Test, Pre-Surgery",Skipped,0
+Data completeness,CRF completeness by form,Enrollment,Forms expected,931
+Data completeness,CRF completeness by form,Enrollment,Complete,822
+Data completeness,CRF completeness by form,Enrollment,% complete,0.8829
+Data completeness,CRF completeness by form,Enrollment,Outstanding,103
+Data completeness,CRF completeness by form,Enrollment,Open query,6
+Data completeness,CRF completeness by form,Enrollment,Skipped,0
+Data completeness,CRF completeness by form,Study Blood Sample Collection & Processing,Forms expected,931
+Data completeness,CRF completeness by form,Study Blood Sample Collection & Processing,Complete,833
+Data completeness,CRF completeness by form,Study Blood Sample Collection & Processing,% complete,0.8947
+Data completeness,CRF completeness by form,Study Blood Sample Collection & Processing,Outstanding,86
+Data completeness,CRF completeness by form,Study Blood Sample Collection & Processing,Open query,8
+Data completeness,CRF completeness by form,Study Blood Sample Collection & Processing,Skipped,4
+Data completeness,CRF completeness by form,Post-Surgical Findings,Forms expected,884
+Data completeness,CRF completeness by form,Post-Surgical Findings,Complete,674
+Data completeness,CRF completeness by form,Post-Surgical Findings,% complete,0.7624
+Data completeness,CRF completeness by form,Post-Surgical Findings,Outstanding,170
+Data completeness,CRF completeness by form,Post-Surgical Findings,Open query,20
+Data completeness,CRF completeness by form,Post-Surgical Findings,Skipped,20
+Data completeness,CRF completeness by form,Study Completion,Forms expected,711
+Data completeness,CRF completeness by form,Study Completion,Complete,700
+Data completeness,CRF completeness by form,Study Completion,% complete,0.9845
+Data completeness,CRF completeness by form,Study Completion,Outstanding,8
+Data completeness,CRF completeness by form,Study Completion,Open query,3
+Data completeness,CRF completeness by form,Study Completion,Skipped,0
+Data completeness,CRF completeness by form,All forms,Forms expected,10520
+Data completeness,CRF completeness by form,All forms,Complete,9297
+Data completeness,CRF completeness by form,All forms,% complete,0.8837
+Data completeness,CRF completeness by form,All forms,Outstanding,1086
+Data completeness,CRF completeness by form,All forms,Open query,113
+Data completeness,CRF completeness by form,All forms,Skipped,24
+Data completeness,ePRO completeness by form,Demographics ePRO,Assigned,980
+Data completeness,ePRO completeness by form,Demographics ePRO,Completed,791
+Data completeness,ePRO completeness by form,Demographics ePRO,% completed,0.8071
+Data completeness,ePRO completeness by form,Demographics ePRO,Open,44
+Data completeness,ePRO completeness by form,Demographics ePRO,% open,0.0449
+Data completeness,ePRO completeness by form,Demographics ePRO,Expired,115
+Data completeness,ePRO completeness by form,Demographics ePRO,% expired,0.1173
+Data completeness,ePRO completeness by form,Demographics ePRO,Skipped,30
+Data completeness,ePRO completeness by form,Demographics ePRO,% skipped,0.0306
+Data completeness,ePRO completeness by form,Demographics ePRO,Overdue (open),30
+Data completeness,ePRO completeness by form,Medical History ePRO,Assigned,980
+Data completeness,ePRO completeness by form,Medical History ePRO,Completed,772
+Data completeness,ePRO completeness by form,Medical History ePRO,% completed,0.7878
+Data completeness,ePRO completeness by form,Medical History ePRO,Open,47
+Data completeness,ePRO completeness by form,Medical History ePRO,% open,0.048
+Data completeness,ePRO completeness by form,Medical History ePRO,Expired,136
+Data completeness,ePRO completeness by form,Medical History ePRO,% expired,0.1388
+Data completeness,ePRO completeness by form,Medical History ePRO,Skipped,25
+Data completeness,ePRO completeness by form,Medical History ePRO,% skipped,0.0255
+Data completeness,ePRO completeness by form,Medical History ePRO,Overdue (open),34
+Data completeness,ePRO completeness by form,All ePRO forms,Assigned,1960
+Data completeness,ePRO completeness by form,All ePRO forms,Completed,1563
+Data completeness,ePRO completeness by form,All ePRO forms,% completed,0.7974
+Data completeness,ePRO completeness by form,All ePRO forms,Open,91
+Data completeness,ePRO completeness by form,All ePRO forms,% open,0.0464
+Data completeness,ePRO completeness by form,All ePRO forms,Expired,251
+Data completeness,ePRO completeness by form,All ePRO forms,% expired,0.1281
+Data completeness,ePRO completeness by form,All ePRO forms,Skipped,55
+Data completeness,ePRO completeness by form,All ePRO forms,% skipped,0.0281
+Data completeness,ePRO completeness by form,All ePRO forms,Overdue (open),64
+Data completeness,ePRO completeness by site,AP Medical Research,Assigned,4
+Data completeness,ePRO completeness by site,AP Medical Research,Completed,4
+Data completeness,ePRO completeness by site,AP Medical Research,% completed,1.0
+Data completeness,ePRO completeness by site,AP Medical Research,Open,0
+Data completeness,ePRO completeness by site,AP Medical Research,% open,0.0
+Data completeness,ePRO completeness by site,AP Medical Research,Expired,0
+Data completeness,ePRO completeness by site,AP Medical Research,% expired,0.0
+Data completeness,ePRO completeness by site,AP Medical Research,Skipped,0
+Data completeness,ePRO completeness by site,AP Medical Research,% skipped,0.0
+Data completeness,ePRO completeness by site,AP Medical Research,Overdue (open),0
+Data completeness,ePRO completeness by site,Beth Israel Deaconess,Assigned,134
+Data completeness,ePRO completeness by site,Beth Israel Deaconess,Completed,107
+Data completeness,ePRO completeness by site,Beth Israel Deaconess,% completed,0.7985
+Data completeness,ePRO completeness by site,Beth Israel Deaconess,Open,9
+Data completeness,ePRO completeness by site,Beth Israel Deaconess,% open,0.0672
+Data completeness,ePRO completeness by site,Beth Israel Deaconess,Expired,15
+Data completeness,ePRO completeness by site,Beth Israel Deaconess,% expired,0.1119
+Data completeness,ePRO completeness by site,Beth Israel Deaconess,Skipped,3
+Data completeness,ePRO completeness by site,Beth Israel Deaconess,% skipped,0.0224
+Data completeness,ePRO completeness by site,Beth Israel Deaconess,Overdue (open),5
+Data completeness,ePRO completeness by site,Cleveland Clinic,Assigned,138
+Data completeness,ePRO completeness by site,Cleveland Clinic,Completed,108
+Data completeness,ePRO completeness by site,Cleveland Clinic,% completed,0.7826
+Data completeness,ePRO completeness by site,Cleveland Clinic,Open,5
+Data completeness,ePRO completeness by site,Cleveland Clinic,% open,0.0362
+Data completeness,ePRO completeness by site,Cleveland Clinic,Expired,18
+Data completeness,ePRO completeness by site,Cleveland Clinic,% expired,0.1304
+Data completeness,ePRO completeness by site,Cleveland Clinic,Skipped,7
+Data completeness,ePRO completeness by site,Cleveland Clinic,% skipped,0.0507
+Data completeness,ePRO completeness by site,Cleveland Clinic,Overdue (open),5
+Data completeness,ePRO completeness by site,Columbia University Irving Medical Center,Assigned,154
+Data completeness,ePRO completeness by site,Columbia University Irving Medical Center,Completed,130
+Data completeness,ePRO completeness by site,Columbia University Irving Medical Center,% completed,0.8442
+Data completeness,ePRO completeness by site,Columbia University Irving Medical Center,Open,7
+Data completeness,ePRO completeness by site,Columbia University Irving Medical Center,% open,0.0455
+Data completeness,ePRO completeness by site,Columbia University Irving Medical Center,Expired,13
+Data completeness,ePRO completeness by site,Columbia University Irving Medical Center,% expired,0.0844
+Data completeness,ePRO completeness by site,Columbia University Irving Medical Center,Skipped,4
+Data completeness,ePRO completeness by site,Columbia University Irving Medical Center,% skipped,0.026
+Data completeness,ePRO completeness by site,Columbia University Irving Medical Center,Overdue (open),4
+Data completeness,ePRO completeness by site,Duke University Medical Center,Assigned,134
+Data completeness,ePRO completeness by site,Duke University Medical Center,Completed,109
+Data completeness,ePRO completeness by site,Duke University Medical Center,% completed,0.8134
+Data completeness,ePRO completeness by site,Duke University Medical Center,Open,8
+Data completeness,ePRO completeness by site,Duke University Medical Center,% open,0.0597
+Data completeness,ePRO completeness by site,Duke University Medical Center,Expired,14
+Data completeness,ePRO completeness by site,Duke University Medical Center,% expired,0.1045
+Data completeness,ePRO completeness by site,Duke University Medical Center,Skipped,3
+Data completeness,ePRO completeness by site,Duke University Medical Center,% skipped,0.0224
+Data completeness,ePRO completeness by site,Duke University Medical Center,Overdue (open),2
+Data completeness,ePRO completeness by site,ES Clinical Research Group,Assigned,2
+Data completeness,ePRO completeness by site,ES Clinical Research Group,Completed,1
+Data completeness,ePRO completeness by site,ES Clinical Research Group,% completed,0.5
+Data completeness,ePRO completeness by site,ES Clinical Research Group,Open,0
+Data completeness,ePRO completeness by site,ES Clinical Research Group,% open,0.0
+Data completeness,ePRO completeness by site,ES Clinical Research Group,Expired,1
+Data completeness,ePRO completeness by site,ES Clinical Research Group,% expired,0.5
+Data completeness,ePRO completeness by site,ES Clinical Research Group,Skipped,0
+Data completeness,ePRO completeness by site,ES Clinical Research Group,% skipped,0.0
+Data completeness,ePRO completeness by site,ES Clinical Research Group,Overdue (open),0
+Data completeness,ePRO completeness by site,Eastern Carolina Women's,Assigned,2
+Data completeness,ePRO completeness by site,Eastern Carolina Women's,Completed,2
+Data completeness,ePRO completeness by site,Eastern Carolina Women's,% completed,1.0
+Data completeness,ePRO completeness by site,Eastern Carolina Women's,Open,0
+Data completeness,ePRO completeness by site,Eastern Carolina Women's,% open,0.0
+Data completeness,ePRO completeness by site,Eastern Carolina Women's,Expired,0
+Data completeness,ePRO completeness by site,Eastern Carolina Women's,% expired,0.0
+Data completeness,ePRO completeness by site,Eastern Carolina Women's,Skipped,0
+Data completeness,ePRO completeness by site,Eastern Carolina Women's,% skipped,0.0
+Data completeness,ePRO completeness by site,Eastern Carolina Women's,Overdue (open),0
+Data completeness,ePRO completeness by site,Emerald Coast Clinical Research,Assigned,152
+Data completeness,ePRO completeness by site,Emerald Coast Clinical Research,Completed,124
+Data completeness,ePRO completeness by site,Emerald Coast Clinical Research,% completed,0.8158
+Data completeness,ePRO completeness by site,Emerald Coast Clinical Research,Open,4
+Data completeness,ePRO completeness by site,Emerald Coast Clinical Research,% open,0.0263
+Data completeness,ePRO completeness by site,Emerald Coast Clinical Research,Expired,22
+Data completeness,ePRO completeness by site,Emerald Coast Clinical Research,% expired,0.1447
+Data completeness,ePRO completeness by site,Emerald Coast Clinical Research,Skipped,2
+Data completeness,ePRO completeness by site,Emerald Coast Clinical Research,% skipped,0.0132
+Data completeness,ePRO completeness by site,Emerald Coast Clinical Research,Overdue (open),4
+Data completeness,ePRO completeness by site,HCA Florida Physicians,Assigned,124
+Data completeness,ePRO completeness by site,HCA Florida Physicians,Completed,98
+Data completeness,ePRO completeness by site,HCA Florida Physicians,% completed,0.7903
+Data completeness,ePRO completeness by site,HCA Florida Physicians,Open,8
+Data completeness,ePRO completeness by site,HCA Florida Physicians,% open,0.0645
+Data completeness,ePRO completeness by site,HCA Florida Physicians,Expired,13
+Data completeness,ePRO completeness by site,HCA Florida Physicians,% expired,0.1048
+Data completeness,ePRO completeness by site,HCA Florida Physicians,Skipped,5
+Data completeness,ePRO completeness by site,HCA Florida Physicians,% skipped,0.0403
+Data completeness,ePRO completeness by site,HCA Florida Physicians,Overdue (open),4
+Data completeness,ePRO completeness by site,Maximos Obgyn,Assigned,58
+Data completeness,ePRO completeness by site,Maximos Obgyn,Completed,47
+Data completeness,ePRO completeness by site,Maximos Obgyn,% completed,0.8103
+Data completeness,ePRO completeness by site,Maximos Obgyn,Open,3
+Data completeness,ePRO completeness by site,Maximos Obgyn,% open,0.0517
+Data completeness,ePRO completeness by site,Maximos Obgyn,Expired,8
+Data completeness,ePRO completeness by site,Maximos Obgyn,% expired,0.1379
+Data completeness,ePRO completeness by site,Maximos Obgyn,Skipped,0
+Data completeness,ePRO completeness by site,Maximos Obgyn,% skipped,0.0
+Data completeness,ePRO completeness by site,Maximos Obgyn,Overdue (open),3
+Data completeness,ePRO completeness by site,New Horizons Clinical Research,Assigned,224
+Data completeness,ePRO completeness by site,New Horizons Clinical Research,Completed,180
+Data completeness,ePRO completeness by site,New Horizons Clinical Research,% completed,0.8036
+Data completeness,ePRO completeness by site,New Horizons Clinical Research,Open,10
+Data completeness,ePRO completeness by site,New Horizons Clinical Research,% open,0.0446
+Data completeness,ePRO completeness by site,New Horizons Clinical Research,Expired,28
+Data completeness,ePRO completeness by site,New Horizons Clinical Research,% expired,0.125
+Data completeness,ePRO completeness by site,New Horizons Clinical Research,Skipped,6
+Data completeness,ePRO completeness by site,New Horizons Clinical Research,% skipped,0.0268
+Data completeness,ePRO completeness by site,New Horizons Clinical Research,Overdue (open),8
+Data completeness,ePRO completeness by site,Next Innovative Clinical Research,Assigned,36
+Data completeness,ePRO completeness by site,Next Innovative Clinical Research,Completed,27
+Data completeness,ePRO completeness by site,Next Innovative Clinical Research,% completed,0.75
+Data completeness,ePRO completeness by site,Next Innovative Clinical Research,Open,1
+Data completeness,ePRO completeness by site,Next Innovative Clinical Research,% open,0.0278
+Data completeness,ePRO completeness by site,Next Innovative Clinical Research,Expired,7
+Data completeness,ePRO completeness by site,Next Innovative Clinical Research,% expired,0.1944
+Data completeness,ePRO completeness by site,Next Innovative Clinical Research,Skipped,1
+Data completeness,ePRO completeness by site,Next Innovative Clinical Research,% skipped,0.0278
+Data completeness,ePRO completeness by site,Next Innovative Clinical Research,Overdue (open),1
+Data completeness,ePRO completeness by site,Prime Clinical Research,Assigned,42
+Data completeness,ePRO completeness by site,Prime Clinical Research,Completed,35
+Data completeness,ePRO completeness by site,Prime Clinical Research,% completed,0.8333
+Data completeness,ePRO completeness by site,Prime Clinical Research,Open,1
+Data completeness,ePRO completeness by site,Prime Clinical Research,% open,0.0238
+Data completeness,ePRO completeness by site,Prime Clinical Research,Expired,5
+Data completeness,ePRO completeness by site,Prime Clinical Research,% expired,0.119
+Data completeness,ePRO completeness by site,Prime Clinical Research,Skipped,1
+Data completeness,ePRO completeness by site,Prime Clinical Research,% skipped,0.0238
+Data completeness,ePRO completeness by site,Prime Clinical Research,Overdue (open),1
+Data completeness,ePRO completeness by site,RUSH University Medical Center,Assigned,104
+Data completeness,ePRO completeness by site,RUSH University Medical Center,Completed,80
+Data completeness,ePRO completeness by site,RUSH University Medical Center,% completed,0.7692
+Data completeness,ePRO completeness by site,RUSH University Medical Center,Open,2
+Data completeness,ePRO completeness by site,RUSH University Medical Center,% open,0.0192
+Data completeness,ePRO completeness by site,RUSH University Medical Center,Expired,18
+Data completeness,ePRO completeness by site,RUSH University Medical Center,% expired,0.1731
+Data completeness,ePRO completeness by site,RUSH University Medical Center,Skipped,4
+Data completeness,ePRO completeness by site,RUSH University Medical Center,% skipped,0.0385
+Data completeness,ePRO completeness by site,RUSH University Medical Center,Overdue (open),2
+Data completeness,ePRO completeness by site,Springfield Clinic,Assigned,90
+Data completeness,ePRO completeness by site,Springfield Clinic,Completed,74
+Data completeness,ePRO completeness by site,Springfield Clinic,% completed,0.8222
+Data completeness,ePRO completeness by site,Springfield Clinic,Open,5
+Data completeness,ePRO completeness by site,Springfield Clinic,% open,0.0556
+Data completeness,ePRO completeness by site,Springfield Clinic,Expired,9
+Data completeness,ePRO completeness by site,Springfield Clinic,% expired,0.1
+Data completeness,ePRO completeness by site,Springfield Clinic,Skipped,2
+Data completeness,ePRO completeness by site,Springfield Clinic,% skipped,0.0222
+Data completeness,ePRO completeness by site,Springfield Clinic,Overdue (open),5
+Data completeness,ePRO completeness by site,The Jackson Clinic,Assigned,92
+Data completeness,ePRO completeness by site,The Jackson Clinic,Completed,78
+Data completeness,ePRO completeness by site,The Jackson Clinic,% completed,0.8478
+Data completeness,ePRO completeness by site,The Jackson Clinic,Open,1
+Data completeness,ePRO completeness by site,The Jackson Clinic,% open,0.0109
+Data completeness,ePRO completeness by site,The Jackson Clinic,Expired,13
+Data completeness,ePRO completeness by site,The Jackson Clinic,% expired,0.1413
+Data completeness,ePRO completeness by site,The Jackson Clinic,Skipped,0
+Data completeness,ePRO completeness by site,The Jackson Clinic,% skipped,0.0
+Data completeness,ePRO completeness by site,The Jackson Clinic,Overdue (open),1
+Data completeness,ePRO completeness by site,Univ. of Florida Jacksonville,Assigned,82
+Data completeness,ePRO completeness by site,Univ. of Florida Jacksonville,Completed,59
+Data completeness,ePRO completeness by site,Univ. of Florida Jacksonville,% completed,0.7195
+Data completeness,ePRO completeness by site,Univ. of Florida Jacksonville,Open,8
+Data completeness,ePRO completeness by site,Univ. of Florida Jacksonville,% open,0.0976
+Data completeness,ePRO completeness by site,Univ. of Florida Jacksonville,Expired,14
+Data completeness,ePRO completeness by site,Univ. of Florida Jacksonville,% expired,0.1707
+Data completeness,ePRO completeness by site,Univ. of Florida Jacksonville,Skipped,1
+Data completeness,ePRO completeness by site,Univ. of Florida Jacksonville,% skipped,0.0122
+Data completeness,ePRO completeness by site,Univ. of Florida Jacksonville,Overdue (open),4
+Data completeness,ePRO completeness by site,Vast Clinical Research,Assigned,30
+Data completeness,ePRO completeness by site,Vast Clinical Research,Completed,19
+Data completeness,ePRO completeness by site,Vast Clinical Research,% completed,0.6333
+Data completeness,ePRO completeness by site,Vast Clinical Research,Open,1
+Data completeness,ePRO completeness by site,Vast Clinical Research,% open,0.0333
+Data completeness,ePRO completeness by site,Vast Clinical Research,Expired,8
+Data completeness,ePRO completeness by site,Vast Clinical Research,% expired,0.2667
+Data completeness,ePRO completeness by site,Vast Clinical Research,Skipped,2
+Data completeness,ePRO completeness by site,Vast Clinical Research,% skipped,0.0667
+Data completeness,ePRO completeness by site,Vast Clinical Research,Overdue (open),1
+Data completeness,ePRO completeness by site,Velocity Clinical Research,Assigned,92
+Data completeness,ePRO completeness by site,Velocity Clinical Research,Completed,74
+Data completeness,ePRO completeness by site,Velocity Clinical Research,% completed,0.8043
+Data completeness,ePRO completeness by site,Velocity Clinical Research,Open,5
+Data completeness,ePRO completeness by site,Velocity Clinical Research,% open,0.0543
+Data completeness,ePRO completeness by site,Velocity Clinical Research,Expired,10
+Data completeness,ePRO completeness by site,Velocity Clinical Research,% expired,0.1087
+Data completeness,ePRO completeness by site,Velocity Clinical Research,Skipped,3
+Data completeness,ePRO completeness by site,Velocity Clinical Research,% skipped,0.0326
+Data completeness,ePRO completeness by site,Velocity Clinical Research,Overdue (open),3
+Data completeness,ePRO completeness by site,Virginia Women's Health Associates,Assigned,36
+Data completeness,ePRO completeness by site,Virginia Women's Health Associates,Completed,28
+Data completeness,ePRO completeness by site,Virginia Women's Health Associates,% completed,0.7778
+Data completeness,ePRO completeness by site,Virginia Women's Health Associates,Open,0
+Data completeness,ePRO completeness by site,Virginia Women's Health Associates,% open,0.0
+Data completeness,ePRO completeness by site,Virginia Women's Health Associates,Expired,6
+Data completeness,ePRO completeness by site,Virginia Women's Health Associates,% expired,0.1667
+Data completeness,ePRO completeness by site,Virginia Women's Health Associates,Skipped,2
+Data completeness,ePRO completeness by site,Virginia Women's Health Associates,% skipped,0.0556
+Data completeness,ePRO completeness by site,Virginia Women's Health Associates,Overdue (open),0
+Data completeness,ePRO completeness by site,Women's Center of Nevada,Assigned,192
+Data completeness,ePRO completeness by site,Women's Center of Nevada,Completed,146
+Data completeness,ePRO completeness by site,Women's Center of Nevada,% completed,0.7604
+Data completeness,ePRO completeness by site,Women's Center of Nevada,Open,12
+Data completeness,ePRO completeness by site,Women's Center of Nevada,% open,0.0625
+Data completeness,ePRO completeness by site,Women's Center of Nevada,Expired,25
+Data completeness,ePRO completeness by site,Women's Center of Nevada,% expired,0.1302
+Data completeness,ePRO completeness by site,Women's Center of Nevada,Skipped,9
+Data completeness,ePRO completeness by site,Women's Center of Nevada,% skipped,0.0469
+Data completeness,ePRO completeness by site,Women's Center of Nevada,Overdue (open),10
+Data completeness,ePRO completeness by site,Women's Health Pavilion,Assigned,38
+Data completeness,ePRO completeness by site,Women's Health Pavilion,Completed,33
+Data completeness,ePRO completeness by site,Women's Health Pavilion,% completed,0.8684
+Data completeness,ePRO completeness by site,Women's Health Pavilion,Open,1
+Data completeness,ePRO completeness by site,Women's Health Pavilion,% open,0.0263
+Data completeness,ePRO completeness by site,Women's Health Pavilion,Expired,4
+Data completeness,ePRO completeness by site,Women's Health Pavilion,% expired,0.1053
+Data completeness,ePRO completeness by site,Women's Health Pavilion,Skipped,0
+Data completeness,ePRO completeness by site,Women's Health Pavilion,% skipped,0.0
+Data completeness,ePRO completeness by site,Women's Health Pavilion,Overdue (open),1
+Data completeness,ePRO completeness by site,All sites,Assigned,1960
+Data completeness,ePRO completeness by site,All sites,Completed,1563
+Data completeness,ePRO completeness by site,All sites,% completed,0.7974
+Data completeness,ePRO completeness by site,All sites,Open,91
+Data completeness,ePRO completeness by site,All sites,% open,0.0464
+Data completeness,ePRO completeness by site,All sites,Expired,251
+Data completeness,ePRO completeness by site,All sites,% expired,0.1281
+Data completeness,ePRO completeness by site,All sites,Skipped,55
+Data completeness,ePRO completeness by site,All sites,% skipped,0.0281
+Data completeness,ePRO completeness by site,All sites,Overdue (open),64
+Post-surgical findings,Surgery and pathology reports,Participants enrolled,July 2026,66
+Post-surgical findings,Surgery and pathology reports,Participants enrolled,To date,884
+Post-surgical findings,Surgery and pathology reports,Participants enrolled,Denominator (to date),
+Post-surgical findings,Surgery and pathology reports,Participants enrolled,% (to date),
+Post-surgical findings,Surgery and pathology reports,Surgery complete,July 2026,40
+Post-surgical findings,Surgery and pathology reports,Surgery complete,To date,797
+Post-surgical findings,Surgery and pathology reports,Surgery complete,Denominator (to date),884 enrolled
+Post-surgical findings,Surgery and pathology reports,Surgery complete,% (to date),0.9016
+Post-surgical findings,Surgery and pathology reports,Pathology report uploaded,July 2026,48
+Post-surgical findings,Surgery and pathology reports,Pathology report uploaded,To date,687
+Post-surgical findings,Surgery and pathology reports,Pathology report uploaded,Denominator (to date),797 with surgery complete
+Post-surgical findings,Surgery and pathology reports,Pathology report uploaded,% (to date),0.862
+Post-surgical findings,Surgery and pathology reports,Awaiting pathology report,July 2026,
+Post-surgical findings,Surgery and pathology reports,Awaiting pathology report,To date,110
+Post-surgical findings,Surgery and pathology reports,Awaiting pathology report,Denominator (to date),797 with surgery complete
+Post-surgical findings,Surgery and pathology reports,Awaiting pathology report,% (to date),0.138
+Post-surgical findings,Days from enrollment to pathology report upload,In July 2026,Reports,48
+Post-surgical findings,Days from enrollment to pathology report upload,In July 2026,Mean days,48.038
+Post-surgical findings,Days from enrollment to pathology report upload,In July 2026,Median days,44.9209
+Post-surgical findings,Days from enrollment to pathology report upload,In July 2026,Shortest,21.9126
+Post-surgical findings,Days from enrollment to pathology report upload,In July 2026,Longest,91.8303
+Post-surgical findings,Days from enrollment to pathology report upload,To date,Reports,687
+Post-surgical findings,Days from enrollment to pathology report upload,To date,Mean days,46.2964
+Post-surgical findings,Days from enrollment to pathology report upload,To date,Median days,45.0809
+Post-surgical findings,Days from enrollment to pathology report upload,To date,Shortest,17.9107
+Post-surgical findings,Days from enrollment to pathology report upload,To date,Longest,91.8303
+Post-surgical findings,Surgery and pathology reports by site,AP Medical Research,Enrolled,2
+Post-surgical findings,Surgery and pathology reports by site,AP Medical Research,Surgery complete,2
+Post-surgical findings,Surgery and pathology reports by site,AP Medical Research,% of enrolled,1.0
+Post-surgical findings,Surgery and pathology reports by site,AP Medical Research,Report uploaded,2
+Post-surgical findings,Surgery and pathology reports by site,AP Medical Research,% of surgeries,1.0
+Post-surgical findings,Surgery and pathology reports by site,AP Medical Research,Awaiting report,0
+Post-surgical findings,Surgery and pathology reports by site,AP Medical Research,Median days to upload,51.0551
+Post-surgical findings,Surgery and pathology reports by site,AP Medical Research,Mean days to upload,51.0551
+Post-surgical findings,Surgery and pathology reports by site,Beth Israel Deaconess,Enrolled,59
+Post-surgical findings,Surgery and pathology reports by site,Beth Israel Deaconess,Surgery complete,56
+Post-surgical findings,Surgery and pathology reports by site,Beth Israel Deaconess,% of enrolled,0.9492
+Post-surgical findings,Surgery and pathology reports by site,Beth Israel Deaconess,Report uploaded,48
+Post-surgical findings,Surgery and pathology reports by site,Beth Israel Deaconess,% of surgeries,0.8571
+Post-surgical findings,Surgery and pathology reports by site,Beth Israel Deaconess,Awaiting report,8
+Post-surgical findings,Surgery and pathology reports by site,Beth Israel Deaconess,Median days to upload,45.9694
+Post-surgical findings,Surgery and pathology reports by site,Beth Israel Deaconess,Mean days to upload,46.974
+Post-surgical findings,Surgery and pathology reports by site,Cleveland Clinic,Enrolled,63
+Post-surgical findings,Surgery and pathology reports by site,Cleveland Clinic,Surgery complete,50
+Post-surgical findings,Surgery and pathology reports by site,Cleveland Clinic,% of enrolled,0.7937
+Post-surgical findings,Surgery and pathology reports by site,Cleveland Clinic,Report uploaded,41
+Post-surgical findings,Surgery and pathology reports by site,Cleveland Clinic,% of surgeries,0.82
+Post-surgical findings,Surgery and pathology reports by site,Cleveland Clinic,Awaiting report,9
+Post-surgical findings,Surgery and pathology reports by site,Cleveland Clinic,Median days to upload,44.9935
+Post-surgical findings,Surgery and pathology reports by site,Cleveland Clinic,Mean days to upload,45.5355
+Post-surgical findings,Surgery and pathology reports by site,Columbia University Irving Medical Center,Enrolled,68
+Post-surgical findings,Surgery and pathology reports by site,Columbia University Irving Medical Center,Surgery complete,65
+Post-surgical findings,Surgery and pathology reports by site,Columbia University Irving Medical Center,% of enrolled,0.9559
+Post-surgical findings,Surgery and pathology reports by site,Columbia University Irving Medical Center,Report uploaded,57
+Post-surgical findings,Surgery and pathology reports by site,Columbia University Irving Medical Center,% of surgeries,0.8769
+Post-surgical findings,Surgery and pathology reports by site,Columbia University Irving Medical Center,Awaiting report,8
+Post-surgical findings,Surgery and pathology reports by site,Columbia University Irving Medical Center,Median days to upload,45.1086
+Post-surgical findings,Surgery and pathology reports by site,Columbia University Irving Medical Center,Mean days to upload,45.2673
+Post-surgical findings,Surgery and pathology reports by site,Duke University Medical Center,Enrolled,60
+Post-surgical findings,Surgery and pathology reports by site,Duke University Medical Center,Surgery complete,50
+Post-surgical findings,Surgery and pathology reports by site,Duke University Medical Center,% of enrolled,0.8333
+Post-surgical findings,Surgery and pathology reports by site,Duke University Medical Center,Report uploaded,35
+Post-surgical findings,Surgery and pathology reports by site,Duke University Medical Center,% of surgeries,0.7
+Post-surgical findings,Surgery and pathology reports by site,Duke University Medical Center,Awaiting report,15
+Post-surgical findings,Surgery and pathology reports by site,Duke University Medical Center,Median days to upload,45.941
+Post-surgical findings,Surgery and pathology reports by site,Duke University Medical Center,Mean days to upload,48.0957
+Post-surgical findings,Surgery and pathology reports by site,ES Clinical Research Group,Enrolled,1
+Post-surgical findings,Surgery and pathology reports by site,ES Clinical Research Group,Surgery complete,0
+Post-surgical findings,Surgery and pathology reports by site,ES Clinical Research Group,% of enrolled,0.0
+Post-surgical findings,Surgery and pathology reports by site,ES Clinical Research Group,Report uploaded,0
+Post-surgical findings,Surgery and pathology reports by site,ES Clinical Research Group,% of surgeries,
+Post-surgical findings,Surgery and pathology reports by site,ES Clinical Research Group,Awaiting report,0
+Post-surgical findings,Surgery and pathology reports by site,ES Clinical Research Group,Median days to upload,
+Post-surgical findings,Surgery and pathology reports by site,ES Clinical Research Group,Mean days to upload,
+Post-surgical findings,Surgery and pathology reports by site,Eastern Carolina Women's,Enrolled,1
+Post-surgical findings,Surgery and pathology reports by site,Eastern Carolina Women's,Surgery complete,1
+Post-surgical findings,Surgery and pathology reports by site,Eastern Carolina Women's,% of enrolled,1.0
+Post-surgical findings,Surgery and pathology reports by site,Eastern Carolina Women's,Report uploaded,0
+Post-surgical findings,Surgery and pathology reports by site,Eastern Carolina Women's,% of surgeries,0.0
+Post-surgical findings,Surgery and pathology reports by site,Eastern Carolina Women's,Awaiting report,1
+Post-surgical findings,Surgery and pathology reports by site,Eastern Carolina Women's,Median days to upload,
+Post-surgical findings,Surgery and pathology reports by site,Eastern Carolina Women's,Mean days to upload,
+Post-surgical findings,Surgery and pathology reports by site,Emerald Coast Clinical Research,Enrolled,68
+Post-surgical findings,Surgery and pathology reports by site,Emerald Coast Clinical Research,Surgery complete,65
+Post-surgical findings,Surgery and pathology reports by site,Emerald Coast Clinical Research,% of enrolled,0.9559
+Post-surgical findings,Surgery and pathology reports by site,Emerald Coast Clinical Research,Report uploaded,64
+Post-surgical findings,Surgery and pathology reports by site,Emerald Coast Clinical Research,% of surgeries,0.9846
+Post-surgical findings,Surgery and pathology reports by site,Emerald Coast Clinical Research,Awaiting report,1
+Post-surgical findings,Surgery and pathology reports by site,Emerald Coast Clinical Research,Median days to upload,47.9643
+Post-surgical findings,Surgery and pathology reports by site,Emerald Coast Clinical Research,Mean days to upload,48.1967
+Post-surgical findings,Surgery and pathology reports by site,HCA Florida Physicians,Enrolled,54
+Post-surgical findings,Surgery and pathology reports by site,HCA Florida Physicians,Surgery complete,44
+Post-surgical findings,Surgery and pathology reports by site,HCA Florida Physicians,% of enrolled,0.8148
+Post-surgical findings,Surgery and pathology reports by site,HCA Florida Physicians,Report uploaded,40
+Post-surgical findings,Surgery and pathology reports by site,HCA Florida Physicians,% of surgeries,0.9091
+Post-surgical findings,Surgery and pathology reports by site,HCA Florida Physicians,Awaiting report,4
+Post-surgical findings,Surgery and pathology reports by site,HCA Florida Physicians,Median days to upload,39.4938
+Post-surgical findings,Surgery and pathology reports by site,HCA Florida Physicians,Mean days to upload,42.603
+Post-surgical findings,Surgery and pathology reports by site,Maximos Obgyn,Enrolled,29
+Post-surgical findings,Surgery and pathology reports by site,Maximos Obgyn,Surgery complete,29
+Post-surgical findings,Surgery and pathology reports by site,Maximos Obgyn,% of enrolled,1.0
+Post-surgical findings,Surgery and pathology reports by site,Maximos Obgyn,Report uploaded,27
+Post-surgical findings,Surgery and pathology reports by site,Maximos Obgyn,% of surgeries,0.931
+Post-surgical findings,Surgery and pathology reports by site,Maximos Obgyn,Awaiting report,2
+Post-surgical findings,Surgery and pathology reports by site,Maximos Obgyn,Median days to upload,54.8585
+Post-surgical findings,Surgery and pathology reports by site,Maximos Obgyn,Mean days to upload,50.4267
+Post-surgical findings,Surgery and pathology reports by site,New Horizons Clinical Research,Enrolled,100
+Post-surgical findings,Surgery and pathology reports by site,New Horizons Clinical Research,Surgery complete,92
+Post-surgical findings,Surgery and pathology reports by site,New Horizons Clinical Research,% of enrolled,0.92
+Post-surgical findings,Surgery and pathology reports by site,New Horizons Clinical Research,Report uploaded,78
+Post-surgical findings,Surgery and pathology reports by site,New Horizons Clinical Research,% of surgeries,0.8478
+Post-surgical findings,Surgery and pathology reports by site,New Horizons Clinical Research,Awaiting report,14
+Post-surgical findings,Surgery and pathology reports by site,New Horizons Clinical Research,Median days to upload,45.561
+Post-surgical findings,Surgery and pathology reports by site,New Horizons Clinical Research,Mean days to upload,48.045
+Post-surgical findings,Surgery and pathology reports by site,Next Innovative Clinical Research,Enrolled,17
+Post-surgical findings,Surgery and pathology reports by site,Next Innovative Clinical Research,Surgery complete,17
+Post-surgical findings,Surgery and pathology reports by site,Next Innovative Clinical Research,% of enrolled,1.0
+Post-surgical findings,Surgery and pathology reports by site,Next Innovative Clinical Research,Report uploaded,12
+Post-surgical findings,Surgery and pathology reports by site,Next Innovative Clinical Research,% of surgeries,0.7059
+Post-surgical findings,Surgery and pathology reports by site,Next Innovative Clinical Research,Awaiting report,5
+Post-surgical findings,Surgery and pathology reports by site,Next Innovative Clinical Research,Median days to upload,37.951
+Post-surgical findings,Surgery and pathology reports by site,Next Innovative Clinical Research,Mean days to upload,43.2001
+Post-surgical findings,Surgery and pathology reports by site,Prime Clinical Research,Enrolled,17
+Post-surgical findings,Surgery and pathology reports by site,Prime Clinical Research,Surgery complete,17
+Post-surgical findings,Surgery and pathology reports by site,Prime Clinical Research,% of enrolled,1.0
+Post-surgical findings,Surgery and pathology reports by site,Prime Clinical Research,Report uploaded,15
+Post-surgical findings,Surgery and pathology reports by site,Prime Clinical Research,% of surgeries,0.8824
+Post-surgical findings,Surgery and pathology reports by site,Prime Clinical Research,Awaiting report,2
+Post-surgical findings,Surgery and pathology reports by site,Prime Clinical Research,Median days to upload,47.9361
+Post-surgical findings,Surgery and pathology reports by site,Prime Clinical Research,Mean days to upload,51.3573
+Post-surgical findings,Surgery and pathology reports by site,RUSH University Medical Center,Enrolled,44
+Post-surgical findings,Surgery and pathology reports by site,RUSH University Medical Center,Surgery complete,41
+Post-surgical findings,Surgery and pathology reports by site,RUSH University Medical Center,% of enrolled,0.9318
+Post-surgical findings,Surgery and pathology reports by site,RUSH University Medical Center,Report uploaded,36
+Post-surgical findings,Surgery and pathology reports by site,RUSH University Medical Center,% of surgeries,0.878
+Post-surgical findings,Surgery and pathology reports by site,RUSH University Medical Center,Awaiting report,5
+Post-surgical findings,Surgery and pathology reports by site,RUSH University Medical Center,Median days to upload,47.0089
+Post-surgical findings,Surgery and pathology reports by site,RUSH University Medical Center,Mean days to upload,45.3661
+Post-surgical findings,Surgery and pathology reports by site,Springfield Clinic,Enrolled,40
+Post-surgical findings,Surgery and pathology reports by site,Springfield Clinic,Surgery complete,37
+Post-surgical findings,Surgery and pathology reports by site,Springfield Clinic,% of enrolled,0.925
+Post-surgical findings,Surgery and pathology reports by site,Springfield Clinic,Report uploaded,34
+Post-surgical findings,Surgery and pathology reports by site,Springfield Clinic,% of surgeries,0.9189
+Post-surgical findings,Surgery and pathology reports by site,Springfield Clinic,Awaiting report,3
+Post-surgical findings,Surgery and pathology reports by site,Springfield Clinic,Median days to upload,42.3532
+Post-surgical findings,Surgery and pathology reports by site,Springfield Clinic,Mean days to upload,44.5759
+Post-surgical findings,Surgery and pathology reports by site,The Jackson Clinic,Enrolled,43
+Post-surgical findings,Surgery and pathology reports by site,The Jackson Clinic,Surgery complete,39
+Post-surgical findings,Surgery and pathology reports by site,The Jackson Clinic,% of enrolled,0.907
+Post-surgical findings,Surgery and pathology reports by site,The Jackson Clinic,Report uploaded,31
+Post-surgical findings,Surgery and pathology reports by site,The Jackson Clinic,% of surgeries,0.7949
+Post-surgical findings,Surgery and pathology reports by site,The Jackson Clinic,Awaiting report,8
+Post-surgical findings,Surgery and pathology reports by site,The Jackson Clinic,Median days to upload,44.2103
+Post-surgical findings,Surgery and pathology reports by site,The Jackson Clinic,Mean days to upload,44.1989
+Post-surgical findings,Surgery and pathology reports by site,Univ. of Florida Jacksonville,Enrolled,39
+Post-surgical findings,Surgery and pathology reports by site,Univ. of Florida Jacksonville,Surgery complete,29
+Post-surgical findings,Surgery and pathology reports by site,Univ. of Florida Jacksonville,% of enrolled,0.7436
+Post-surgical findings,Surgery and pathology reports by site,Univ. of Florida Jacksonville,Report uploaded,27
+Post-surgical findings,Surgery and pathology reports by site,Univ. of Florida Jacksonville,% of surgeries,0.931
+Post-surgical findings,Surgery and pathology reports by site,Univ. of Florida Jacksonville,Awaiting report,2
+Post-surgical findings,Surgery and pathology reports by site,Univ. of Florida Jacksonville,Median days to upload,46.3026
+Post-surgical findings,Surgery and pathology reports by site,Univ. of Florida Jacksonville,Mean days to upload,48.8426
+Post-surgical findings,Surgery and pathology reports by site,Vast Clinical Research,Enrolled,14
+Post-surgical findings,Surgery and pathology reports by site,Vast Clinical Research,Surgery complete,13
+Post-surgical findings,Surgery and pathology reports by site,Vast Clinical Research,% of enrolled,0.9286
+Post-surgical findings,Surgery and pathology reports by site,Vast Clinical Research,Report uploaded,13
+Post-surgical findings,Surgery and pathology reports by site,Vast Clinical Research,% of surgeries,1.0
+Post-surgical findings,Surgery and pathology reports by site,Vast Clinical Research,Awaiting report,0
+Post-surgical findings,Surgery and pathology reports by site,Vast Clinical Research,Median days to upload,46.0007
+Post-surgical findings,Surgery and pathology reports by site,Vast Clinical Research,Mean days to upload,45.6111
+Post-surgical findings,Surgery and pathology reports by site,Velocity Clinical Research,Enrolled,40
+Post-surgical findings,Surgery and pathology reports by site,Velocity Clinical Research,Surgery complete,34
+Post-surgical findings,Surgery and pathology reports by site,Velocity Clinical Research,% of enrolled,0.85
+Post-surgical findings,Surgery and pathology reports by site,Velocity Clinical Research,Report uploaded,28
+Post-surgical findings,Surgery and pathology reports by site,Velocity Clinical Research,% of surgeries,0.8235
+Post-surgical findings,Surgery and pathology reports by site,Velocity Clinical Research,Awaiting report,6
+Post-surgical findings,Surgery and pathology reports by site,Velocity Clinical Research,Median days to upload,47.1292
+Post-surgical findings,Surgery and pathology reports by site,Velocity Clinical Research,Mean days to upload,45.131
+Post-surgical findings,Surgery and pathology reports by site,Virginia Women's Health Associates,Enrolled,17
+Post-surgical findings,Surgery and pathology reports by site,Virginia Women's Health Associates,Surgery complete,17
+Post-surgical findings,Surgery and pathology reports by site,Virginia Women's Health Associates,% of enrolled,1.0
+Post-surgical findings,Surgery and pathology reports by site,Virginia Women's Health Associates,Report uploaded,15
+Post-surgical findings,Surgery and pathology reports by site,Virginia Women's Health Associates,% of surgeries,0.8824
+Post-surgical findings,Surgery and pathology reports by site,Virginia Women's Health Associates,Awaiting report,2
+Post-surgical findings,Surgery and pathology reports by site,Virginia Women's Health Associates,Median days to upload,43.0274
+Post-surgical findings,Surgery and pathology reports by site,Virginia Women's Health Associates,Mean days to upload,45.2189
+Post-surgical findings,Surgery and pathology reports by site,Women's Center of Nevada,Enrolled,90
+Post-surgical findings,Surgery and pathology reports by site,Women's Center of Nevada,Surgery complete,82
+Post-surgical findings,Surgery and pathology reports by site,Women's Center of Nevada,% of enrolled,0.9111
+Post-surgical findings,Surgery and pathology reports by site,Women's Center of Nevada,Report uploaded,68
+Post-surgical findings,Surgery and pathology reports by site,Women's Center of Nevada,% of surgeries,0.8293
+Post-surgical findings,Surgery and pathology reports by site,Women's Center of Nevada,Awaiting report,14
+Post-surgical findings,Surgery and pathology reports by site,Women's Center of Nevada,Median days to upload,41.7866
+Post-surgical findings,Surgery and pathology reports by site,Women's Center of Nevada,Mean days to upload,44.6207
+Post-surgical findings,Surgery and pathology reports by site,Women's Health Pavilion,Enrolled,18
+Post-surgical findings,Surgery and pathology reports by site,Women's Health Pavilion,Surgery complete,17
+Post-surgical findings,Surgery and pathology reports by site,Women's Health Pavilion,% of enrolled,0.9444
+Post-surgical findings,Surgery and pathology reports by site,Women's Health Pavilion,Report uploaded,16
+Post-surgical findings,Surgery and pathology reports by site,Women's Health Pavilion,% of surgeries,0.9412
+Post-surgical findings,Surgery and pathology reports by site,Women's Health Pavilion,Awaiting report,1
+Post-surgical findings,Surgery and pathology reports by site,Women's Health Pavilion,Median days to upload,44.9967
+Post-surgical findings,Surgery and pathology reports by site,Women's Health Pavilion,Mean days to upload,45.309
+Post-surgical findings,Surgery and pathology reports by site,All sites,Enrolled,884
+Post-surgical findings,Surgery and pathology reports by site,All sites,Surgery complete,797
+Post-surgical findings,Surgery and pathology reports by site,All sites,% of enrolled,0.9016
+Post-surgical findings,Surgery and pathology reports by site,All sites,Report uploaded,687
+Post-surgical findings,Surgery and pathology reports by site,All sites,% of surgeries,0.862
+Post-surgical findings,Surgery and pathology reports by site,All sites,Awaiting report,110
+Post-surgical findings,Surgery and pathology reports by site,All sites,Median days to upload,45.0809
+Post-surgical findings,Surgery and pathology reports by site,All sites,Mean days to upload,46.2964
+Blood samples,Sample registration at the central lab,Samples registered (DX1 + DX2),Jul 2026 n,124
+Blood samples,Sample registration at the central lab,Samples registered (DX1 + DX2),Jul 2026 denominator,
+Blood samples,Sample registration at the central lab,Samples registered (DX1 + DX2),Jul 2026 %,
+Blood samples,Sample registration at the central lab,Samples registered (DX1 + DX2),To date n,1655
+Blood samples,Sample registration at the central lab,Samples registered (DX1 + DX2),To date denominator,
+Blood samples,Sample registration at the central lab,Samples registered (DX1 + DX2),To date %,
+Blood samples,Sample registration at the central lab,DX1 registered within 14 days of collection,Jul 2026 n,55
+Blood samples,Sample registration at the central lab,DX1 registered within 14 days of collection,Jul 2026 denominator,61
+Blood samples,Sample registration at the central lab,DX1 registered within 14 days of collection,Jul 2026 %,0.9016
+Blood samples,Sample registration at the central lab,DX1 registered within 14 days of collection,To date n,759
+Blood samples,Sample registration at the central lab,DX1 registered within 14 days of collection,To date denominator,851
+Blood samples,Sample registration at the central lab,DX1 registered within 14 days of collection,To date %,0.8919
+Blood samples,Sample registration at the central lab,DX2 registered within 28 days of collection,Jul 2026 n,53
+Blood samples,Sample registration at the central lab,DX2 registered within 28 days of collection,Jul 2026 denominator,63
+Blood samples,Sample registration at the central lab,DX2 registered within 28 days of collection,Jul 2026 %,0.8413
+Blood samples,Sample registration at the central lab,DX2 registered within 28 days of collection,To date n,666
+Blood samples,Sample registration at the central lab,DX2 registered within 28 days of collection,To date denominator,804
+Blood samples,Sample registration at the central lab,DX2 registered within 28 days of collection,To date %,0.8284
+Blood samples,Sample registration at the central lab,All samples within their window,Jul 2026 n,108
+Blood samples,Sample registration at the central lab,All samples within their window,Jul 2026 denominator,124
+Blood samples,Sample registration at the central lab,All samples within their window,Jul 2026 %,0.871
+Blood samples,Sample registration at the central lab,All samples within their window,To date n,1425
+Blood samples,Sample registration at the central lab,All samples within their window,To date denominator,1655
+Blood samples,Sample registration at the central lab,All samples within their window,To date %,0.861
+Blood samples,Sample registration at the central lab,Samples outside their window,Jul 2026 n,16
+Blood samples,Sample registration at the central lab,Samples outside their window,Jul 2026 denominator,124
+Blood samples,Sample registration at the central lab,Samples outside their window,Jul 2026 %,0.129
+Blood samples,Sample registration at the central lab,Samples outside their window,To date n,230
+Blood samples,Sample registration at the central lab,Samples outside their window,To date denominator,1655
+Blood samples,Sample registration at the central lab,Samples outside their window,To date %,0.139
+Blood samples,Sample registration at the central lab,DX1 and DX2 registered on the same day (pairs),Jul 2026 n,4
+Blood samples,Sample registration at the central lab,DX1 and DX2 registered on the same day (pairs),Jul 2026 denominator,
+Blood samples,Sample registration at the central lab,DX1 and DX2 registered on the same day (pairs),Jul 2026 %,
+Blood samples,Sample registration at the central lab,DX1 and DX2 registered on the same day (pairs),To date n,42
+Blood samples,Sample registration at the central lab,DX1 and DX2 registered on the same day (pairs),To date denominator,
+Blood samples,Sample registration at the central lab,DX1 and DX2 registered on the same day (pairs),To date %,
+Blood samples,Sample registration by month,Aug 2025,Registered,63
+Blood samples,Sample registration by month,Aug 2025,Within window,54
+Blood samples,Sample registration by month,Aug 2025,Outside window,9
+Blood samples,Sample registration by month,Aug 2025,% within window,0.8571
+Blood samples,Sample registration by month,Sep 2025,Registered,65
+Blood samples,Sample registration by month,Sep 2025,Within window,58
+Blood samples,Sample registration by month,Sep 2025,Outside window,7
+Blood samples,Sample registration by month,Sep 2025,% within window,0.8923
+Blood samples,Sample registration by month,Oct 2025,Registered,75
+Blood samples,Sample registration by month,Oct 2025,Within window,66
+Blood samples,Sample registration by month,Oct 2025,Outside window,9
+Blood samples,Sample registration by month,Oct 2025,% within window,0.88
+Blood samples,Sample registration by month,Nov 2025,Registered,106
+Blood samples,Sample registration by month,Nov 2025,Within window,94
+Blood samples,Sample registration by month,Nov 2025,Outside window,12
+Blood samples,Sample registration by month,Nov 2025,% within window,0.8868
+Blood samples,Sample registration by month,Dec 2025,Registered,96
+Blood samples,Sample registration by month,Dec 2025,Within window,80
+Blood samples,Sample registration by month,Dec 2025,Outside window,16
+Blood samples,Sample registration by month,Dec 2025,% within window,0.8333
+Blood samples,Sample registration by month,Jan 2026,Registered,105
+Blood samples,Sample registration by month,Jan 2026,Within window,92
+Blood samples,Sample registration by month,Jan 2026,Outside window,13
+Blood samples,Sample registration by month,Jan 2026,% within window,0.8762
+Blood samples,Sample registration by month,Feb 2026,Registered,106
+Blood samples,Sample registration by month,Feb 2026,Within window,96
+Blood samples,Sample registration by month,Feb 2026,Outside window,10
+Blood samples,Sample registration by month,Feb 2026,% within window,0.9057
+Blood samples,Sample registration by month,Mar 2026,Registered,154
+Blood samples,Sample registration by month,Mar 2026,Within window,129
+Blood samples,Sample registration by month,Mar 2026,Outside window,25
+Blood samples,Sample registration by month,Mar 2026,% within window,0.8377
+Blood samples,Sample registration by month,Apr 2026,Registered,167
+Blood samples,Sample registration by month,Apr 2026,Within window,140
+Blood samples,Sample registration by month,Apr 2026,Outside window,27
+Blood samples,Sample registration by month,Apr 2026,% within window,0.8383
+Blood samples,Sample registration by month,May 2026,Registered,124
+Blood samples,Sample registration by month,May 2026,Within window,105
+Blood samples,Sample registration by month,May 2026,Outside window,19
+Blood samples,Sample registration by month,May 2026,% within window,0.8468
+Blood samples,Sample registration by month,Jun 2026,Registered,98
+Blood samples,Sample registration by month,Jun 2026,Within window,86
+Blood samples,Sample registration by month,Jun 2026,Outside window,12
+Blood samples,Sample registration by month,Jun 2026,% within window,0.8776
+Blood samples,Sample registration by month,Jul 2026,Registered,124
+Blood samples,Sample registration by month,Jul 2026,Within window,108
+Blood samples,Sample registration by month,Jul 2026,Outside window,16
+Blood samples,Sample registration by month,Jul 2026,% within window,0.871
+Blood samples,Sample pair status at month end,Both samples registered,Participants,798
+Blood samples,Sample pair status at month end,Both samples registered,% of enrolled,0.9027
+Blood samples,Sample pair status at month end,DX2 missing: pending,Participants,23
+Blood samples,Sample pair status at month end,DX2 missing: pending,% of enrolled,0.026
+Blood samples,Sample pair status at month end,DX2 missing: overdue,Participants,30
+Blood samples,Sample pair status at month end,DX2 missing: overdue,% of enrolled,0.0339
+Blood samples,Sample pair status at month end,DX1 missing: pending,Participants,0
+Blood samples,Sample pair status at month end,DX1 missing: pending,% of enrolled,0.0
+Blood samples,Sample pair status at month end,DX1 missing: overdue,Participants,6
+Blood samples,Sample pair status at month end,DX1 missing: overdue,% of enrolled,0.0068
+Blood samples,Sample pair status at month end,No sample registered: pending,Participants,19
+Blood samples,Sample pair status at month end,No sample registered: pending,% of enrolled,0.0215
+Blood samples,Sample pair status at month end,No sample registered: overdue,Participants,4
+Blood samples,Sample pair status at month end,No sample registered: overdue,% of enrolled,0.0045
+Blood samples,Sample pair status at month end,"No sample: withdrawn, sample not obtained",Participants,4
+Blood samples,Sample pair status at month end,"No sample: withdrawn, sample not obtained",% of enrolled,0.0045
+Blood samples,Sample pair status at month end,Total enrolled,Participants,884
+Blood samples,Sample pair status at month end,Total enrolled,% of enrolled,1.0
+Blood samples,"Sample registration by site, to date",AP Medical Research,Samples registered,4
+Blood samples,"Sample registration by site, to date",AP Medical Research,DX1 registered,2
+Blood samples,"Sample registration by site, to date",AP Medical Research,DX1 within 14 days,2
+Blood samples,"Sample registration by site, to date",AP Medical Research,% DX1 in window,1.0
+Blood samples,"Sample registration by site, to date",AP Medical Research,DX2 registered,2
+Blood samples,"Sample registration by site, to date",AP Medical Research,DX2 within 28 days,2
+Blood samples,"Sample registration by site, to date",AP Medical Research,% DX2 in window,1.0
+Blood samples,"Sample registration by site, to date",AP Medical Research,Same-day pairs,0
+Blood samples,"Sample registration by site, to date",AP Medical Research,Missing pair: overdue,0
+Blood samples,"Sample registration by site, to date",Beth Israel Deaconess,Samples registered,113
+Blood samples,"Sample registration by site, to date",Beth Israel Deaconess,DX1 registered,58
+Blood samples,"Sample registration by site, to date",Beth Israel Deaconess,DX1 within 14 days,49
+Blood samples,"Sample registration by site, to date",Beth Israel Deaconess,% DX1 in window,0.8448
+Blood samples,"Sample registration by site, to date",Beth Israel Deaconess,DX2 registered,55
+Blood samples,"Sample registration by site, to date",Beth Israel Deaconess,DX2 within 28 days,41
+Blood samples,"Sample registration by site, to date",Beth Israel Deaconess,% DX2 in window,0.7455
+Blood samples,"Sample registration by site, to date",Beth Israel Deaconess,Same-day pairs,1
+Blood samples,"Sample registration by site, to date",Beth Israel Deaconess,Missing pair: overdue,1
+Blood samples,"Sample registration by site, to date",Cleveland Clinic,Samples registered,111
+Blood samples,"Sample registration by site, to date",Cleveland Clinic,DX1 registered,57
+Blood samples,"Sample registration by site, to date",Cleveland Clinic,DX1 within 14 days,50
+Blood samples,"Sample registration by site, to date",Cleveland Clinic,% DX1 in window,0.8772
+Blood samples,"Sample registration by site, to date",Cleveland Clinic,DX2 registered,54
+Blood samples,"Sample registration by site, to date",Cleveland Clinic,DX2 within 28 days,47
+Blood samples,"Sample registration by site, to date",Cleveland Clinic,% DX2 in window,0.8704
+Blood samples,"Sample registration by site, to date",Cleveland Clinic,Same-day pairs,2
+Blood samples,"Sample registration by site, to date",Cleveland Clinic,Missing pair: overdue,2
+Blood samples,"Sample registration by site, to date",Columbia University Irving Medical Center,Samples registered,129
+Blood samples,"Sample registration by site, to date",Columbia University Irving Medical Center,DX1 registered,66
+Blood samples,"Sample registration by site, to date",Columbia University Irving Medical Center,DX1 within 14 days,57
+Blood samples,"Sample registration by site, to date",Columbia University Irving Medical Center,% DX1 in window,0.8636
+Blood samples,"Sample registration by site, to date",Columbia University Irving Medical Center,DX2 registered,63
+Blood samples,"Sample registration by site, to date",Columbia University Irving Medical Center,DX2 within 28 days,50
+Blood samples,"Sample registration by site, to date",Columbia University Irving Medical Center,% DX2 in window,0.7937
+Blood samples,"Sample registration by site, to date",Columbia University Irving Medical Center,Same-day pairs,2
+Blood samples,"Sample registration by site, to date",Columbia University Irving Medical Center,Missing pair: overdue,2
+Blood samples,"Sample registration by site, to date",Duke University Medical Center,Samples registered,112
+Blood samples,"Sample registration by site, to date",Duke University Medical Center,DX1 registered,58
+Blood samples,"Sample registration by site, to date",Duke University Medical Center,DX1 within 14 days,50
+Blood samples,"Sample registration by site, to date",Duke University Medical Center,% DX1 in window,0.8621
+Blood samples,"Sample registration by site, to date",Duke University Medical Center,DX2 registered,54
+Blood samples,"Sample registration by site, to date",Duke University Medical Center,DX2 within 28 days,44
+Blood samples,"Sample registration by site, to date",Duke University Medical Center,% DX2 in window,0.8148
+Blood samples,"Sample registration by site, to date",Duke University Medical Center,Same-day pairs,4
+Blood samples,"Sample registration by site, to date",Duke University Medical Center,Missing pair: overdue,1
+Blood samples,"Sample registration by site, to date",ES Clinical Research Group,Samples registered,2
+Blood samples,"Sample registration by site, to date",ES Clinical Research Group,DX1 registered,1
+Blood samples,"Sample registration by site, to date",ES Clinical Research Group,DX1 within 14 days,1
+Blood samples,"Sample registration by site, to date",ES Clinical Research Group,% DX1 in window,1.0
+Blood samples,"Sample registration by site, to date",ES Clinical Research Group,DX2 registered,1
+Blood samples,"Sample registration by site, to date",ES Clinical Research Group,DX2 within 28 days,1
+Blood samples,"Sample registration by site, to date",ES Clinical Research Group,% DX2 in window,1.0
+Blood samples,"Sample registration by site, to date",ES Clinical Research Group,Same-day pairs,0
+Blood samples,"Sample registration by site, to date",ES Clinical Research Group,Missing pair: overdue,0
+Blood samples,"Sample registration by site, to date",Eastern Carolina Women's,Samples registered,2
+Blood samples,"Sample registration by site, to date",Eastern Carolina Women's,DX1 registered,1
+Blood samples,"Sample registration by site, to date",Eastern Carolina Women's,DX1 within 14 days,1
+Blood samples,"Sample registration by site, to date",Eastern Carolina Women's,% DX1 in window,1.0
+Blood samples,"Sample registration by site, to date",Eastern Carolina Women's,DX2 registered,1
+Blood samples,"Sample registration by site, to date",Eastern Carolina Women's,DX2 within 28 days,0
+Blood samples,"Sample registration by site, to date",Eastern Carolina Women's,% DX2 in window,0.0
+Blood samples,"Sample registration by site, to date",Eastern Carolina Women's,Same-day pairs,0
+Blood samples,"Sample registration by site, to date",Eastern Carolina Women's,Missing pair: overdue,0
+Blood samples,"Sample registration by site, to date",Emerald Coast Clinical Research,Samples registered,129
+Blood samples,"Sample registration by site, to date",Emerald Coast Clinical Research,DX1 registered,66
+Blood samples,"Sample registration by site, to date",Emerald Coast Clinical Research,DX1 within 14 days,57
+Blood samples,"Sample registration by site, to date",Emerald Coast Clinical Research,% DX1 in window,0.8636
+Blood samples,"Sample registration by site, to date",Emerald Coast Clinical Research,DX2 registered,63
+Blood samples,"Sample registration by site, to date",Emerald Coast Clinical Research,DX2 within 28 days,51
+Blood samples,"Sample registration by site, to date",Emerald Coast Clinical Research,% DX2 in window,0.8095
+Blood samples,"Sample registration by site, to date",Emerald Coast Clinical Research,Same-day pairs,2
+Blood samples,"Sample registration by site, to date",Emerald Coast Clinical Research,Missing pair: overdue,3
+Blood samples,"Sample registration by site, to date",HCA Florida Physicians,Samples registered,97
+Blood samples,"Sample registration by site, to date",HCA Florida Physicians,DX1 registered,50
+Blood samples,"Sample registration by site, to date",HCA Florida Physicians,DX1 within 14 days,44
+Blood samples,"Sample registration by site, to date",HCA Florida Physicians,% DX1 in window,0.88
+Blood samples,"Sample registration by site, to date",HCA Florida Physicians,DX2 registered,47
+Blood samples,"Sample registration by site, to date",HCA Florida Physicians,DX2 within 28 days,39
+Blood samples,"Sample registration by site, to date",HCA Florida Physicians,% DX2 in window,0.8298
+Blood samples,"Sample registration by site, to date",HCA Florida Physicians,Same-day pairs,4
+Blood samples,"Sample registration by site, to date",HCA Florida Physicians,Missing pair: overdue,0
+Blood samples,"Sample registration by site, to date",Maximos Obgyn,Samples registered,58
+Blood samples,"Sample registration by site, to date",Maximos Obgyn,DX1 registered,29
+Blood samples,"Sample registration by site, to date",Maximos Obgyn,DX1 within 14 days,25
+Blood samples,"Sample registration by site, to date",Maximos Obgyn,% DX1 in window,0.8621
+Blood samples,"Sample registration by site, to date",Maximos Obgyn,DX2 registered,29
+Blood samples,"Sample registration by site, to date",Maximos Obgyn,DX2 within 28 days,25
+Blood samples,"Sample registration by site, to date",Maximos Obgyn,% DX2 in window,0.8621
+Blood samples,"Sample registration by site, to date",Maximos Obgyn,Same-day pairs,1
+Blood samples,"Sample registration by site, to date",Maximos Obgyn,Missing pair: overdue,0
+Blood samples,"Sample registration by site, to date",New Horizons Clinical Research,Samples registered,184
+Blood samples,"Sample registration by site, to date",New Horizons Clinical Research,DX1 registered,95
+Blood samples,"Sample registration by site, to date",New Horizons Clinical Research,DX1 within 14 days,85
+Blood samples,"Sample registration by site, to date",New Horizons Clinical Research,% DX1 in window,0.8947
+Blood samples,"Sample registration by site, to date",New Horizons Clinical Research,DX2 registered,89
+Blood samples,"Sample registration by site, to date",New Horizons Clinical Research,DX2 within 28 days,74
+Blood samples,"Sample registration by site, to date",New Horizons Clinical Research,% DX2 in window,0.8315
+Blood samples,"Sample registration by site, to date",New Horizons Clinical Research,Same-day pairs,9
+Blood samples,"Sample registration by site, to date",New Horizons Clinical Research,Missing pair: overdue,7
+Blood samples,"Sample registration by site, to date",Next Innovative Clinical Research,Samples registered,33
+Blood samples,"Sample registration by site, to date",Next Innovative Clinical Research,DX1 registered,17
+Blood samples,"Sample registration by site, to date",Next Innovative Clinical Research,DX1 within 14 days,17
+Blood samples,"Sample registration by site, to date",Next Innovative Clinical Research,% DX1 in window,1.0
+Blood samples,"Sample registration by site, to date",Next Innovative Clinical Research,DX2 registered,16
+Blood samples,"Sample registration by site, to date",Next Innovative Clinical Research,DX2 within 28 days,13
+Blood samples,"Sample registration by site, to date",Next Innovative Clinical Research,% DX2 in window,0.8125
+Blood samples,"Sample registration by site, to date",Next Innovative Clinical Research,Same-day pairs,0
+Blood samples,"Sample registration by site, to date",Next Innovative Clinical Research,Missing pair: overdue,1
+Blood samples,"Sample registration by site, to date",Prime Clinical Research,Samples registered,33
+Blood samples,"Sample registration by site, to date",Prime Clinical Research,DX1 registered,17
+Blood samples,"Sample registration by site, to date",Prime Clinical Research,DX1 within 14 days,16
+Blood samples,"Sample registration by site, to date",Prime Clinical Research,% DX1 in window,0.9412
+Blood samples,"Sample registration by site, to date",Prime Clinical Research,DX2 registered,16
+Blood samples,"Sample registration by site, to date",Prime Clinical Research,DX2 within 28 days,14
+Blood samples,"Sample registration by site, to date",Prime Clinical Research,% DX2 in window,0.875
+Blood samples,"Sample registration by site, to date",Prime Clinical Research,Same-day pairs,1
+Blood samples,"Sample registration by site, to date",Prime Clinical Research,Missing pair: overdue,1
+Blood samples,"Sample registration by site, to date",RUSH University Medical Center,Samples registered,83
+Blood samples,"Sample registration by site, to date",RUSH University Medical Center,DX1 registered,43
+Blood samples,"Sample registration by site, to date",RUSH University Medical Center,DX1 within 14 days,40
+Blood samples,"Sample registration by site, to date",RUSH University Medical Center,% DX1 in window,0.9302
+Blood samples,"Sample registration by site, to date",RUSH University Medical Center,DX2 registered,40
+Blood samples,"Sample registration by site, to date",RUSH University Medical Center,DX2 within 28 days,30
+Blood samples,"Sample registration by site, to date",RUSH University Medical Center,% DX2 in window,0.75
+Blood samples,"Sample registration by site, to date",RUSH University Medical Center,Same-day pairs,2
+Blood samples,"Sample registration by site, to date",RUSH University Medical Center,Missing pair: overdue,2
+Blood samples,"Sample registration by site, to date",Springfield Clinic,Samples registered,77
+Blood samples,"Sample registration by site, to date",Springfield Clinic,DX1 registered,40
+Blood samples,"Sample registration by site, to date",Springfield Clinic,DX1 within 14 days,37
+Blood samples,"Sample registration by site, to date",Springfield Clinic,% DX1 in window,0.925
+Blood samples,"Sample registration by site, to date",Springfield Clinic,DX2 registered,37
+Blood samples,"Sample registration by site, to date",Springfield Clinic,DX2 within 28 days,32
+Blood samples,"Sample registration by site, to date",Springfield Clinic,% DX2 in window,0.8649
+Blood samples,"Sample registration by site, to date",Springfield Clinic,Same-day pairs,3
+Blood samples,"Sample registration by site, to date",Springfield Clinic,Missing pair: overdue,3
+Blood samples,"Sample registration by site, to date",The Jackson Clinic,Samples registered,83
+Blood samples,"Sample registration by site, to date",The Jackson Clinic,DX1 registered,42
+Blood samples,"Sample registration by site, to date",The Jackson Clinic,DX1 within 14 days,38
+Blood samples,"Sample registration by site, to date",The Jackson Clinic,% DX1 in window,0.9048
+Blood samples,"Sample registration by site, to date",The Jackson Clinic,DX2 registered,41
+Blood samples,"Sample registration by site, to date",The Jackson Clinic,DX2 within 28 days,35
+Blood samples,"Sample registration by site, to date",The Jackson Clinic,% DX2 in window,0.8537
+Blood samples,"Sample registration by site, to date",The Jackson Clinic,Same-day pairs,2
+Blood samples,"Sample registration by site, to date",The Jackson Clinic,Missing pair: overdue,2
+Blood samples,"Sample registration by site, to date",Univ. of Florida Jacksonville,Samples registered,67
+Blood samples,"Sample registration by site, to date",Univ. of Florida Jacksonville,DX1 registered,33
+Blood samples,"Sample registration by site, to date",Univ. of Florida Jacksonville,DX1 within 14 days,30
+Blood samples,"Sample registration by site, to date",Univ. of Florida Jacksonville,% DX1 in window,0.9091
+Blood samples,"Sample registration by site, to date",Univ. of Florida Jacksonville,DX2 registered,34
+Blood samples,"Sample registration by site, to date",Univ. of Florida Jacksonville,DX2 within 28 days,31
+Blood samples,"Sample registration by site, to date",Univ. of Florida Jacksonville,% DX2 in window,0.9118
+Blood samples,"Sample registration by site, to date",Univ. of Florida Jacksonville,Same-day pairs,4
+Blood samples,"Sample registration by site, to date",Univ. of Florida Jacksonville,Missing pair: overdue,2
+Blood samples,"Sample registration by site, to date",Vast Clinical Research,Samples registered,27
+Blood samples,"Sample registration by site, to date",Vast Clinical Research,DX1 registered,14
+Blood samples,"Sample registration by site, to date",Vast Clinical Research,DX1 within 14 days,13
+Blood samples,"Sample registration by site, to date",Vast Clinical Research,% DX1 in window,0.9286
+Blood samples,"Sample registration by site, to date",Vast Clinical Research,DX2 registered,13
+Blood samples,"Sample registration by site, to date",Vast Clinical Research,DX2 within 28 days,12
+Blood samples,"Sample registration by site, to date",Vast Clinical Research,% DX2 in window,0.9231
+Blood samples,"Sample registration by site, to date",Vast Clinical Research,Same-day pairs,0
+Blood samples,"Sample registration by site, to date",Vast Clinical Research,Missing pair: overdue,1
+Blood samples,"Sample registration by site, to date",Velocity Clinical Research,Samples registered,73
+Blood samples,"Sample registration by site, to date",Velocity Clinical Research,DX1 registered,38
+Blood samples,"Sample registration by site, to date",Velocity Clinical Research,DX1 within 14 days,28
+Blood samples,"Sample registration by site, to date",Velocity Clinical Research,% DX1 in window,0.7368
+Blood samples,"Sample registration by site, to date",Velocity Clinical Research,DX2 registered,35
+Blood samples,"Sample registration by site, to date",Velocity Clinical Research,DX2 within 28 days,25
+Blood samples,"Sample registration by site, to date",Velocity Clinical Research,% DX2 in window,0.7143
+Blood samples,"Sample registration by site, to date",Velocity Clinical Research,Same-day pairs,3
+Blood samples,"Sample registration by site, to date",Velocity Clinical Research,Missing pair: overdue,2
+Blood samples,"Sample registration by site, to date",Virginia Women's Health Associates,Samples registered,34
+Blood samples,"Sample registration by site, to date",Virginia Women's Health Associates,DX1 registered,17
+Blood samples,"Sample registration by site, to date",Virginia Women's Health Associates,DX1 within 14 days,16
+Blood samples,"Sample registration by site, to date",Virginia Women's Health Associates,% DX1 in window,0.9412
+Blood samples,"Sample registration by site, to date",Virginia Women's Health Associates,DX2 registered,17
+Blood samples,"Sample registration by site, to date",Virginia Women's Health Associates,DX2 within 28 days,13
+Blood samples,"Sample registration by site, to date",Virginia Women's Health Associates,% DX2 in window,0.7647
+Blood samples,"Sample registration by site, to date",Virginia Women's Health Associates,Same-day pairs,1
+Blood samples,"Sample registration by site, to date",Virginia Women's Health Associates,Missing pair: overdue,0
+Blood samples,"Sample registration by site, to date",Women's Center of Nevada,Samples registered,169
+Blood samples,"Sample registration by site, to date",Women's Center of Nevada,DX1 registered,89
+Blood samples,"Sample registration by site, to date",Women's Center of Nevada,DX1 within 14 days,85
+Blood samples,"Sample registration by site, to date",Women's Center of Nevada,% DX1 in window,0.9551
+Blood samples,"Sample registration by site, to date",Women's Center of Nevada,DX2 registered,80
+Blood samples,"Sample registration by site, to date",Women's Center of Nevada,DX2 within 28 days,70
+Blood samples,"Sample registration by site, to date",Women's Center of Nevada,% DX2 in window,0.875
+Blood samples,"Sample registration by site, to date",Women's Center of Nevada,Same-day pairs,1
+Blood samples,"Sample registration by site, to date",Women's Center of Nevada,Missing pair: overdue,5
+Blood samples,"Sample registration by site, to date",Women's Health Pavilion,Samples registered,35
+Blood samples,"Sample registration by site, to date",Women's Health Pavilion,DX1 registered,18
+Blood samples,"Sample registration by site, to date",Women's Health Pavilion,DX1 within 14 days,18
+Blood samples,"Sample registration by site, to date",Women's Health Pavilion,% DX1 in window,1.0
+Blood samples,"Sample registration by site, to date",Women's Health Pavilion,DX2 registered,17
+Blood samples,"Sample registration by site, to date",Women's Health Pavilion,DX2 within 28 days,17
+Blood samples,"Sample registration by site, to date",Women's Health Pavilion,% DX2 in window,1.0
+Blood samples,"Sample registration by site, to date",Women's Health Pavilion,Same-day pairs,0
+Blood samples,"Sample registration by site, to date",Women's Health Pavilion,Missing pair: overdue,1
+Blood samples,"Sample registration by site, to date",All sites,Samples registered,1655
+Blood samples,"Sample registration by site, to date",All sites,DX1 registered,851
+Blood samples,"Sample registration by site, to date",All sites,DX1 within 14 days,759
+Blood samples,"Sample registration by site, to date",All sites,% DX1 in window,0.8919
+Blood samples,"Sample registration by site, to date",All sites,DX2 registered,804
+Blood samples,"Sample registration by site, to date",All sites,DX2 within 28 days,666
+Blood samples,"Sample registration by site, to date",All sites,% DX2 in window,0.8284
+Blood samples,"Sample registration by site, to date",All sites,Same-day pairs,42
+Blood samples,"Sample registration by site, to date",All sites,Missing pair: overdue,36
+Blood samples,Where registered samples are now,In Inventory,Samples,642
+Blood samples,Where registered samples are now,In Inventory,% of registered,0.3879
+Blood samples,Where registered samples are now,Transferred,Samples,1001
+Blood samples,Where registered samples are now,Transferred,% of registered,0.6048
+Blood samples,Where registered samples are now,Destroyed,Samples,12
+Blood samples,Where registered samples are now,Destroyed,% of registered,0.0073
+Data queries,Query status at month end,Open,Queries,129
+Data queries,Query status at month end,Open,% of all queries raised,0.1285
+Data queries,Query status at month end,Reviewing,Queries,52
+Data queries,Query status at month end,Reviewing,% of all queries raised,0.0518
+Data queries,Query status at month end,Closed,Queries,823
+Data queries,Query status at month end,Closed,% of all queries raised,0.8197
+Data queries,Query status at month end,Total raised to date,Queries,1004
+Data queries,Query status at month end,Total raised to date,% of all queries raised,1.0
+Data queries,Query status at month end,Raised in July 2026,Queries,133
+Data queries,Query status at month end,Raised in July 2026,% of all queries raised,
+Data queries,Query status at month end,Closed in July 2026,Queries,105
+Data queries,Query status at month end,Closed in July 2026,% of all queries raised,
+Data queries,Query status at month end,Open or reviewing for more than 90 days,Queries,93
+Data queries,Query status at month end,Open or reviewing for more than 90 days,% of all queries raised,
+Data queries,Days open for unresolved queries,Open,Queries,129
+Data queries,Days open for unresolved queries,Open,Mean days open,153.6841
+Data queries,Days open for unresolved queries,Open,Median days open,89.7268
+Data queries,Days open for unresolved queries,Open,Shortest,0.0398
+Data queries,Days open for unresolved queries,Open,Longest,673.1022
+Data queries,Days open for unresolved queries,Reviewing,Queries,52
+Data queries,Days open for unresolved queries,Reviewing,Mean days open,168.12
+Data queries,Days open for unresolved queries,Reviewing,Median days open,128.077
+Data queries,Days open for unresolved queries,Reviewing,Shortest,0.1796
+Data queries,Days open for unresolved queries,Reviewing,Longest,607.165
+Data queries,Days open for unresolved queries,Open and reviewing,Queries,181
+Data queries,Days open for unresolved queries,Open and reviewing,Mean days open,157.8314
+Data queries,Days open for unresolved queries,Open and reviewing,Median days open,97.2385
+Data queries,Days open for unresolved queries,Open and reviewing,Shortest,0.0398
+Data queries,Days open for unresolved queries,Open and reviewing,Longest,673.1022
+Data queries,Queries by site,AP Medical Research,Total,1
+Data queries,Queries by site,AP Medical Research,Open,0
+Data queries,Queries by site,AP Medical Research,% open,0.0
+Data queries,Queries by site,AP Medical Research,Reviewing,0
+Data queries,Queries by site,AP Medical Research,% reviewing,0.0
+Data queries,Queries by site,AP Medical Research,Closed,1
+Data queries,Queries by site,AP Medical Research,% closed,1.0
+Data queries,Queries by site,AP Medical Research,Mean days open,
+Data queries,Queries by site,AP Medical Research,Median days open,
+Data queries,Queries by site,AP Medical Research,Range of days open,
+Data queries,Queries by site,Beth Israel Deaconess,Total,68
+Data queries,Queries by site,Beth Israel Deaconess,Open,6
+Data queries,Queries by site,Beth Israel Deaconess,% open,0.0882
+Data queries,Queries by site,Beth Israel Deaconess,Reviewing,1
+Data queries,Queries by site,Beth Israel Deaconess,% reviewing,0.0147
+Data queries,Queries by site,Beth Israel Deaconess,Closed,61
+Data queries,Queries by site,Beth Israel Deaconess,% closed,0.8971
+Data queries,Queries by site,Beth Israel Deaconess,Mean days open,137.411
+Data queries,Queries by site,Beth Israel Deaconess,Median days open,182.513
+Data queries,Queries by site,Beth Israel Deaconess,Range of days open,1.0-268.7
+Data queries,Queries by site,Cleveland Clinic,Total,71
+Data queries,Queries by site,Cleveland Clinic,Open,8
+Data queries,Queries by site,Cleveland Clinic,% open,0.1127
+Data queries,Queries by site,Cleveland Clinic,Reviewing,5
+Data queries,Queries by site,Cleveland Clinic,% reviewing,0.0704
+Data queries,Queries by site,Cleveland Clinic,Closed,58
+Data queries,Queries by site,Cleveland Clinic,% closed,0.8169
+Data queries,Queries by site,Cleveland Clinic,Mean days open,88.911
+Data queries,Queries by site,Cleveland Clinic,Median days open,71.3289
+Data queries,Queries by site,Cleveland Clinic,Range of days open,2.1-237.1
+Data queries,Queries by site,Columbia University Irving Medical Center,Total,68
+Data queries,Queries by site,Columbia University Irving Medical Center,Open,6
+Data queries,Queries by site,Columbia University Irving Medical Center,% open,0.0882
+Data queries,Queries by site,Columbia University Irving Medical Center,Reviewing,4
+Data queries,Queries by site,Columbia University Irving Medical Center,% reviewing,0.0588
+Data queries,Queries by site,Columbia University Irving Medical Center,Closed,58
+Data queries,Queries by site,Columbia University Irving Medical Center,% closed,0.8529
+Data queries,Queries by site,Columbia University Irving Medical Center,Mean days open,141.1536
+Data queries,Queries by site,Columbia University Irving Medical Center,Median days open,150.9183
+Data queries,Queries by site,Columbia University Irving Medical Center,Range of days open,6.3-250.8
+Data queries,Queries by site,Duke University Medical Center,Total,63
+Data queries,Queries by site,Duke University Medical Center,Open,13
+Data queries,Queries by site,Duke University Medical Center,% open,0.2063
+Data queries,Queries by site,Duke University Medical Center,Reviewing,2
+Data queries,Queries by site,Duke University Medical Center,% reviewing,0.0317
+Data queries,Queries by site,Duke University Medical Center,Closed,48
+Data queries,Queries by site,Duke University Medical Center,% closed,0.7619
+Data queries,Queries by site,Duke University Medical Center,Mean days open,54.322
+Data queries,Queries by site,Duke University Medical Center,Median days open,12.4633
+Data queries,Queries by site,Duke University Medical Center,Range of days open,0.7-229.9
+Data queries,Queries by site,ES Clinical Research Group,Total,2
+Data queries,Queries by site,ES Clinical Research Group,Open,0
+Data queries,Queries by site,ES Clinical Research Group,% open,0.0
+Data queries,Queries by site,ES Clinical Research Group,Reviewing,0
+Data queries,Queries by site,ES Clinical Research Group,% reviewing,0.0
+Data queries,Queries by site,ES Clinical Research Group,Closed,2
+Data queries,Queries by site,ES Clinical Research Group,% closed,1.0
+Data queries,Queries by site,ES Clinical Research Group,Mean days open,
+Data queries,Queries by site,ES Clinical Research Group,Median days open,
+Data queries,Queries by site,ES Clinical Research Group,Range of days open,
+Data queries,Queries by site,Eastern Carolina Women's,Total,1
+Data queries,Queries by site,Eastern Carolina Women's,Open,0
+Data queries,Queries by site,Eastern Carolina Women's,% open,0.0
+Data queries,Queries by site,Eastern Carolina Women's,Reviewing,0
+Data queries,Queries by site,Eastern Carolina Women's,% reviewing,0.0
+Data queries,Queries by site,Eastern Carolina Women's,Closed,1
+Data queries,Queries by site,Eastern Carolina Women's,% closed,1.0
+Data queries,Queries by site,Eastern Carolina Women's,Mean days open,
+Data queries,Queries by site,Eastern Carolina Women's,Median days open,
+Data queries,Queries by site,Eastern Carolina Women's,Range of days open,
+Data queries,Queries by site,Emerald Coast Clinical Research,Total,70
+Data queries,Queries by site,Emerald Coast Clinical Research,Open,13
+Data queries,Queries by site,Emerald Coast Clinical Research,% open,0.1857
+Data queries,Queries by site,Emerald Coast Clinical Research,Reviewing,4
+Data queries,Queries by site,Emerald Coast Clinical Research,% reviewing,0.0571
+Data queries,Queries by site,Emerald Coast Clinical Research,Closed,53
+Data queries,Queries by site,Emerald Coast Clinical Research,% closed,0.7571
+Data queries,Queries by site,Emerald Coast Clinical Research,Mean days open,273.8304
+Data queries,Queries by site,Emerald Coast Clinical Research,Median days open,309.6045
+Data queries,Queries by site,Emerald Coast Clinical Research,Range of days open,0.9-545.9
+Data queries,Queries by site,HCA Florida Physicians,Total,63
+Data queries,Queries by site,HCA Florida Physicians,Open,9
+Data queries,Queries by site,HCA Florida Physicians,% open,0.1429
+Data queries,Queries by site,HCA Florida Physicians,Reviewing,6
+Data queries,Queries by site,HCA Florida Physicians,% reviewing,0.0952
+Data queries,Queries by site,HCA Florida Physicians,Closed,48
+Data queries,Queries by site,HCA Florida Physicians,% closed,0.7619
+Data queries,Queries by site,HCA Florida Physicians,Mean days open,35.9547
+Data queries,Queries by site,HCA Florida Physicians,Median days open,10.1631
+Data queries,Queries by site,HCA Florida Physicians,Range of days open,0.2-128.0
+Data queries,Queries by site,Maximos Obgyn,Total,41
+Data queries,Queries by site,Maximos Obgyn,Open,3
+Data queries,Queries by site,Maximos Obgyn,% open,0.0732
+Data queries,Queries by site,Maximos Obgyn,Reviewing,1
+Data queries,Queries by site,Maximos Obgyn,% reviewing,0.0244
+Data queries,Queries by site,Maximos Obgyn,Closed,37
+Data queries,Queries by site,Maximos Obgyn,% closed,0.9024
+Data queries,Queries by site,Maximos Obgyn,Mean days open,90.2113
+Data queries,Queries by site,Maximos Obgyn,Median days open,38.6862
+Data queries,Queries by site,Maximos Obgyn,Range of days open,12.0-271.5
+Data queries,Queries by site,New Horizons Clinical Research,Total,117
+Data queries,Queries by site,New Horizons Clinical Research,Open,11
+Data queries,Queries by site,New Horizons Clinical Research,% open,0.094
+Data queries,Queries by site,New Horizons Clinical Research,Reviewing,5
+Data queries,Queries by site,New Horizons Clinical Research,% reviewing,0.0427
+Data queries,Queries by site,New Horizons Clinical Research,Closed,101
+Data queries,Queries by site,New Horizons Clinical Research,% closed,0.8632
+Data queries,Queries by site,New Horizons Clinical Research,Mean days open,294.1014
+Data queries,Queries by site,New Horizons Clinical Research,Median days open,325.6625
+Data queries,Queries by site,New Horizons Clinical Research,Range of days open,9.3-618.9
+Data queries,Queries by site,Next Innovative Clinical Research,Total,18
+Data queries,Queries by site,Next Innovative Clinical Research,Open,2
+Data queries,Queries by site,Next Innovative Clinical Research,% open,0.1111
+Data queries,Queries by site,Next Innovative Clinical Research,Reviewing,1
+Data queries,Queries by site,Next Innovative Clinical Research,% reviewing,0.0556
+Data queries,Queries by site,Next Innovative Clinical Research,Closed,15
+Data queries,Queries by site,Next Innovative Clinical Research,% closed,0.8333
+Data queries,Queries by site,Next Innovative Clinical Research,Mean days open,302.1808
+Data queries,Queries by site,Next Innovative Clinical Research,Median days open,237.7296
+Data queries,Queries by site,Next Innovative Clinical Research,Range of days open,156.9-511.9
+Data queries,Queries by site,Prime Clinical Research,Total,19
+Data queries,Queries by site,Prime Clinical Research,Open,2
+Data queries,Queries by site,Prime Clinical Research,% open,0.1053
+Data queries,Queries by site,Prime Clinical Research,Reviewing,0
+Data queries,Queries by site,Prime Clinical Research,% reviewing,0.0
+Data queries,Queries by site,Prime Clinical Research,Closed,17
+Data queries,Queries by site,Prime Clinical Research,% closed,0.8947
+Data queries,Queries by site,Prime Clinical Research,Mean days open,342.6806
+Data queries,Queries by site,Prime Clinical Research,Median days open,342.6806
+Data queries,Queries by site,Prime Clinical Research,Range of days open,320.3-365.1
+Data queries,Queries by site,RUSH University Medical Center,Total,55
+Data queries,Queries by site,RUSH University Medical Center,Open,10
+Data queries,Queries by site,RUSH University Medical Center,% open,0.1818
+Data queries,Queries by site,RUSH University Medical Center,Reviewing,4
+Data queries,Queries by site,RUSH University Medical Center,% reviewing,0.0727
+Data queries,Queries by site,RUSH University Medical Center,Closed,41
+Data queries,Queries by site,RUSH University Medical Center,% closed,0.7455
+Data queries,Queries by site,RUSH University Medical Center,Mean days open,88.7033
+Data queries,Queries by site,RUSH University Medical Center,Median days open,94.5509
+Data queries,Queries by site,RUSH University Medical Center,Range of days open,6.8-229.2
+Data queries,Queries by site,Springfield Clinic,Total,54
+Data queries,Queries by site,Springfield Clinic,Open,7
+Data queries,Queries by site,Springfield Clinic,% open,0.1296
+Data queries,Queries by site,Springfield Clinic,Reviewing,6
+Data queries,Queries by site,Springfield Clinic,% reviewing,0.1111
+Data queries,Queries by site,Springfield Clinic,Closed,41
+Data queries,Queries by site,Springfield Clinic,% closed,0.7593
+Data queries,Queries by site,Springfield Clinic,Mean days open,137.9217
+Data queries,Queries by site,Springfield Clinic,Median days open,78.685
+Data queries,Queries by site,Springfield Clinic,Range of days open,0.2-376.1
+Data queries,Queries by site,The Jackson Clinic,Total,53
+Data queries,Queries by site,The Jackson Clinic,Open,8
+Data queries,Queries by site,The Jackson Clinic,% open,0.1509
+Data queries,Queries by site,The Jackson Clinic,Reviewing,1
+Data queries,Queries by site,The Jackson Clinic,% reviewing,0.0189
+Data queries,Queries by site,The Jackson Clinic,Closed,44
+Data queries,Queries by site,The Jackson Clinic,% closed,0.8302
+Data queries,Queries by site,The Jackson Clinic,Mean days open,200.9479
+Data queries,Queries by site,The Jackson Clinic,Median days open,102.1266
+Data queries,Queries by site,The Jackson Clinic,Range of days open,0.0-547.4
+Data queries,Queries by site,Univ. of Florida Jacksonville,Total,37
+Data queries,Queries by site,Univ. of Florida Jacksonville,Open,2
+Data queries,Queries by site,Univ. of Florida Jacksonville,% open,0.0541
+Data queries,Queries by site,Univ. of Florida Jacksonville,Reviewing,0
+Data queries,Queries by site,Univ. of Florida Jacksonville,% reviewing,0.0
+Data queries,Queries by site,Univ. of Florida Jacksonville,Closed,35
+Data queries,Queries by site,Univ. of Florida Jacksonville,% closed,0.9459
+Data queries,Queries by site,Univ. of Florida Jacksonville,Mean days open,37.0525
+Data queries,Queries by site,Univ. of Florida Jacksonville,Median days open,37.0525
+Data queries,Queries by site,Univ. of Florida Jacksonville,Range of days open,2.9-71.2
+Data queries,Queries by site,Vast Clinical Research,Total,23
+Data queries,Queries by site,Vast Clinical Research,Open,5
+Data queries,Queries by site,Vast Clinical Research,% open,0.2174
+Data queries,Queries by site,Vast Clinical Research,Reviewing,0
+Data queries,Queries by site,Vast Clinical Research,% reviewing,0.0
+Data queries,Queries by site,Vast Clinical Research,Closed,18
+Data queries,Queries by site,Vast Clinical Research,% closed,0.7826
+Data queries,Queries by site,Vast Clinical Research,Mean days open,537.7302
+Data queries,Queries by site,Vast Clinical Research,Median days open,627.8354
+Data queries,Queries by site,Vast Clinical Research,Range of days open,262.3-673.1
+Data queries,Queries by site,Velocity Clinical Research,Total,44
+Data queries,Queries by site,Velocity Clinical Research,Open,10
+Data queries,Queries by site,Velocity Clinical Research,% open,0.2273
+Data queries,Queries by site,Velocity Clinical Research,Reviewing,0
+Data queries,Queries by site,Velocity Clinical Research,% reviewing,0.0
+Data queries,Queries by site,Velocity Clinical Research,Closed,34
+Data queries,Queries by site,Velocity Clinical Research,% closed,0.7727
+Data queries,Queries by site,Velocity Clinical Research,Mean days open,143.7442
+Data queries,Queries by site,Velocity Clinical Research,Median days open,81.6771
+Data queries,Queries by site,Velocity Clinical Research,Range of days open,4.7-420.3
+Data queries,Queries by site,Virginia Women's Health Associates,Total,24
+Data queries,Queries by site,Virginia Women's Health Associates,Open,1
+Data queries,Queries by site,Virginia Women's Health Associates,% open,0.0417
+Data queries,Queries by site,Virginia Women's Health Associates,Reviewing,1
+Data queries,Queries by site,Virginia Women's Health Associates,% reviewing,0.0417
+Data queries,Queries by site,Virginia Women's Health Associates,Closed,22
+Data queries,Queries by site,Virginia Women's Health Associates,% closed,0.9167
+Data queries,Queries by site,Virginia Women's Health Associates,Mean days open,309.4927
+Data queries,Queries by site,Virginia Women's Health Associates,Median days open,309.4927
+Data queries,Queries by site,Virginia Women's Health Associates,Range of days open,202.4-416.5
+Data queries,Queries by site,Women's Center of Nevada,Total,97
+Data queries,Queries by site,Women's Center of Nevada,Open,11
+Data queries,Queries by site,Women's Center of Nevada,% open,0.1134
+Data queries,Queries by site,Women's Center of Nevada,Reviewing,10
+Data queries,Queries by site,Women's Center of Nevada,% reviewing,0.1031
+Data queries,Queries by site,Women's Center of Nevada,Closed,76
+Data queries,Queries by site,Women's Center of Nevada,% closed,0.7835
+Data queries,Queries by site,Women's Center of Nevada,Mean days open,108.9315
+Data queries,Queries by site,Women's Center of Nevada,Median days open,41.4594
+Data queries,Queries by site,Women's Center of Nevada,Range of days open,0.6-436.0
+Data queries,Queries by site,Women's Health Pavilion,Total,15
+Data queries,Queries by site,Women's Health Pavilion,Open,2
+Data queries,Queries by site,Women's Health Pavilion,% open,0.1333
+Data queries,Queries by site,Women's Health Pavilion,Reviewing,1
+Data queries,Queries by site,Women's Health Pavilion,% reviewing,0.0667
+Data queries,Queries by site,Women's Health Pavilion,Closed,12
+Data queries,Queries by site,Women's Health Pavilion,% closed,0.8
+Data queries,Queries by site,Women's Health Pavilion,Mean days open,140.1612
+Data queries,Queries by site,Women's Health Pavilion,Median days open,143.0738
+Data queries,Queries by site,Women's Health Pavilion,Range of days open,123.5-153.9
+Data queries,Queries by site,All,Total,1004
+Data queries,Queries by site,All,Open,129
+Data queries,Queries by site,All,% open,0.1285
+Data queries,Queries by site,All,Reviewing,52
+Data queries,Queries by site,All,% reviewing,0.0518
+Data queries,Queries by site,All,Closed,823
+Data queries,Queries by site,All,% closed,0.8197
+Data queries,Queries by site,All,Mean days open,157.8314
+Data queries,Queries by site,All,Median days open,97.2385
+Data queries,Queries by site,All,Range of days open,0.0-673.1
+Data queries,Queries by type,Missing Data,Total,773
+Data queries,Queries by type,Missing Data,Open,102
+Data queries,Queries by type,Missing Data,% open,0.132
+Data queries,Queries by type,Missing Data,Reviewing,35
+Data queries,Queries by type,Missing Data,% reviewing,0.0453
+Data queries,Queries by type,Missing Data,Closed,636
+Data queries,Queries by type,Missing Data,% closed,0.8228
+Data queries,Queries by type,Missing Data,Mean days open,137.9304
+Data queries,Queries by type,Missing Data,Median days open,83.7098
+Data queries,Queries by type,Missing Data,Range of days open,0.0-650.5
+Data queries,Queries by type,Standard,Total,231
+Data queries,Queries by type,Standard,Open,27
+Data queries,Queries by type,Standard,% open,0.1169
+Data queries,Queries by type,Standard,Reviewing,17
+Data queries,Queries by type,Standard,% reviewing,0.0736
+Data queries,Queries by type,Standard,Closed,187
+Data queries,Queries by type,Standard,% closed,0.8095
+Data queries,Queries by type,Standard,Mean days open,219.7959
+Data queries,Queries by type,Standard,Median days open,179.1169
+Data queries,Queries by type,Standard,Range of days open,0.6-673.1
+Data queries,Queries by type,All,Total,1004
+Data queries,Queries by type,All,Open,129
+Data queries,Queries by type,All,% open,0.1285
+Data queries,Queries by type,All,Reviewing,52
+Data queries,Queries by type,All,% reviewing,0.0518
+Data queries,Queries by type,All,Closed,823
+Data queries,Queries by type,All,% closed,0.8197
+Data queries,Queries by type,All,Mean days open,157.8314
+Data queries,Queries by type,All,Median days open,97.2385
+Data queries,Queries by type,All,Range of days open,0.0-673.1
+Data queries,Queries by form,Adverse Events,Total,64
+Data queries,Queries by form,Adverse Events,Open,11
+Data queries,Queries by form,Adverse Events,% open,0.1719
+Data queries,Queries by form,Adverse Events,Reviewing,5
+Data queries,Queries by form,Adverse Events,% reviewing,0.0781
+Data queries,Queries by form,Adverse Events,Closed,48
+Data queries,Queries by form,Adverse Events,% closed,0.75
+Data queries,Queries by form,Adverse Events,Mean days open,206.5236
+Data queries,Queries by form,Adverse Events,Median days open,172.2152
+Data queries,Queries by form,Adverse Events,Range of days open,4.5-598.1
+Data queries,Queries by form,"CA 125 Test, Pre-Surgery",Total,140
+Data queries,Queries by form,"CA 125 Test, Pre-Surgery",Open,13
+Data queries,Queries by form,"CA 125 Test, Pre-Surgery",% open,0.0929
+Data queries,Queries by form,"CA 125 Test, Pre-Surgery",Reviewing,7
+Data queries,Queries by form,"CA 125 Test, Pre-Surgery",% reviewing,0.05
+Data queries,Queries by form,"CA 125 Test, Pre-Surgery",Closed,120
+Data queries,Queries by form,"CA 125 Test, Pre-Surgery",% closed,0.8571
+Data queries,Queries by form,"CA 125 Test, Pre-Surgery",Mean days open,175.6996
+Data queries,Queries by form,"CA 125 Test, Pre-Surgery",Median days open,30.1067
+Data queries,Queries by form,"CA 125 Test, Pre-Surgery",Range of days open,10.2-650.5
+Data queries,Queries by form,Enrollment,Total,62
+Data queries,Queries by form,Enrollment,Open,6
+Data queries,Queries by form,Enrollment,% open,0.0968
+Data queries,Queries by form,Enrollment,Reviewing,4
+Data queries,Queries by form,Enrollment,% reviewing,0.0645
+Data queries,Queries by form,Enrollment,Closed,52
+Data queries,Queries by form,Enrollment,% closed,0.8387
+Data queries,Queries by form,Enrollment,Mean days open,158.1139
+Data queries,Queries by form,Enrollment,Median days open,140.3737
+Data queries,Queries by form,Enrollment,Range of days open,1.1-416.5
+Data queries,Queries by form,Exclusion Criteria,Total,80
+Data queries,Queries by form,Exclusion Criteria,Open,13
+Data queries,Queries by form,Exclusion Criteria,% open,0.1625
+Data queries,Queries by form,Exclusion Criteria,Reviewing,2
+Data queries,Queries by form,Exclusion Criteria,% reviewing,0.025
+Data queries,Queries by form,Exclusion Criteria,Closed,65
+Data queries,Queries by form,Exclusion Criteria,% closed,0.8125
+Data queries,Queries by form,Exclusion Criteria,Mean days open,119.3345
+Data queries,Queries by form,Exclusion Criteria,Median days open,72.0239
+Data queries,Queries by form,Exclusion Criteria,Range of days open,0.0-488.4
+Data queries,Queries by form,Health Information Collection,Total,145
+Data queries,Queries by form,Health Information Collection,Open,16
+Data queries,Queries by form,Health Information Collection,% open,0.1103
+Data queries,Queries by form,Health Information Collection,Reviewing,8
+Data queries,Queries by form,Health Information Collection,% reviewing,0.0552
+Data queries,Queries by form,Health Information Collection,Closed,121
+Data queries,Queries by form,Health Information Collection,% closed,0.8345
+Data queries,Queries by form,Health Information Collection,Mean days open,143.0579
+Data queries,Queries by form,Health Information Collection,Median days open,91.9167
+Data queries,Queries by form,Health Information Collection,Range of days open,0.2-545.9
+Data queries,Queries by form,Inclusion Criteria,Total,75
+Data queries,Queries by form,Inclusion Criteria,Open,11
+Data queries,Queries by form,Inclusion Criteria,% open,0.1467
+Data queries,Queries by form,Inclusion Criteria,Reviewing,2
+Data queries,Queries by form,Inclusion Criteria,% reviewing,0.0267
+Data queries,Queries by form,Inclusion Criteria,Closed,62
+Data queries,Queries by form,Inclusion Criteria,% closed,0.8267
+Data queries,Queries by form,Inclusion Criteria,Mean days open,205.5615
+Data queries,Queries by form,Inclusion Criteria,Median days open,152.3705
+Data queries,Queries by form,Inclusion Criteria,Range of days open,1.0-627.8
+Data queries,Queries by form,Informed Consent,Total,74
+Data queries,Queries by form,Informed Consent,Open,14
+Data queries,Queries by form,Informed Consent,% open,0.1892
+Data queries,Queries by form,Informed Consent,Reviewing,4
+Data queries,Queries by form,Informed Consent,% reviewing,0.0541
+Data queries,Queries by form,Informed Consent,Closed,56
+Data queries,Queries by form,Informed Consent,% closed,0.7568
+Data queries,Queries by form,Informed Consent,Mean days open,208.439
+Data queries,Queries by form,Informed Consent,Median days open,234.9511
+Data queries,Queries by form,Informed Consent,Range of days open,0.9-547.4
+Data queries,Queries by form,Medical History,Total,65
+Data queries,Queries by form,Medical History,Open,13
+Data queries,Queries by form,Medical History,% open,0.2
+Data queries,Queries by form,Medical History,Reviewing,3
+Data queries,Queries by form,Medical History,% reviewing,0.0462
+Data queries,Queries by form,Medical History,Closed,49
+Data queries,Queries by form,Medical History,% closed,0.7538
+Data queries,Queries by form,Medical History,Mean days open,57.5225
+Data queries,Queries by form,Medical History,Median days open,15.8222
+Data queries,Queries by form,Medical History,Range of days open,0.2-211.8
+Data queries,Queries by form,Post-Surgical Findings,Total,116
+Data queries,Queries by form,Post-Surgical Findings,Open,19
+Data queries,Queries by form,Post-Surgical Findings,% open,0.1638
+Data queries,Queries by form,Post-Surgical Findings,Reviewing,4
+Data queries,Queries by form,Post-Surgical Findings,% reviewing,0.0345
+Data queries,Queries by form,Post-Surgical Findings,Closed,93
+Data queries,Queries by form,Post-Surgical Findings,% closed,0.8017
+Data queries,Queries by form,Post-Surgical Findings,Mean days open,139.8362
+Data queries,Queries by form,Post-Surgical Findings,Median days open,114.1775
+Data queries,Queries by form,Post-Surgical Findings,Range of days open,2.6-396.3
+Data queries,Queries by form,Protocol Deviations,Total,62
+Data queries,Queries by form,Protocol Deviations,Open,5
+Data queries,Queries by form,Protocol Deviations,% open,0.0806
+Data queries,Queries by form,Protocol Deviations,Reviewing,2
+Data queries,Queries by form,Protocol Deviations,% reviewing,0.0323
+Data queries,Queries by form,Protocol Deviations,Closed,55
+Data queries,Queries by form,Protocol Deviations,% closed,0.8871
+Data queries,Queries by form,Protocol Deviations,Mean days open,114.8994
+Data queries,Queries by form,Protocol Deviations,Median days open,21.6708
+Data queries,Queries by form,Protocol Deviations,Range of days open,1.4-618.9
+Data queries,Queries by form,Study Blood Sample Collection & Processing,Total,63
+Data queries,Queries by form,Study Blood Sample Collection & Processing,Open,5
+Data queries,Queries by form,Study Blood Sample Collection & Processing,% open,0.0794
+Data queries,Queries by form,Study Blood Sample Collection & Processing,Reviewing,10
+Data queries,Queries by form,Study Blood Sample Collection & Processing,% reviewing,0.1587
+Data queries,Queries by form,Study Blood Sample Collection & Processing,Closed,48
+Data queries,Queries by form,Study Blood Sample Collection & Processing,% closed,0.7619
+Data queries,Queries by form,Study Blood Sample Collection & Processing,Mean days open,188.0117
+Data queries,Queries by form,Study Blood Sample Collection & Processing,Median days open,103.382
+Data queries,Queries by form,Study Blood Sample Collection & Processing,Range of days open,10.8-673.1
+Data queries,Queries by form,Study Completion,Total,58
+Data queries,Queries by form,Study Completion,Open,3
+Data queries,Queries by form,Study Completion,% open,0.0517
+Data queries,Queries by form,Study Completion,Reviewing,1
+Data queries,Queries by form,Study Completion,% reviewing,0.0172
+Data queries,Queries by form,Study Completion,Closed,54
+Data queries,Queries by form,Study Completion,% closed,0.931
+Data queries,Queries by form,Study Completion,Mean days open,189.8267
+Data queries,Queries by form,Study Completion,Median days open,161.0265
+Data queries,Queries by form,Study Completion,Range of days open,65.3-371.9
+Data queries,Queries by form,All,Total,1004
+Data queries,Queries by form,All,Open,129
+Data queries,Queries by form,All,% open,0.1285
+Data queries,Queries by form,All,Reviewing,52
+Data queries,Queries by form,All,% reviewing,0.0518
+Data queries,Queries by form,All,Closed,823
+Data queries,Queries by form,All,% closed,0.8197
+Data queries,Queries by form,All,Mean days open,157.8314
+Data queries,Queries by form,All,Median days open,97.2385
+Data queries,Queries by form,All,Range of days open,0.0-673.1

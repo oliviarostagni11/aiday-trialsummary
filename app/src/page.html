@@ -1,0 +1,339 @@
+<title>Trial Summary Builder</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Instrument+Sans:wght@500;600;700&display=swap">
+<style>
+/* Layout: a five-step working sheet. Steps run top to bottom; step 4 pairs the content toggles with a live page-1 preview. */
+:root {
+  --bg: #f3f5f8; --surface: #ffffff; --surface-2: #f8fafc; --ink: #14212b; --muted: #5a6773; --line: #dde3e9;
+  --accent: #1c5cab; --accent-ink: #ffffff; --accent-soft: #e6eef8; --paper: #ffffff; --paper-line: #e3e8ee;
+  --good: #1d7f3a; --good-soft: #e5f3e9; --warn: #9a5b00; --warn-soft: #fbf0dc; --bad: #c23b3b; --bad-soft: #fbe6e6;
+  --info: #2a6f97; --info-soft: #e3f0f7;
+  --f-display: "Instrument Sans", "Helvetica Neue", Arial, sans-serif;
+  --f-body: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  --r: 10px;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0f151b; --surface: #161f27; --surface-2: #1b2630; --ink: #e7edf2; --muted: #9aa8b4; --line: #2a3742;
+  --accent: #6da7ec; --accent-ink: #0b1622; --accent-soft: #1a2c42; --paper: #1b2630; --paper-line: #2c3a46;
+  --good: #57c27a; --good-soft: #17301f; --warn: #f0b03c; --warn-soft: #33270f; --bad: #ef6b6b; --bad-soft: #3a1b1b;
+  --info: #71b7dd; --info-soft: #14293a; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #0f151b; --surface: #161f27; --surface-2: #1b2630; --ink: #e7edf2; --muted: #9aa8b4; --line: #2a3742;
+  --accent: #6da7ec; --accent-ink: #0b1622; --accent-soft: #1a2c42; --paper: #1b2630; --paper-line: #2c3a46;
+  --good: #57c27a; --good-soft: #17301f; --warn: #f0b03c; --warn-soft: #33270f; --bad: #ef6b6b; --bad-soft: #3a1b1b;
+  --info: #71b7dd; --info-soft: #14293a; color-scheme: dark; }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font: 15px/1.55 var(--f-body); }
+.wrap { max-width: 1120px; margin: 0 auto; padding-block: 28px 56px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 28px; }
+h1, h2, h3 { font-family: var(--f-display); text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(28px, 4vw, 38px); line-height: 1.1; letter-spacing: -0.01em; }
+h2 { font-size: 21px; line-height: 1.2; }
+h3 { font-size: 15px; }
+p { margin: 0; }
+.muted { color: var(--muted); }
+.mono { font-family: var(--f-mono); font-size: 12.5px; overflow-wrap: anywhere; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+
+header.top { display: grid; gap: 12px; }
+.eyebrow { font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); }
+.lede { max-width: 66ch; color: var(--muted); }
+.badges { display: flex; flex-wrap: wrap; gap: 8px; }
+.badge { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; font-weight: 500; padding: 4px 10px;
+  border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--muted); }
+.badge.local { border-color: var(--good); color: var(--good); background: var(--good-soft); }
+
+nav.steps ol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px; }
+nav.steps a { display: flex; gap: 10px; align-items: center; padding: 10px 12px; border-radius: var(--r); text-decoration: none;
+  color: var(--ink); background: var(--surface); border: 1px solid var(--line); font-size: 14px; font-weight: 500; min-width: 0; }
+nav.steps a:hover { border-color: var(--accent); }
+.num { flex: none; width: 24px; height: 24px; border-radius: 50%; display: grid; place-items: center; font: 600 12.5px var(--f-mono);
+  background: var(--accent-soft); color: var(--accent); }
+.done .num { background: var(--good); color: var(--surface); }
+.blocked .num { background: var(--bad); color: var(--surface); }
+
+section.step { display: grid; grid-template-columns: 40px minmax(0, 1fr); gap: 0 16px; scroll-margin-top: 16px; }
+section.step > .num { width: 32px; height: 32px; font-size: 14px; margin-top: 2px; }
+.step-body { display: grid; gap: 14px; min-width: 0; }
+.step-head { display: grid; gap: 4px; }
+
+.fields { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.field { display: grid; gap: 6px; min-width: 0; align-content: start; }
+.field label, .flabel { font-size: 13px; font-weight: 600; }
+select, button { font: inherit; }
+select { padding: 9px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); width: 100%; }
+select:disabled { color: var(--muted); }
+.fixed { padding: 9px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface-2); color: var(--ink); }
+.hint { font-size: 12.5px; color: var(--muted); }
+
+.drop { border: 1.5px dashed var(--accent); border-radius: var(--r); background: var(--accent-soft); padding: 22px;
+  display: flex; flex-wrap: wrap; gap: 14px; align-items: center; justify-content: space-between; transition: background .15s; }
+.drop.over { background: var(--surface); border-style: solid; }
+.drop strong { display: block; font-size: 15.5px; }
+.drop .actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.btn { display: inline-flex; align-items: center; gap: 8px; padding: 9px 16px; border-radius: 8px; border: 1px solid var(--accent);
+  background: var(--accent); color: var(--accent-ink); font-weight: 600; cursor: pointer; }
+.btn.ghost { background: transparent; color: var(--accent); }
+.btn:hover:not(:disabled) { filter: brightness(1.06); }
+.btn:disabled { opacity: .45; cursor: not-allowed; }
+.example-banner { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; padding: 10px 14px;
+  border-radius: var(--r); background: var(--warn-soft); color: var(--warn); font-size: 13.5px; font-weight: 500; }
+.example-banner[hidden] { display: none !important; }
+.tablewrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); }
+table { width: 100%; border-collapse: collapse; font-size: 13.5px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+th { font-size: 12px; font-weight: 600; color: var(--muted); letter-spacing: 0.03em; text-transform: uppercase; background: var(--surface-2); }
+tr:last-child td { border-bottom: 0; }
+td.num-r { text-align: right; }
+
+.chip { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; font-weight: 600; padding: 3px 9px; border-radius: 999px; white-space: nowrap; }
+.chip::before { font-family: var(--f-mono); font-weight: 700; }
+.chip.ok { background: var(--good-soft); color: var(--good); } .chip.ok::before { content: "\2713"; }
+.chip.warn { background: var(--warn-soft); color: var(--warn); } .chip.warn::before { content: "!"; }
+.chip.bad { background: var(--bad-soft); color: var(--bad); } .chip.bad::before { content: "\2715"; }
+.chip.info { background: var(--info-soft); color: var(--info); } .chip.info::before { content: "i"; }
+.chip.wait { background: var(--surface-2); color: var(--muted); } .chip.wait::before { content: "\2026"; }
+
+.checks { list-style: none; margin: 0; padding: 0; display: grid; border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); }
+.checks li { display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 12px; padding: 11px 14px; border-bottom: 1px solid var(--line); align-items: start; }
+.checks li:last-child { border-bottom: 0; }
+.checks b { font-weight: 600; }
+.empty-note { padding: 14px; color: var(--muted); font-style: italic; }
+
+.compose { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.05fr); gap: 18px; align-items: start; }
+.presets { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--ink); padding: 7px 14px; cursor: pointer; font-size: 13.5px; }
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); font-weight: 600; }
+.linkbtn { border: 0; background: none; color: var(--accent); cursor: pointer; font-size: 13px; padding: 4px 6px; text-decoration: underline; text-underline-offset: 2px; }
+.tree { display: grid; gap: 10px; }
+.group { border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); }
+.group.lists { border-color: var(--warn); }
+.group-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 11px 14px; }
+.group-head .t { display: grid; gap: 1px; min-width: 0; }
+.group-head .t small { color: var(--muted); font-size: 12.5px; }
+.items { border-top: 1px solid var(--line); padding: 6px 14px 10px; display: grid; gap: 2px; }
+.items[hidden] { display: none !important; }
+.item { display: flex; align-items: flex-start; gap: 10px; padding: 5px 0; font-size: 14px; }
+.item > input { margin-top: 3px; accent-color: var(--accent); width: 16px; height: 16px; flex: none; }
+.item .cols { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-top: 4px; }
+.item .cols label { font-size: 12.5px; color: var(--muted); display: inline-flex; gap: 6px; align-items: center; }
+.item .cols input { margin: 0; width: 14px; height: 14px; accent-color: var(--accent); }
+.item.off > span { color: var(--muted); }
+.switch { position: relative; flex: none; width: 40px; height: 22px; border-radius: 999px; border: 0; padding: 0; cursor: pointer; background: var(--line); transition: background .15s; }
+.switch::after { content: ""; position: absolute; top: 3px; left: 3px; width: 16px; height: 16px; border-radius: 50%; background: var(--surface);
+  box-shadow: 0 1px 2px rgba(0,0,0,.25); transition: transform .15s; }
+.switch[aria-checked="true"] { background: var(--accent); }
+.switch[aria-checked="true"]::after { transform: translateX(18px); }
+.switch:disabled { opacity: .45; cursor: not-allowed; }
+.lock { margin: 0; border-top: 1px solid var(--line); padding: 9px 14px; font-size: 12.5px; color: var(--warn); }
+
+.preview { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 12px); display: grid; gap: 10px; }
+.paper { background: var(--paper); border: 1px solid var(--paper-line); border-radius: 6px; box-shadow: 0 6px 24px rgba(20,33,43,.08);
+  padding: 22px 22px 18px; display: grid; gap: 12px; font-size: 12.5px; }
+.paper .p-eyebrow { font: 600 10.5px var(--f-body); letter-spacing: .08em; color: var(--accent); text-transform: uppercase; }
+.paper .p-title { font: 700 20px/1.15 var(--f-display); color: var(--ink); }
+.paper .p-meta { color: var(--muted); font-size: 11px; }
+.paper .p-draft { color: var(--bad); font-size: 10.5px; font-weight: 700; }
+.paper hr { border: 0; border-top: 2px solid var(--accent); margin: 2px 0; }
+.tiles { display: flex; flex-wrap: wrap; gap: 6px; }
+.tile { flex: 1 1 calc(33.333% - 6px); background: var(--accent-soft); border-radius: 4px; padding: 8px 9px; display: grid; gap: 1px; min-width: 0; }
+.tile b { font: 700 19px/1.1 var(--f-display); color: var(--accent); font-variant-numeric: tabular-nums; }
+.tile span { font-weight: 600; font-size: 11px; }
+.tile small { color: var(--muted); font-size: 10px; }
+.paper h4 { margin: 4px 0 0; font: 600 12.5px var(--f-display); color: var(--accent); }
+.paper ul { margin: 0; padding-left: 16px; display: grid; gap: 3px; }
+.contents { display: grid; gap: 4px; }
+.contents div { display: flex; justify-content: space-between; gap: 8px; border-bottom: 1px dotted var(--paper-line); padding: 2px 0; }
+.summary-line { font-size: 13px; color: var(--muted); }
+.summary-line b { color: var(--ink); }
+.empty { color: var(--muted); font-style: italic; }
+
+.dl { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.card { border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); padding: 16px; display: grid; gap: 8px; align-content: start; }
+.card .ext { font: 600 12px var(--f-mono); color: var(--accent); }
+.card .btn { justify-self: start; margin-top: 4px; }
+.card .status { font-size: 12.5px; min-height: 1.2em; }
+.status.ok { color: var(--good); } .status.bad { color: var(--bad); } .status.busy { color: var(--muted); }
+.notice { font-size: 13px; padding: 10px 12px; border-radius: 8px; background: var(--info-soft); color: var(--info); }
+.notice.bad { background: var(--bad-soft); color: var(--bad); }
+.notice[hidden] { display: none !important; }
+.before { border-left: 3px solid var(--accent); padding: 4px 0 4px 14px; display: grid; gap: 6px; }
+.before ol { margin: 0; padding-left: 18px; display: grid; gap: 3px; }
+footer { border-top: 1px solid var(--line); padding-top: 18px; display: grid; gap: 8px; font-size: 13px; color: var(--muted); }
+footer ul { margin: 0; padding-left: 18px; display: grid; gap: 3px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+@media (max-width: 860px) {
+  .compose { grid-template-columns: minmax(0, 1fr); }
+  .preview { position: static; }
+  nav.steps ol { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .fields, .dl { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 520px) {
+  section.step { grid-template-columns: minmax(0, 1fr); gap: 10px; }
+  .checks li { grid-template-columns: minmax(0, 1fr); gap: 4px; }
+  .tile { flex-basis: calc(50% - 6px); }
+  nav.steps ol { grid-template-columns: minmax(0, 1fr); }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+html { scroll-behavior: smooth; }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div class="eyebrow">Lindus Health · Clinical operations</div>
+    <h1>Trial Summary Builder</h1>
+    <p class="lede">Build the monthly Cleo Diagnostics summary from the Citrus exports and the central lab inventory report. Add the files, check the inputs, choose what goes in, then download the Word summary and Excel workbook.</p>
+    <div class="badges">
+      <span class="badge local">Files stay in your browser. Nothing is uploaded.</span>
+      <span class="badge">No AI reads the exports. Every number comes from fixed calculation rules.</span>
+    </div>
+  </header>
+
+  <nav class="steps" aria-label="Steps">
+    <ol>
+      <li id="nav-study"><a href="#study"><span class="num">1</span>Study and month</a></li>
+      <li id="nav-files"><a href="#files"><span class="num">2</span>Add files</a></li>
+      <li id="nav-checks"><a href="#checks"><span class="num">3</span>Check inputs</a></li>
+      <li id="nav-content"><a href="#content"><span class="num">4</span>Choose content</a></li>
+      <li id="nav-download"><a href="#download"><span class="num">5</span>Download</a></li>
+    </ol>
+  </nav>
+
+  <section class="step" id="study" aria-labelledby="h-study">
+    <span class="num">1</span>
+    <div class="step-body">
+      <div class="step-head"><h2 id="h-study">Study and month</h2>
+        <p class="muted">The month sets the counting window. Month figures use events dated inside it, and to-date figures run to its last day.</p></div>
+      <div class="fields">
+        <div class="field"><span class="flabel">Study</span>
+          <span class="fixed">Cleo Diagnostics · CSP-01-001 (CleoUSA)</span>
+          <span class="hint">14-day DX1 and 28-day DX2 registration windows.</span></div>
+        <div class="field"><label for="f-month">Reporting month</label>
+          <select id="f-month" disabled><option>Add files first</option></select>
+          <span class="hint" id="month-hint">Months up to the last full month before the export date.</span></div>
+        <div class="field"><span class="flabel">Site list</span>
+          <span class="fixed" id="site-list-label">CLEO-001 site list</span>
+          <span class="hint">Site type, academic status, activation date and termination.</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="step" id="files" aria-labelledby="h-files">
+    <span class="num">2</span>
+    <div class="step-body">
+      <div class="step-head"><h2 id="h-files">Add files</h2>
+        <p class="muted">Download the 7 Citrus exports and save the inventory report from the lab email. The tool recognises each file by its columns, so renamed files still work.</p></div>
+      <div class="example-banner" id="example-banner" hidden>
+        <span>Example data is loaded: made-up July 2026 exports. Clear it before adding real files.</span>
+        <button class="btn ghost" type="button" id="btn-clear-example">Clear example data</button>
+      </div>
+      <div class="drop" id="drop">
+        <div><strong>Drop the 7 Citrus exports and the inventory report here</strong>
+          <span class="hint">CSV from Citrus. XLSX or CSV for the inventory report. Adding a file of the same kind replaces the older one.</span></div>
+        <div class="actions">
+          <input type="file" id="file-input" class="sr-only" multiple accept=".csv,.xlsx">
+          <button class="btn" type="button" id="btn-choose">Choose files</button>
+          <button class="btn ghost" type="button" id="btn-example">Load example data</button>
+          <button class="btn ghost" type="button" id="btn-clear">Clear files</button>
+        </div>
+      </div>
+      <p class="notice" id="file-status" role="status" hidden></p>
+      <div class="tablewrap">
+        <table>
+          <thead><tr><th>Expected file</th><th>Matched file</th><th class="num-r">Rows</th><th>Dated</th><th>Status</th></tr></thead>
+          <tbody id="file-rows"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="step" id="checks" aria-labelledby="h-checks">
+    <span class="num">3</span>
+    <div class="step-body">
+      <div class="step-head"><h2 id="h-checks">Check inputs</h2>
+        <p class="muted">A red check stops the build and says what to fix. Amber and blue checks explain what the numbers include.</p></div>
+      <ul class="checks" id="check-list"></ul>
+    </div>
+  </section>
+
+  <section class="step" id="content" aria-labelledby="h-content">
+    <span class="num">4</span>
+    <div class="step-body">
+      <div class="step-head"><h2 id="h-content">Choose content</h2>
+        <p class="muted">Pick the audience, then turn sections, tables and columns on or off. Key figures, highlights and definitions follow your choices, so the summary never mentions a number the reader cannot see. Sponsor versions never include participant-level data.</p></div>
+      <div class="presets">
+        <span class="hint">Audience</span>
+        <div class="seg" role="group" aria-label="Audience">
+          <button type="button" id="a-sponsor" aria-pressed="true">Sponsor</button>
+          <button type="button" id="a-internal" aria-pressed="false">Internal</button>
+        </div>
+        <span class="hint" id="edited" hidden>Edited from the default</span>
+        <button class="linkbtn" type="button" id="btn-save-choices">Save as my default</button>
+        <button class="linkbtn" type="button" id="btn-reset-choices">Reset</button>
+        <span class="hint" id="choices-status" role="status"></span>
+      </div>
+      <div class="compose">
+        <div class="tree" id="tree"></div>
+        <aside class="preview" aria-label="Preview of page 1">
+          <p class="summary-line" id="counts"></p>
+          <div class="paper" id="paper"></div>
+          <p class="hint">Preview of page 1 of the Word summary. The Excel Summary tab shows the same figures.</p>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <section class="step" id="download" aria-labelledby="h-download">
+    <span class="num">5</span>
+    <div class="step-body">
+      <div class="step-head"><h2 id="h-download">Download</h2>
+        <p class="muted">You confirm each file before it saves. This tool never sends anything to the sponsor.</p></div>
+      <p class="notice bad" id="dl-blocked" hidden>Fix the red checks in step 3 before downloading.</p>
+      <div class="dl">
+        <div class="card"><span class="ext">.docx</span><h3>Word summary</h3>
+          <p class="muted">For email and meeting agendas. Key figures, highlights, then one part per section.</p>
+          <button class="btn" type="button" id="dl-docx">Download Word</button><span class="status" id="st-docx" role="status"></span></div>
+        <div class="card"><span class="ext">.xlsx</span><h3>Excel workbook</h3>
+          <p class="muted">One tab per section, with every table you chose. Participant lists appear only in the Internal version.</p>
+          <button class="btn" type="button" id="dl-xlsx">Download Excel</button><span class="status" id="st-xlsx" role="status"></span></div>
+        <div class="card"><span class="ext">.csv</span><h3>Totals file</h3>
+          <p class="muted">Totals only, with no participant rows. Keep it to compare against next month.</p>
+          <button class="btn ghost" type="button" id="dl-csv">Download totals</button><span class="status" id="st-csv" role="status"></span></div>
+      </div>
+      <p class="notice" id="dl-note" hidden></p>
+      <div class="before">
+        <h3>Before you send</h3>
+        <ol>
+          <li>Check the key figures against last month's summary.</li>
+          <li>Read the highlights and edit the wording in Word if needed.</li>
+          <li>Send from your own email. A person reviews every summary before it reaches the sponsor.</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <strong>How this tool handles data</strong>
+    <ul>
+      <li>Files are read inside your browser and are gone when you close or reload the page.</li>
+      <li>The inventory report's date of birth column is removed as the file opens. No output ever contains it.</li>
+      <li>Sponsor versions contain totals only. Participant and sample lists are available to internal readers only.</li>
+      <li>"Save as my default" keeps your content choices in this browser only. It never stores data.</li>
+    </ul>
+  </footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/exceljs/4.4.0/exceljs.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/docx@8.5.0/build/index.umd.js"></script>
+<!-- INLINE:sites -->
+<!-- INLINE:engine.js -->
+<!-- INLINE:model.js -->
+<!-- INLINE:writers.js -->
+<!-- INLINE:ui.js -->

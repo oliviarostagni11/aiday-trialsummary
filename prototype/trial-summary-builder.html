@@ -1,0 +1,587 @@
+<title>Trial Summary Builder</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Instrument+Sans:wght@500;600;700&display=swap">
+<style>
+/* Layout: a five-step working sheet. Steps run top to bottom; step 4 pairs the content toggles with a live page-1 preview. */
+:root {
+  --bg: #f3f5f8; --surface: #ffffff; --surface-2: #f8fafc; --ink: #14212b; --muted: #5a6773; --line: #dde3e9;
+  --accent: #1c5cab; --accent-ink: #ffffff; --accent-soft: #e6eef8; --paper: #ffffff; --paper-line: #e3e8ee;
+  --good: #1d7f3a; --good-soft: #e5f3e9; --warn: #9a5b00; --warn-soft: #fbf0dc; --bad: #c23b3b; --bad-soft: #fbe6e6;
+  --info: #2a6f97; --info-soft: #e3f0f7;
+  --f-display: "Instrument Sans", "Helvetica Neue", Arial, sans-serif;
+  --f-body: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  --r: 10px;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0f151b; --surface: #161f27; --surface-2: #1b2630; --ink: #e7edf2; --muted: #9aa8b4; --line: #2a3742;
+  --accent: #6da7ec; --accent-ink: #0b1622; --accent-soft: #1a2c42; --paper: #1b2630; --paper-line: #2c3a46;
+  --good: #57c27a; --good-soft: #17301f; --warn: #f0b03c; --warn-soft: #33270f; --bad: #ef6b6b; --bad-soft: #3a1b1b;
+  --info: #71b7dd; --info-soft: #14293a; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #0f151b; --surface: #161f27; --surface-2: #1b2630; --ink: #e7edf2; --muted: #9aa8b4; --line: #2a3742;
+  --accent: #6da7ec; --accent-ink: #0b1622; --accent-soft: #1a2c42; --paper: #1b2630; --paper-line: #2c3a46;
+  --good: #57c27a; --good-soft: #17301f; --warn: #f0b03c; --warn-soft: #33270f; --bad: #ef6b6b; --bad-soft: #3a1b1b;
+  --info: #71b7dd; --info-soft: #14293a; color-scheme: dark; }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font: 15px/1.55 var(--f-body); }
+.wrap { max-width: 1120px; margin: 0 auto; padding-block: 28px 56px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 28px; }
+h1, h2, h3 { font-family: var(--f-display); text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(28px, 4vw, 38px); line-height: 1.1; letter-spacing: -0.01em; }
+h2 { font-size: 21px; line-height: 1.2; }
+h3 { font-size: 15px; }
+p { margin: 0; }
+.muted { color: var(--muted); }
+.mono { font-family: var(--f-mono); font-size: 13px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+
+/* header */
+header.top { display: grid; gap: 12px; }
+.eyebrow { font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); }
+.lede { max-width: 66ch; color: var(--muted); }
+.badges { display: flex; flex-wrap: wrap; gap: 8px; }
+.badge { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; font-weight: 500; padding: 4px 10px;
+  border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--muted); }
+.badge.proto { border-color: var(--warn); color: var(--warn); background: var(--warn-soft); }
+.badge.local { border-color: var(--good); color: var(--good); background: var(--good-soft); }
+
+/* step nav */
+nav.steps ol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px; }
+nav.steps a { display: flex; gap: 10px; align-items: center; padding: 10px 12px; border-radius: var(--r); text-decoration: none;
+  color: var(--ink); background: var(--surface); border: 1px solid var(--line); font-size: 14px; font-weight: 500; min-width: 0; }
+nav.steps a:hover { border-color: var(--accent); }
+.num { flex: none; width: 24px; height: 24px; border-radius: 50%; display: grid; place-items: center; font: 600 12.5px var(--f-mono);
+  background: var(--accent-soft); color: var(--accent); }
+.done .num { background: var(--good); color: var(--surface); }
+
+/* step sections */
+section.step { display: grid; grid-template-columns: 40px minmax(0, 1fr); gap: 0 16px; scroll-margin-top: 16px; }
+section.step > .num { width: 32px; height: 32px; font-size: 14px; margin-top: 2px; }
+.step-body { display: grid; gap: 14px; min-width: 0; }
+.step-head { display: grid; gap: 4px; }
+
+/* fields */
+.fields { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.field { display: grid; gap: 6px; min-width: 0; }
+.field label { font-size: 13px; font-weight: 600; }
+select, button { font: inherit; }
+select { padding: 9px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); width: 100%; }
+.hint { font-size: 12.5px; color: var(--muted); }
+
+/* drop zone + file table */
+.drop { border: 1.5px dashed var(--accent); border-radius: var(--r); background: var(--accent-soft); padding: 22px;
+  display: flex; flex-wrap: wrap; gap: 14px; align-items: center; justify-content: space-between; }
+.drop strong { display: block; font-size: 15.5px; }
+.btn { display: inline-flex; align-items: center; gap: 8px; padding: 9px 16px; border-radius: 8px; border: 1px solid var(--accent);
+  background: var(--accent); color: var(--accent-ink); font-weight: 600; cursor: pointer; }
+.btn.ghost { background: transparent; color: var(--accent); }
+.btn:hover { filter: brightness(1.06); }
+.tablewrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); }
+table { width: 100%; border-collapse: collapse; font-size: 13.5px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+th { font-size: 12px; font-weight: 600; color: var(--muted); letter-spacing: 0.03em; text-transform: uppercase; background: var(--surface-2); }
+tr:last-child td { border-bottom: 0; }
+td.num-r { text-align: right; }
+
+/* status chips (icon + label, never color alone) */
+.chip { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; font-weight: 600; padding: 3px 9px; border-radius: 999px; white-space: nowrap; }
+.chip::before { font-family: var(--f-mono); font-weight: 700; }
+.chip.ok { background: var(--good-soft); color: var(--good); } .chip.ok::before { content: "✓"; }
+.chip.warn { background: var(--warn-soft); color: var(--warn); } .chip.warn::before { content: "!"; }
+.chip.bad { background: var(--bad-soft); color: var(--bad); } .chip.bad::before { content: "✕"; }
+.chip.info { background: var(--info-soft); color: var(--info); } .chip.info::before { content: "i"; }
+
+.checks { list-style: none; margin: 0; padding: 0; display: grid; border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); }
+.checks li { display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 12px; padding: 11px 14px; border-bottom: 1px solid var(--line); align-items: start; }
+.checks li:last-child { border-bottom: 0; }
+.checks b { font-weight: 600; }
+
+/* step 4 */
+.compose { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.05fr); gap: 18px; align-items: start; }
+.presets { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--ink); padding: 7px 12px; cursor: pointer; font-size: 13.5px; }
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); font-weight: 600; }
+.tree { display: grid; gap: 10px; }
+.group { border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); }
+.group.lists { border-color: var(--warn); }
+.group-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 11px 14px; }
+.group-head .t { display: grid; gap: 1px; min-width: 0; }
+.group-head .t small { color: var(--muted); font-size: 12.5px; }
+.items { border-top: 1px solid var(--line); padding: 6px 14px 10px; display: grid; gap: 2px; }
+.items[hidden] { display: none !important; }
+.item { display: flex; align-items: flex-start; gap: 10px; padding: 5px 0; font-size: 14px; }
+.item input { margin-top: 3px; accent-color: var(--accent); width: 16px; height: 16px; flex: none; }
+.item .cols { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-top: 4px; }
+.item .cols label { font-size: 12.5px; color: var(--muted); display: inline-flex; gap: 6px; align-items: center; }
+.item .cols input { margin: 0; width: 14px; height: 14px; }
+.item.off > span { color: var(--muted); }
+
+.switch { position: relative; flex: none; width: 40px; height: 22px; border-radius: 999px; border: 0; padding: 0; cursor: pointer;
+  background: var(--line); transition: background .15s; }
+.switch::after { content: ""; position: absolute; top: 3px; left: 3px; width: 16px; height: 16px; border-radius: 50%; background: var(--surface);
+  box-shadow: 0 1px 2px rgba(0,0,0,.25); transition: transform .15s; }
+.switch[aria-checked="true"] { background: var(--accent); }
+.switch[aria-checked="true"]::after { transform: translateX(18px); }
+
+/* preview paper */
+.preview { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 12px); display: grid; gap: 10px; }
+.paper { background: var(--paper); border: 1px solid var(--paper-line); border-radius: 6px; box-shadow: 0 6px 24px rgba(20,33,43,.08);
+  padding: 22px 22px 18px; display: grid; gap: 12px; font-size: 12.5px; }
+.paper .p-eyebrow { font: 600 10.5px var(--f-body); letter-spacing: .08em; color: var(--accent); text-transform: uppercase; }
+.paper .p-title { font: 700 20px/1.15 var(--f-display); color: var(--ink); }
+.paper .p-meta { color: var(--muted); font-size: 11px; }
+.paper .p-draft { color: var(--bad); font-size: 10.5px; font-weight: 700; }
+.paper hr { border: 0; border-top: 2px solid var(--accent); margin: 2px 0; }
+.tiles { display: flex; flex-wrap: wrap; gap: 6px; }
+.tile { flex: 1 1 calc(33.333% - 6px); background: var(--accent-soft); border-radius: 4px; padding: 8px 9px; display: grid; gap: 1px; min-width: 0; }
+.switch:disabled { opacity: .45; cursor: not-allowed; }
+.lock { margin: 0; border-top: 1px solid var(--line); padding: 9px 14px; font-size: 12.5px; color: var(--warn); }
+.flabel { font-size: 13px; font-weight: 600; }
+.fixed { padding: 9px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface-2); color: var(--ink); }
+.tile b { font: 700 19px/1.1 var(--f-display); color: var(--accent); font-variant-numeric: tabular-nums; }
+.tile span { font-weight: 600; font-size: 11px; }
+.tile small { color: var(--muted); font-size: 10px; }
+.paper h4 { margin: 4px 0 0; font: 600 12.5px var(--f-display); color: var(--accent); }
+.paper ul { margin: 0; padding-left: 16px; display: grid; gap: 3px; }
+.contents { display: grid; gap: 4px; }
+.contents div { display: flex; justify-content: space-between; gap: 8px; border-bottom: 1px dotted var(--paper-line); padding: 2px 0; }
+.summary-line { font-size: 13px; color: var(--muted); }
+.summary-line b { color: var(--ink); }
+.empty { color: var(--muted); font-style: italic; }
+
+/* downloads */
+.dl { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.card { border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); padding: 16px; display: grid; gap: 8px; align-content: start; }
+.card .ext { font: 600 12px var(--f-mono); color: var(--accent); }
+.card .btn { justify-self: start; margin-top: 4px; }
+.notice { font-size: 13px; padding: 10px 12px; border-radius: 8px; background: var(--info-soft); color: var(--info); }
+.notice[hidden] { display: none !important; }
+.proto-msg { flex-basis: 100%; color: var(--info); }
+.before { border-left: 3px solid var(--accent); padding: 4px 0 4px 14px; display: grid; gap: 6px; }
+.before ol { margin: 0; padding-left: 18px; display: grid; gap: 3px; }
+
+footer { border-top: 1px solid var(--line); padding-top: 18px; display: grid; gap: 8px; font-size: 13px; color: var(--muted); }
+footer ul { margin: 0; padding-left: 18px; display: grid; gap: 3px; }
+
+@media (max-width: 860px) {
+  .compose { grid-template-columns: minmax(0, 1fr); }
+  .preview { position: static; }
+  nav.steps ol { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .fields, .dl { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 520px) {
+  section.step { grid-template-columns: minmax(0, 1fr); gap: 10px; }
+  .checks li { grid-template-columns: minmax(0, 1fr); gap: 4px; }
+  .tile { flex-basis: calc(50% - 6px); }
+  nav.steps ol { grid-template-columns: minmax(0, 1fr); }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+html { scroll-behavior: smooth; }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div class="eyebrow">Lindus Health · Clinical operations</div>
+    <h1>Trial Summary Builder</h1>
+    <p class="lede">Build the monthly sponsor summary from the Citrus exports and the central lab inventory report. Choose what goes in, check the first page, then download the Word summary and Excel workbook.</p>
+    <div class="badges">
+      <span class="badge proto">Prototype: example figures, no files are read</span>
+      <span class="badge local">Files stay in your browser. Nothing is uploaded.</span>
+    </div>
+  </header>
+
+  <nav class="steps" aria-label="Steps">
+    <ol>
+      <li class="done"><a href="#study"><span class="num">1</span>Study and month</a></li>
+      <li class="done"><a href="#files"><span class="num">2</span>Add files</a></li>
+      <li class="done"><a href="#checks"><span class="num">3</span>Check inputs</a></li>
+      <li><a href="#content"><span class="num">4</span>Choose content</a></li>
+      <li><a href="#download"><span class="num">5</span>Download</a></li>
+    </ol>
+  </nav>
+
+  <!-- 1 -->
+  <section class="step" id="study" aria-labelledby="h-study">
+    <span class="num">1</span>
+    <div class="step-body">
+      <div class="step-head"><h2 id="h-study">Study and month</h2>
+        <p class="muted">The month sets the counting window. Month figures use events dated inside it, and to-date figures run to its last day.</p></div>
+      <div class="fields">
+        <div class="field"><span class="flabel">Study</span>
+          <span class="fixed">Cleo Diagnostics · CSP-01-001 (CleoUSA)</span>
+          <span class="hint">14-day DX1 and 28-day DX2 registration windows.</span></div>
+        <div class="field"><label for="f-month">Reporting month</label>
+          <select id="f-month"><option>July 2026</option><option>June 2026</option><option>May 2026</option></select>
+          <span class="hint">Data to 31 Jul 2026. Weeks run Monday to Sunday.</span></div>
+        <div class="field"><label for="f-sites">Site list</label>
+          <select id="f-sites"><option>CLEO-001 site list · 23 sites · 21 active in Jul 2026</option></select>
+          <span class="hint">Site type, academic status and activation date.</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 2 -->
+  <section class="step" id="files" aria-labelledby="h-files">
+    <span class="num">2</span>
+    <div class="step-body">
+      <div class="step-head"><h2 id="h-files">Add files</h2>
+        <p class="muted">Download the exports first. The tool recognises each file by its columns, so renamed files still work.</p></div>
+      <div class="drop">
+        <div><strong>Drop the 7 Citrus exports and the inventory report here</strong>
+          <span class="hint">CSV from Citrus. XLSX or CSV for the inventory report.</span></div>
+        <button class="btn ghost" type="button" data-proto="Not connected yet. In the working tool, this opens a file picker. The example files below show what a match looks like.">Choose files</button>
+      </div>
+      <div class="tablewrap">
+        <table>
+          <thead><tr><th>Expected file</th><th>Matched file</th><th class="num-r">Rows</th><th>Dated</th><th>Status</th></tr></thead>
+          <tbody id="file-rows"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3 -->
+  <section class="step" id="checks" aria-labelledby="h-checks">
+    <span class="num">3</span>
+    <div class="step-body">
+      <div class="step-head"><h2 id="h-checks">Check inputs</h2>
+        <p class="muted">A red check stops the build and says what to fix. Amber and blue checks explain what the numbers include.</p></div>
+      <ul class="checks" id="check-list"></ul>
+    </div>
+  </section>
+
+  <!-- 4 -->
+  <section class="step" id="content" aria-labelledby="h-content">
+    <span class="num">4</span>
+    <div class="step-body">
+      <div class="step-head"><h2 id="h-content">Choose content</h2>
+        <p class="muted">Pick the audience, then turn sections, tables and columns on or off. Key figures, highlights and definitions follow your choices, so the summary never mentions a number the reader cannot see. Sponsor versions never include participant-level data.</p></div>
+      <div class="presets">
+        <span class="hint">Audience</span>
+        <div class="seg" role="group" aria-label="Audience">
+          <button type="button" id="p-sponsor" aria-pressed="true">Sponsor</button>
+          <button type="button" id="p-internal" aria-pressed="false">Internal</button>
+        </div>
+        <span class="hint" id="edited" hidden>Edited from the default</span>
+        <button class="btn ghost" type="button" data-proto="Not connected yet. In the working tool, this saves your choices under a name for next month.">Save as preset</button>
+      </div>
+      <div class="compose">
+        <div class="tree" id="tree"></div>
+        <aside class="preview" aria-label="Preview of page 1">
+          <p class="summary-line" id="counts"></p>
+          <div class="paper" id="paper"></div>
+          <p class="hint">Preview of page 1 of the Word summary. Example figures from the July 2026 dummy data.</p>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5 -->
+  <section class="step" id="download" aria-labelledby="h-download">
+    <span class="num">5</span>
+    <div class="step-body">
+      <div class="step-head"><h2 id="h-download">Download</h2>
+        <p class="muted">Your browser asks you to confirm each file before it saves. This tool never sends anything to the sponsor.</p></div>
+      <div class="dl">
+        <div class="card"><span class="ext">.docx</span><h3>Word summary</h3>
+          <p class="muted">For email and meeting agendas. Key figures, highlights, then one part per section.</p>
+          <button class="btn" type="button" data-proto="download">Download Word</button></div>
+        <div class="card"><span class="ext">.xlsx</span><h3>Excel workbook</h3>
+          <p class="muted">One tab per section, with every table you chose. Participant lists appear only in the Internal version.</p>
+          <button class="btn" type="button" data-proto="download">Download Excel</button></div>
+        <div class="card"><span class="ext">.csv</span><h3>Totals file</h3>
+          <p class="muted">Totals only, with no participant rows. Keep it to compare against next month.</p>
+          <button class="btn ghost" type="button" data-proto="download">Download totals</button></div>
+      </div>
+      <p class="notice" id="proto-notice" role="status" hidden>This prototype is not connected yet. In the working tool, this button saves the file after you confirm.</p>
+      <div class="before">
+        <h3>Before you send</h3>
+        <ol>
+          <li>Check the key figures against last month's summary.</li>
+          <li>Read the highlights and edit the wording in Word if needed.</li>
+          <li>Send from your own email. A person reviews every summary before it reaches the sponsor.</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <strong>How this tool handles data</strong>
+    <ul>
+      <li>Files are read inside your browser and are gone when you close the page.</li>
+      <li>The inventory report's date of birth column is removed as the file opens. No output ever contains it.</li>
+      <li>Sponsor versions contain totals only. Participant and sample lists are available to internal readers only.</li>
+      <li>No AI reads the exports. Every number comes from fixed calculation rules.</li>
+      <li>The site list has one owner, who updates it when sites open or change type.</li>
+    </ul>
+  </footer>
+</div>
+
+<script>
+(function () {
+  // ---------- example inputs (July 2026 dummy data) ----------
+  var FILES = [
+    ["Participants overview", "PARTICIPANTS_OVERVIEW-CleoUSA-2026-08-03-13-57-UTC.csv", "1,281", "03 Aug 2026", "ok"],
+    ["CRF completeness", "DATA_COMPLETENESS__CRF-CleoUSA-2026-08-03-13-59-UTC.csv", "14,091", "03 Aug 2026", "ok"],
+    ["ePRO completeness", "DATA_COMPLETENESS__EPRO-CleoUSA-2026-08-03-13-59-UTC.csv", "1,960", "03 Aug 2026", "ok"],
+    ["Data queries", "DATA_QUERY-CleoUSA-2026-08-03-13-58-UTC.csv", "1,024", "03 Aug 2026", "ok"],
+    ["Inclusion criteria", "Inclusion_Criteria-CleoUSA-2026-08-03-13-58-UTC.csv", "945", "03 Aug 2026", "ok"],
+    ["Exclusion criteria", "Exclusion_Criteria-CleoUSA-2026-08-03-13-58-UTC.csv", "937", "03 Aug 2026", "ok"],
+    ["Post-surgical findings", "PostSurgical_Findings-CleoUSA-2026-08-03-13-56-UTC.csv", "797", "03 Aug 2026", "ok"],
+    ["Central lab inventory", "CSP-01-001(LIND0004)_InventoryReport_03AUG2026.xlsx", "1,669", "03 Aug 2026", "ok"]
+  ];
+  var CHECKS = [
+    ["ok", "All 8 files found", "Each file matched by its column layout."],
+    ["ok", "Columns match the expected layout", "No renamed or missing columns in any export."],
+    ["ok", "Exports dated after month end", "Citrus exports and inventory report dated 03 Aug 2026, after 31 Jul 2026."],
+    ["ok", "Every site is in the site list", "22 sites in the data. All are in the CLEO-001 site list of 23 sites."],
+    ["ok", "Every sample matches a Citrus participant", "All 1,669 samples carry a Subject ID found in the participants export."],
+    ["info", "Date of birth removed", "The inventory report's Date of Birth column was dropped as the file opened. It never reaches the summary."],
+    ["info", "Events after 31 Jul are left out", "The exports run to 03 Aug 2026. Consents, enrollments and sample registrations after 31 Jul do not count."],
+    ["warn", "21 July surgeries have no surgery date in Citrus yet", "They count once the date is entered. The report shows 40 July surgeries."]
+  ];
+
+  // ---------- content model ----------
+  // Each table can drive page-1 elements: tiles (t:), highlights (h:) and action items (a:).
+  var MODEL = [
+    { id: "page1", name: "Page 1", note: "Opening page of the Word summary", items: [
+      { id: "tiles", name: "Key figure tiles" }, { id: "highlights", name: "Highlights" }, { id: "attention", name: "Needs attention" } ] },
+    { id: "enrol", name: "Enrollment", note: "Funnel, weekly site rates, site types", items: [
+      { id: "funnel", name: "Recruitment summary", drives: ["t:enrolled", "h:enrolled"] },
+      { id: "conv", name: "Consent to enrollment" },
+      { id: "status", name: "Participant status at month end" },
+      { id: "trend", name: "Enrollments by month chart" },
+      { id: "week", name: "Enrollments by site and week", drives: ["t:rate", "h:rate"],
+        cols: [["Weekly counts", 1], ["Per week", 1], ["Enrolled to date", 1], ["Per month since activation", 1]] },
+      { id: "type", name: "Enrollment by site type" } ] },
+    { id: "comp", name: "Data completeness", note: "Snapshot at the export time. Off for sponsors by default.", sponsorOff: true, items: [
+      { id: "crfsite", name: "CRF completeness by site", drives: ["t:crf", "h:crf"] },
+      { id: "crfform", name: "CRF completeness by form", sponsorOff: true },
+      { id: "eproform", name: "ePRO completeness by form", drives: ["h:epro"] },
+      { id: "eprosite", name: "ePRO completeness by site", sponsorOff: true } ] },
+    { id: "psf", name: "Post-surgical findings", note: "Surgeries, pathology reports, turnaround", items: [
+      { id: "psfsum", name: "Surgery and pathology reports", drives: ["t:path", "h:path", "a:path"] },
+      { id: "turn", name: "Days from enrollment to report upload", cols: [["Mean", 1], ["Median", 1], ["Range", 1]] },
+      { id: "psfsite", name: "Surgery and pathology reports by site" } ] },
+    { id: "blood", name: "Blood samples", note: "Central lab registration windows and pairs", items: [
+      { id: "reg", name: "Sample registration at the central lab", drives: ["t:window", "h:window", "a:late"] },
+      { id: "pairs", name: "Sample pair status at month end", drives: ["a:pairs", "a:nosample"] },
+      { id: "bsite", name: "Sample registration by site" },
+      { id: "loc", name: "Where registered samples are now", sponsorOff: true } ] },
+    { id: "q", name: "Data queries", note: "Open, reviewing and closed, with days open", items: [
+      { id: "qsum", name: "Query status at month end", drives: ["t:queries", "h:queries"] },
+      { id: "qdays", name: "Days open for unresolved queries", drives: ["a:old"], cols: [["Mean", 1], ["Median", 1], ["Range", 1]] },
+      { id: "qchart", name: "Unresolved queries by site chart" },
+      { id: "qsite", name: "Queries by site" },
+      { id: "qtype", name: "Queries by type" },
+      { id: "qform", name: "Queries by form", sponsorOff: true } ] },
+    { id: "lists", name: "Participant lists", note: "Names participants and samples. Internal versions only.", warn: true, internalOnly: true, items: [
+      { id: "l1", name: "Participants awaiting a pathology report" },
+      { id: "l2", name: "Samples missing their pair" },
+      { id: "l3", name: "Enrolled participants with no sample registered" },
+      { id: "l4", name: "Samples registered outside their window" },
+      { id: "l5", name: "Pairs registered on the same day" } ] }
+  ];
+
+  var TILES = {
+    enrolled: ["66", "Enrolled in Jul 2026", "884 enrolled to date"],
+    rate: ["3.14", "Enrolled per active site", "in Jul 2026 · 0.71 per site per week"],
+    crf: ["88%", "CRF forms complete", "9,297 of 10,520 expected forms"],
+    path: ["86%", "Pathology reports uploaded", "687 of 797 surgeries complete"],
+    window: ["87%", "Samples inside window", "108 of 124 registered in Jul 2026"],
+    queries: ["181", "Unresolved queries", "median 97 days open"]
+  };
+  var HIGHLIGHTS = {
+    enrolled: "66 participants enrolled in July 2026, and 72 consented. 884 are enrolled to date across 21 active sites.",
+    rate: "The July 2026 enrollment rate was 3.14 per active site per month, or 0.71 per active site per week.",
+    crf: "CRF completeness is 88%: 9,297 of 10,520 expected forms are complete.",
+    epro: "ePRO completion is 80%: 1,563 of 1,960 assigned forms, with 91 still open.",
+    path: "Pathology reports are uploaded for 687 of 797 participants with surgery complete (86%). Median 45 days from enrollment to upload.",
+    window: "87% of samples registered in July 2026 were inside their registration window (108 of 124).",
+    queries: "181 queries were unresolved at month end: 129 open and 52 in review. Median 97 days open."
+  };
+  var ACTIONS = {
+    pairs: "36 participants have a sample with no pair registered after the window closed.",
+    nosample: "4 enrolled participants have no sample registered at the central lab after 14 days.",
+    late: "16 samples registered in July 2026 were outside their registration window.",
+    path: "71 participants are still waiting for a pathology report more than 60 days after surgery.",
+    old: "93 queries have been open or in review for more than 90 days."
+  };
+
+  // ---------- state ----------
+  var state = { groups: {}, items: {}, cols: {}, audience: "sponsor", edited: false };
+  // Sponsor default: no data completeness, no participant lists (locked). Internal default: everything on.
+  function applyPreset(name) {
+    var internal = name === "internal";
+    MODEL.forEach(function (g) {
+      state.groups[g.id] = internal ? true : !(g.sponsorOff || g.internalOnly);
+      g.items.forEach(function (it) {
+        state.items[it.id] = internal ? true : !it.sponsorOff;
+        (it.cols || []).forEach(function (c) { state.cols[it.id + ":" + c[0]] = true; });
+      });
+    });
+    state.audience = name;
+    state.edited = false;
+  }
+  function on(itemId) {
+    var g = MODEL.find(function (g) { return g.items.some(function (i) { return i.id === itemId; }); });
+    return state.groups[g.id] && state.items[itemId];
+  }
+  function driven(key) {
+    var hit = false;
+    MODEL.forEach(function (g) { g.items.forEach(function (it) {
+      if ((it.drives || []).indexOf(key) >= 0 && on(it.id)) hit = true; }); });
+    return hit;
+  }
+
+  // ---------- render: files and checks ----------
+  var LABEL = { ok: "Ready", warn: "Note", bad: "Fix", info: "Info" };
+  var fileRows = document.getElementById("file-rows");
+  FILES.forEach(function (f) {
+    var tr = document.createElement("tr");
+    tr.innerHTML = "<td>" + f[0] + "</td><td class='mono'>" + f[1] + "</td><td class='num-r'>" + f[2] +
+      "</td><td>" + f[3] + "</td><td><span class='chip " + f[4] + "'>" + LABEL[f[4]] + "</span></td>";
+    fileRows.appendChild(tr);
+  });
+  var CHECK_LABEL = { ok: "Pass", warn: "Note", bad: "Fix", info: "Info" };
+  var checkList = document.getElementById("check-list");
+  CHECKS.forEach(function (c) {
+    var li = document.createElement("li");
+    li.innerHTML = "<span><span class='chip " + c[0] + "'>" + CHECK_LABEL[c[0]] + "</span></span><span><b>" + c[1] +
+      "</b><br><span class='muted'>" + c[2] + "</span></span>";
+    checkList.appendChild(li);
+  });
+
+  // ---------- render: toggle tree ----------
+  var tree = document.getElementById("tree");
+  function renderTree() {
+    tree.innerHTML = "";
+    MODEL.forEach(function (g) {
+      var box = document.createElement("div");
+      box.className = "group" + (g.warn ? " lists" : "");
+      var head = document.createElement("div");
+      head.className = "group-head";
+      head.innerHTML = "<span class='t'><h3>" + g.name + "</h3><small>" + g.note + "</small></span>";
+      var locked = g.internalOnly && state.audience === "sponsor";
+      if (locked) state.groups[g.id] = false;
+      var sw = document.createElement("button");
+      sw.type = "button"; sw.className = "switch"; sw.setAttribute("role", "switch");
+      sw.setAttribute("aria-checked", String(state.groups[g.id]));
+      sw.setAttribute("aria-label", "Include " + g.name);
+      sw.disabled = locked;
+      sw.addEventListener("click", function () { state.groups[g.id] = !state.groups[g.id]; custom(); renderAll(); });
+      head.appendChild(sw);
+      box.appendChild(head);
+      if (locked) {
+        var lk = document.createElement("p");
+        lk.className = "lock";
+        lk.textContent = "Locked off for sponsors. Choose the Internal audience to include participant lists.";
+        box.appendChild(lk);
+      }
+      var items = document.createElement("div");
+      items.className = "items"; items.hidden = !state.groups[g.id];
+      g.items.forEach(function (it) {
+        var row = document.createElement("div");
+        row.className = "item" + (state.items[it.id] ? "" : " off");
+        var cb = document.createElement("input");
+        cb.type = "checkbox"; cb.id = "i-" + it.id; cb.checked = state.items[it.id];
+        cb.addEventListener("change", function () { state.items[it.id] = cb.checked; custom(); renderAll(); });
+        var span = document.createElement("span");
+        var lab = document.createElement("label");
+        lab.htmlFor = cb.id; lab.textContent = it.name;
+        span.appendChild(lab);
+        if (it.cols && state.items[it.id]) {
+          var cols = document.createElement("div");
+          cols.className = "cols";
+          it.cols.forEach(function (c) {
+            var key = it.id + ":" + c[0];
+            var l = document.createElement("label");
+            var ccb = document.createElement("input");
+            ccb.type = "checkbox"; ccb.id = "c-" + key.replace(/\W+/g, "-"); ccb.checked = state.cols[key];
+            ccb.addEventListener("change", function () { state.cols[key] = ccb.checked; custom(); renderAll(); });
+            l.appendChild(ccb); l.appendChild(document.createTextNode(c[0]));
+            cols.appendChild(l);
+          });
+          span.appendChild(cols);
+        }
+        row.appendChild(cb); row.appendChild(span);
+        items.appendChild(row);
+      });
+      box.appendChild(items);
+      tree.appendChild(box);
+    });
+  }
+
+  // ---------- render: page-1 preview ----------
+  var paper = document.getElementById("paper");
+  function renderPreview() {
+    var html = "<div class='p-eyebrow'>Cleo Diagnostics · CSP-01-001</div>" +
+      "<div class='p-title'>Monthly trial summary: July 2026</div>" +
+      "<div class='p-meta'>Data to 31 July 2026. Citrus export 03 Aug 2026. Central lab inventory report 03AUG2026.</div>" +
+      "<div class='p-draft'>" + (state.audience === "sponsor" ? "DRAFT FOR REVIEW. Check every figure before sending to the sponsor." :
+        "INTERNAL VERSION. Not for the sponsor.") + "</div><hr>";
+    var p1 = state.groups.page1;
+    if (p1 && state.items.tiles) {
+      var t = Object.keys(TILES).filter(function (k) { return driven("t:" + k); });
+      if (t.length) html += "<div class='tiles'>" + t.map(function (k) { var v = TILES[k];
+        return "<div class='tile'><b>" + v[0] + "</b><span>" + v[1] + "</span><small>" + v[2] + "</small></div>"; }).join("") + "</div>";
+    }
+    if (p1 && state.items.highlights) {
+      var h = Object.keys(HIGHLIGHTS).filter(function (k) { return driven("h:" + k); });
+      html += "<h4>Highlights</h4>" + (h.length ? "<ul>" + h.map(function (k) { return "<li>" + HIGHLIGHTS[k] + "</li>"; }).join("") + "</ul>"
+        : "<p class='empty'>No highlights: every linked table is off.</p>");
+    }
+    if (p1 && state.items.attention) {
+      var a = Object.keys(ACTIONS).filter(function (k) { return driven("a:" + k); });
+      if (a.length) html += "<h4>Needs attention</h4><ul>" + a.map(function (k) { return "<li>" + ACTIONS[k] + "</li>"; }).join("") + "</ul>";
+    }
+    var sections = MODEL.filter(function (g) { return g.id !== "page1" && g.id !== "lists" && state.groups[g.id] &&
+      g.items.some(function (i) { return state.items[i.id]; }); });
+    html += "<h4>In this summary</h4><div class='contents'>" + (sections.length ? sections.map(function (g) {
+      var n = g.items.filter(function (i) { return state.items[i.id]; }).length;
+      return "<div><span>" + g.name + "</span><span>" + n + (n === 1 ? " table" : " tables") + "</span></div>"; }).join("") :
+      "<p class='empty'>No sections selected.</p>") + "</div>";
+    paper.innerHTML = html;
+
+    var tables = 0, total = 0;
+    MODEL.forEach(function (g) { if (g.id === "page1") return; g.items.forEach(function (i) { total++; if (on(i.id)) tables++; }); });
+    var lists = state.groups.lists && MODEL[MODEL.length - 1].items.some(function (i) { return state.items[i.id]; });
+    document.getElementById("counts").innerHTML = "<b>" + tables + " of " + total + "</b> tables included · Participant lists <b>" +
+      (lists ? "on" : "off") + "</b>";
+  }
+
+  // ---------- presets ----------
+  var btns = { sponsor: document.getElementById("p-sponsor"), internal: document.getElementById("p-internal") };
+  var editedNote = document.getElementById("edited");
+  function paintPreset() {
+    Object.keys(btns).forEach(function (k) { btns[k].setAttribute("aria-pressed", String(state.audience === k)); });
+    editedNote.hidden = !state.edited;
+  }
+  function custom() { state.edited = true; }
+  btns.sponsor.addEventListener("click", function () { applyPreset("sponsor"); renderAll(); });
+  btns.internal.addEventListener("click", function () { applyPreset("internal"); renderAll(); });
+
+  function renderAll() { renderTree(); renderPreview(); paintPreset(); }
+
+  // ---------- prototype-only buttons ----------
+  var notice = document.getElementById("proto-notice");
+  document.querySelectorAll("[data-proto]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var msg = b.getAttribute("data-proto");
+      if (msg === "download") { notice.hidden = false; return; }
+      var note = b.parentNode.querySelector(".proto-msg");
+      if (!note) { note = document.createElement("span"); note.className = "hint proto-msg"; note.setAttribute("role", "status"); b.after(note); }
+      note.textContent = msg;
+    });
+  });
+
+  applyPreset("sponsor");
+  renderAll();
+})();
+</script>
